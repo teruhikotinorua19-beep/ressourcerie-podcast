@@ -1,0 +1,30 @@
+{
+  "_lisez_moi": "Profil et sources de la veille. Réécrit le 2026-10-19 pour un professeur d'histoire-géographie-EMC. missions = qui je suis et ce que j'enseigne ; criteres = ce qu'il faut garder ou écarter (Claude s'appuie sur les deux pour noter). Type de source : rss | hal | openalex. Une source n'est interrogée que si actif = true. Pour ajouter un flux : bouton ⚙ Sources dans l'app, ou python3.13 veille.py --ajouter-source URL --nom NOM. Pièges : JSON strict (pas de virgule finale, pas de commentaire), guillemets droits obligatoires ; fenetre_jours n'est utile que pour une source lente ; requêtes HAL/OpenAlex courtes, sinon bruit. Éduscol (403, bloque les robots) et Lumni (pas de flux) ne peuvent pas être suivis automatiquement.",
+  "profil": {
+    "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
+    "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
+    "fenetre_defaut_jours": 30,
+    "max_retenus": 15,
+    "score_minimum": 55,
+    "purge_apres_jours": 180
+  },
+  "sources": [
+    {"id": "geoconfluences", "nom": "Géoconfluences", "type": "rss", "actif": true, "url": "https://geoconfluences.ens-lyon.fr/rss.xml", "max": 15, "fenetre_jours": 90},
+    {"id": "mappemonde", "nom": "Mappemonde", "type": "rss", "actif": true, "url": "https://journals.openedition.org/mappemonde/backend?format=rssdocuments", "max": 10, "fenetre_jours": 120},
+    {"id": "echogeo", "nom": "EchoGéo", "type": "rss", "actif": true, "url": "https://journals.openedition.org/echogeo/backend?format=rssdocuments", "max": 10, "fenetre_jours": 120},
+    {"id": "cybergeo", "nom": "Cybergeo", "type": "rss", "actif": false, "url": "https://journals.openedition.org/cybergeo/backend?format=rssdocuments", "max": 10, "fenetre_jours": 120},
+    {"id": "clionautes", "nom": "Les Clionautes", "type": "rss", "actif": true, "url": "https://www.clionautes.org/feed", "max": 20},
+    {"id": "aggiornamento", "nom": "Aggiornamento hist-géo", "type": "rss", "actif": true, "url": "https://aggiornamento.hypotheses.org/feed", "max": 20, "fenetre_jours": 120},
+    {"id": "theconversation-histoire", "nom": "The Conversation — Histoire", "type": "rss", "actif": true, "url": "https://theconversation.com/fr/histoire/articles.atom", "max": 25},
+    {"id": "theconversation-environnement", "nom": "The Conversation — Environnement", "type": "rss", "actif": true, "url": "https://theconversation.com/fr/environnement/articles.atom", "max": 25},
+    {"id": "theconversation", "nom": "The Conversation — Éducation", "type": "rss", "actif": true, "url": "https://theconversation.com/fr/education/articles.atom", "max": 25},
+    {"id": "hal", "nom": "HAL", "type": "hal", "actif": true, "max_par_requete": 8,
+     "requetes": ["didactique de l'histoire", "didactique de la géographie", "enseignement moral et civique", "risques Pacifique insularité", "Polynésie française histoire", "intelligence artificielle éducation"]},
+    {"id": "openalex", "nom": "OpenAlex", "type": "openalex", "actif": true, "max_par_requete": 8,
+     "requetes": ["history education secondary school", "geography education secondary school", "French Polynesia", "generative AI secondary education"]},
+    {"id": "cafepeda", "nom": "Café pédagogique", "type": "rss", "actif": true, "url": "https://www.cafepedagogique.net/feed/", "max": 20},
+    {"id": "ludomag", "nom": "Ludomag", "type": "rss", "actif": true, "url": "https://www.ludomag.com/feed/", "max": 20},
+    {"id": "cnil", "nom": "CNIL", "type": "rss", "actif": true, "url": "https://www.cnil.fr/fr/rss.xml", "max": 20},
+    {"id": "eduveille", "nom": "Éduveille", "type": "rss", "actif": true, "url": "https://eduveille.hypotheses.org/feed", "max": 20, "fenetre_jours": 90}
+  ]
+}

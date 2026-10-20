@@ -1,0 +1,42 @@
+# Publie le podcast sur GitHub Pages à chaque épisode.
+# La routine Claude pousse soit sur main, soit sur une branche claude/… :
+# dans ce cas on fusionne d'abord dans main (la routine suivante repart de
+# main, c'est là que vit la mémoire etat/vus.json).
+name: Publier le podcast
+on:
+  push:
+    branches: [main, "claude/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: publier
+  cancel-in-progress: false
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Fusionner la branche claude/… dans main
+        if: startsWith(github.ref_name, 'claude/')
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git fetch origin "${{ github.ref_name }}"
+          git merge --no-edit "origin/${{ github.ref_name }}"
+          git push origin main
+          git push origin --delete "${{ github.ref_name }}"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploiement
+        uses: actions/deploy-pages@v4
