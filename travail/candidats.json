@@ -1,0 +1,164 @@
+{
+ "genere": "2026-10-20T17:37+00:00",
+ "profil": {
+  "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
+  "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
+  "score_minimum": 55,
+  "max_retenus": 15
+ },
+ "items": [
+  {
+   "uid": "fc3004798af86796",
+   "titre": "IA et devoirs à la maison : l’ENS cherche des enseignants de Première pour une expérimentation",
+   "source": "Les Clionautes",
+   "date": "2026-10-20",
+   "auteurs": "William Brou",
+   "url": "https://www.clionautes.org/ia-devoirs-maison-experimentation.html",
+   "resume": "Le programme IDEE de l’École normale supérieure recherche des professeurs d’histoire-géographie de Première volontaires pour co-concevoir une courte expérimentation en classe. La question posée nous concerne tous : que devient le devoir maison quand une IA peut le rédiger en quelques secondes ? Nous relayons cet appel de Marc Gurgand, professeur à l’École normale supérieure […]"
+  },
+  {
+   "uid": "09dbf8a89c0e338e",
+   "titre": "Ukraine : une guerre sans fin ?",
+   "source": "Les Clionautes",
+   "date": "2026-10-20",
+   "auteurs": "Christine Valdois",
+   "url": "https://www.clionautes.org/ukraine-une-guerre-sans-fin.html",
+   "resume": "Cette table ronde examine les origines du conflit actuel, les objectifs poursuivis par la Russie, les capacités de résistance de l’Ukraine et les enjeux pour l’Union européenne. Elle aborde également le rôle des États-Unis, la position de la Chine, l’efficacité des sanctions économiques, les capacités militaires européennes et les perspectives d’évolution du conflit. I – […]"
+  },
+  {
+   "uid": "e94f305bc9365a2e",
+   "titre": "Les séries de Monet, méditations sur le temps",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/les-series-de-monet-meditations-sur-le-temps-293564",
+   "resume": "Comment la peinture peut-elle saisir le temps ? Et de quel(s) temps s’agit-il ? Avec ses nombreuses séries, l’œuvre de Monet se prête particulièrement à cette réflexion."
+  },
+  {
+   "uid": "007ee808812accb2",
+   "titre": "De la dénonciation du soviétisme à une série glorifiant Staline : l’itinéraire emblématique de Vladimir Bortko en Russie",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/de-la-denonciation-du-sovietisme-a-une-serie-glorifiant-staline-litineraire-emblematique-de-vladimir-bortko-en-russie-293630",
+   "resume": "Vladimir Bortko, détracteur du soviétisme pendant la perestroïka, célèbre désormais Staline et souhaite que la Russie frappe l’Ukraine avec ses armes nucléaires."
+  },
+  {
+   "uid": "e06f8e5a0b1a6307",
+   "titre": "Notre paie s’appelle un « salaire », mais est-ce vraiment parce que les soldats romains étaient payés en sel ?",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/notre-paie-sappelle-un-salaire-mais-est-ce-vraiment-parce-que-les-soldats-romains-etaient-payes-en-sel-292155",
+   "resume": "Le mot « salaire » vient-il du sel versé aux soldats romains ? Si cette idée est largement répandue, les sources historiques montrent qu’ils étaient en réalité payés en pièces de monnaie et recevaient même des primes."
+  },
+  {
+   "uid": "c9fdd7dfeabad009",
+   "titre": "Comment les déjections d’oiseaux ont façonné l’agriculture moderne et contribué à l’expansion de l’empire américain",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/comment-les-dejections-doiseaux-ont-faconne-lagriculture-moderne-et-contribue-a-lexpansion-de-lempire-americain-288944",
+   "resume": "L’histoire du guano, premier engrais mondialisé, montre comment l’agriculture moderne s’est construite grâce à des chaînes d’approvisionnement internationales, au prix de l’exploitation de travailleurs."
+  },
+  {
+   "uid": "eafece0b2be1d771",
+   "titre": "L’histoire de l’enfance : une clé pour comprendre comment change la société française, entre infantisme et nouveaux droits",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/lhistoire-de-lenfance-une-cle-pour-comprendre-comment-change-la-societe-francaise-entre-infantisme-et-nouveaux-droits-294522",
+   "resume": "Si les cadres familiaux et éducatifs ont évolué, si les enfants disposent de droits et ne travaillent plus à la mine, leur « cause » est encore loin d’être inattaquable et inattaquée."
+  },
+  {
+   "uid": "c6c401ea7fa4b349",
+   "titre": "Quand les riches Anglais profitaient de la Révolution française pour s’emparer des livres rares",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/quand-les-riches-anglais-profitaient-de-la-revolution-francaise-pour-semparer-des-livres-rares-294195",
+   "resume": "Pendant la Révolution française, de riches collectionneurs anglais ont profité du démantèlement des monastères pour acquérir des livres rares, parfois sous la contrainte ou par le vol. Une enquête révèle les origines troubles de leurs collections."
+  },
+  {
+   "uid": "fdc390ff8e21d646",
+   "titre": "Christophe Colomb se croyait investi d’une mission divine, comme le révèlent ses écrits",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/christophe-colomb-se-croyait-investi-dune-mission-divine-comme-le-revelent-ses-ecrits-293955",
+   "resume": "Christophe Colomb se croyait investi d’une mission divine. Ses écrits révèlent comment la volonté de convertir les peuples autochtones au christianisme a accompagné, dès 1492, la conquête et la colonisation des Amériques."
+  },
+  {
+   "uid": "386ef9ce7a6d23fb",
+   "titre": "Les plus modestes sont plus sensibles aux incitations écologiques, même si cela leur coûte plus cher",
+   "source": "The Conversation — Environnement",
+   "date": "2026-10-20",
+   "auteurs": "",
+   "url": "https://theconversation.com/les-plus-modestes-sont-plus-sensibles-aux-incitations-ecologiques-meme-si-cela-leur-coute-plus-cher-293965",
+   "resume": "Si l’on propose un contrat d’électricité vert par défaut, les plus précaires garderont davantage cette option, même si elle leur coûte plus cher qu’un contrat standard."
+  },
+  {
+   "uid": "df51078b94d7ebe5",
+   "titre": "Quel est l’âge du capitaine ? Intelligence artificielle, classification automatique et interprétation littéraire",
+   "source": "HAL",
+   "date": "2026-10-20",
+   "auteurs": "Baptiste Bohet",
+   "url": "https://hal.science/hal-05823638v1",
+   "resume": ""
+  },
+  {
+   "uid": "82079082ffe91e10",
+   "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
+   "source": "HAL",
+   "date": "2026-10-20",
+   "auteurs": "Tamatoa Bambridge",
+   "url": "https://hal.science/hal-05820763v1",
+   "resume": "Adoptant une perspective anthropo-historique, nous analysons les normes anciennes relatives à l’usage, l’accès, et à la régulation des relations sur le lagon en pays Maohi connu aujourd’hui sous l’appellation de la Polynésie française. Dans un second temps, nous analysons l’interaction entre droit étatique et normes locales en montrant que l’intégration des normes culturelles s’est faite sur le mode de l’incorporation. Cette dynamique a conduit au développement d’un pluralisme juridique en matière d’appropriation des lagons, similaire à celui observé dans le domaine foncier dans l’archipel des Australes de Polynésie française et en Micronésie."
+  },
+  {
+   "uid": "4c6b19abe3ceb95c",
+   "titre": "The observing with adaptive optics school: training the next generation of AO scientists and engineers",
+   "source": "HAL",
+   "date": "2026-10-20",
+   "auteurs": "B. Neichel, L. Busoni, Vincent Chambouleyron, Mary Angelie Alagao",
+   "url": "https://hal.science/hal-05794085v1",
+   "resume": "Adaptive optics (AO) has become an indispensable technology for modern ground-based astronomy and optical engineering. However, the combination of theoretical depth, practical instrumentation skills, and system-level understanding required to master AO is rarely accessible within standard academic curricula. To address this gap, we established the “Observing with Adaptive Optics” School, an international training program for early-career researchers. The school provides a unique immersive experience that integrates lectures by international experts, hands-on laboratory sessions on a dedicated AO bench (PAPYRUS), and real on-sky observations at a professional observatory. Over its first two e"
+  },
+  {
+   "uid": "85b79bfa252d4468",
+   "titre": "Cantine, côté adultes : regards sur les relations professionnelles à l’école",
+   "source": "Éduveille",
+   "date": "2026-10-20",
+   "auteurs": "Marie Gaussel",
+   "url": "https://eduveille.hypotheses.org/24875",
+   "resume": "Le premier numéro d’Édudébat, « À la cantine, tout ne se joue pas dans l’assiette » (Gaussel, 2026), invitait à regarder la restauration scolaire au-delà de ce que l’on sert aux élèves. Ce billet prolonge cette réflexion en s’intéressant aux relations entre adultes qui travaillent à l’école."
+  },
+  {
+   "uid": "fd6ec3611806d748",
+   "titre": "Le système vocalique du picard du bassin minier. Identités, standard et variations d'une langue peu dotée",
+   "source": "HAL",
+   "date": "2026-10-19",
+   "auteurs": "Irvine Descout",
+   "url": "https://dumas.ccsd.cnrs.fr/dumas-05807232v1",
+   "resume": "Ce mémoire entend concourir à la documentation linguistique du picard tel qu’il est parlé au sein du bassin minier du Nord-Pas-de-Calais, notamment à travers la reconstitution d’un inventaire vocalique. Le développement d’outils de traitement automatique du langage (TAL) constitue une opportunité pour les langues peu dotées que sont les langues régionales de France, parmi lesquelles le picard. Cependant, l’outillage de ces dernières est un défi : peu de données disponibles, pas de standardisation, vitalité souvent menacée. Ce mémoire propose de contribuer aux définitions de variété et de variation au sein du domaine linguistique picard, à travers une documentation : - phonologique des voyell"
+  },
+  {
+   "uid": "2bc49a6ee4fa1362",
+   "titre": "INFLUENCE OF SOCIAL PRACTICES OF THE BAKA PEOPLE ON THE IMPLEMENTATION OF GEOGRAPHY CURRICULUM IN SECONDARY SCHOOLS IN THE EAST REGION OF CAMEROON",
+   "source": "OpenAlex",
+   "date": "2026-10-19",
+   "auteurs": "Esamazo Walters Azee, Yaro Loveline, Frida M. Mbounda",
+   "url": "https://doi.org/10.5281/zenodo.23478527",
+   "resume": "Abstract The Baka people, an indigenous forest community in Cameroon's East Region, hold a distinct body of social practices, ecological knowledge, and cultural values shaped by their historical relationship with the forest environment. This study examines the influence of social practices of the Baka people on the implementation of the geography curriculum in schools within the East Region of Cameroon. The study adopted a mixed-methods research design, combining quantitative and qualitative approaches. The target population comprised of Geography teachers and students especially Baka students enrolled in secondary schools in selected Baka community of the East region in the study area. Two "
+  },
+  {
+   "uid": "6830562e385d39ac",
+   "titre": "A Systematic Review of Pedagogical Challenges in Mathematics Instruction in Geographically Isolated and Disadvantaged Areas (GIDA) Schools",
+   "source": "OpenAlex",
+   "date": "2026-10-19",
+   "auteurs": "Melvin Verdadero, Mark Joseph D. Pastor",
+   "url": "https://doi.org/10.54536/ajet.v5i4.8041",
+   "resume": "Research on mathematics instruction in Geographically Isolated and Disadvantaged Areas (GIDA) remains fragmented, as studies tend to examine single barriers, treat rural education generally, or focus on primary-level and multigrade settings. This systematic review offers an integrated, mathematics-specific synthesis of pedagogical challenges at the secondary level in GIDA, rural, remote, and disadvantaged schools. Following PRISMA 2020, we searched Google Scholar for peer-reviewed, English-language empirical studies; after screening and eligibility checks ([n] records identified, [n] screened, [n] excluded), eleven studies published between 2021 and 2025 were analysed using content analysis."
+  }
+ ]
+}
