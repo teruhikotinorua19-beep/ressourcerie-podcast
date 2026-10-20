@@ -9,6 +9,10 @@ Ressourcerie du Mac, importés de `veille.py`), écarte ce qui a déjà été vu
 Ne note RIEN : la notation est faite par l'agent de la routine (voir
 CONSIGNES.md), pas par un appel `claude -p`.
 
+Lancé chaque matin par GitHub Actions (.github/workflows/collecter.yml) : le
+réseau de l'environnement cloud de Claude bloque les sites des sources, celui
+de GitHub non. Le fichier produit est committé pour que la routine le lise.
+
     python3 collecte.py
 """
 import json, sys
@@ -51,6 +55,7 @@ def main():
 
     CANDIDATS.parent.mkdir(exist_ok=True)
     V.ecrire_json(CANDIDATS, {
+        "genere": V.maintenant().isoformat(timespec="minutes"),
         "profil": {k: profil.get(k) for k in ("missions", "criteres", "score_minimum", "max_retenus")},
         "items": candidats,
     }, indent=1)

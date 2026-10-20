@@ -1,4 +1,5 @@
-travail/
+travail/*
+!travail/candidats.json
 __pycache__/
 *.tmp
 .DS_Store

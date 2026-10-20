@@ -2,14 +2,15 @@
 
 Tu fabriques l'épisode quotidien du podcast de veille d'un professeur d'histoire-géographie-EMC en Polynésie française. Il l'écoute vers 6 h 40, heure de Tahiti. Suis les étapes dans l'ordre. Ne modifie ni le code, ni `veille_sources.json`, ni `podcast.json`, ni `voix/`.
 
-## 1. Installer et collecter
+## 1. Installer et lire les candidats
 
 ```bash
 pip install -q -r requirements.txt
-python3 collecte.py
 ```
 
-`collecte.py` écrit `travail/candidats.json` : le profil (`missions`, `criteres`, `score_minimum`, `max_retenus`) et les nouveautés jamais vues (`uid`, `titre`, `source`, `date`, `auteurs`, `url`, `resume`). Si une source échoue, continue avec les autres.
+La collecte n'est PAS faite par toi : le réseau de ton environnement bloque les sites des sources. GitHub Actions l'a faite vers 5 h 20 (heure de Tahiti) et a committé `travail/candidats.json` : le champ `genere` (date UTC), le profil (`missions`, `criteres`, `score_minimum`, `max_retenus`) et les nouveautés jamais vues (`uid`, `titre`, `source`, `date`, `auteurs`, `url`, `resume`).
+
+Vérifie `genere` : s'il date de plus de 20 heures (la collecte du jour a échoué), considère qu'il n'y a aucun candidat et passe directement à l'épisode de rappel décrit plus bas. Ignore aussi tout candidat dont l'`uid` figure déjà dans `etat/vus.json`. N'essaie pas de lancer `collecte.py` toi-même.
 
 ## 2. Noter et choisir (c'est toi qui le fais)
 
@@ -58,4 +59,4 @@ git push origin HEAD:main || git push origin HEAD
 
 ## En cas de problème
 
-Si une étape échoue (installation de Piper, collecte entièrement vide à cause du réseau, push refusé), ne contourne pas en modifiant le code. Termine en expliquant précisément ce qui a échoué, avec le message d'erreur.
+Une collecte vide ou périmée n'est PAS un échec : c'est un épisode de rappel. Si une autre étape échoue (installation de Piper, `episode.py`, push refusé), ne contourne pas en modifiant le code. Termine en expliquant précisément ce qui a échoué, avec le message d'erreur.

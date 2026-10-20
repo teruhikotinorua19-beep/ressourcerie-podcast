@@ -1,0 +1,29 @@
+# Collecte du matin : interroge les sources et committe travail/candidats.json.
+# Elle tourne ici parce que l'environnement cloud de Claude n'a pas accès aux
+# sites des sources. La routine Claude (6 h 05, heure de Tahiti) lit ce fichier.
+# GitHub peut retarder un cron de plusieurs dizaines de minutes : on part tôt.
+name: Collecter les nouveautés
+on:
+  schedule:
+    - cron: "20 15 * * *"   # 5 h 20 à Tahiti
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: collecter
+jobs:
+  collecter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python collecte.py
+      - name: Committer les candidats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -f travail/candidats.json
+          git commit -m "Candidats du $(TZ=Pacific/Tahiti date +%Y-%m-%d)" || exit 0
+          git push
