@@ -1,11 +1,13 @@
 # Podcast de veille HG-EMC — Ressourcerie
 
-Chaque matin vers 6 h (heure de Tahiti), une routine Claude dans le cloud :
+Chaque matin (heure de Tahiti) :
 
-1. collecte les nouveautés des sources (`collecte.py`, collecteurs repris de la Ressourcerie du Mac) ;
-2. note et choisit les articles, écrit le script (voir `CONSIGNES.md`) ;
-3. fait lire le script par Piper, voix française libre (`episode.py`) ;
-4. publie l'épisode et le flux `docs/feed.xml` sur GitHub Pages (`.github/workflows/publier.yml`).
+1. 5 h 20 — GitHub Actions collecte les nouveautés (`collecte.py`, `.github/workflows/collecter.yml`) et committe `travail/candidats.json` (le réseau du cloud Claude bloque les sources) ;
+2. 6 h 05 — une routine Claude note et choisit les articles, écrit le script (voir `CONSIGNES.md`) ;
+3. Piper lit le script, voix française libre (`episode.py`) ;
+4. l'épisode et le flux `docs/feed.xml` partent sur GitHub Pages (`.github/workflows/publier.yml`).
+
+L'app Claude GitHub doit avoir accès à ce dépôt (sinon push refusé en 403).
 
 S'abonner : Apple Podcasts → Bibliothèque → « … » → « Suivre un podcast par URL » → `<base_url>/feed.xml` (voir `podcast.json`).
 
