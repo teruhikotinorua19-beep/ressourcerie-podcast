@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-10-21.mp3",
+  "date": "2026-10-21",
+  "pubdate": "Wed, 21 Oct 2026 06:08:45 -1000",
+  "titre": "Veille du 21 octobre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:01:22",
+  "taille": 659539,
+  "items": [
+   {
+    "uid": "82079082ffe91e10",
+    "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
+    "url": "https://hal.science/hal-05820763v1",
+    "source": "HAL",
+    "score": 82,
+    "raison": "Les normes anciennes sur l'usage des lagons en Polynésie croisent le droit d'aujourd'hui : un cas local pour le littoral en sixième et pour le droit en EMC."
+   },
+   {
+    "uid": "fdc390ff8e21d646",
+    "titre": "Christophe Colomb se croyait investi d’une mission divine, comme le révèlent ses écrits",
+    "url": "https://theconversation.com/christophe-colomb-se-croyait-investi-dune-mission-divine-comme-le-revelent-ses-ecrits-293955",
+    "source": "The Conversation — Histoire",
+    "score": 78,
+    "raison": "Les écrits de Colomb montrent le lien entre conversion et conquête dès 1492 : une source pour l'ouverture atlantique en seconde."
+   },
+   {
+    "uid": "c9fdd7dfeabad009",
+    "titre": "Comment les déjections d’oiseaux ont façonné l’agriculture moderne et contribué à l’expansion de l’empire américain",
+    "url": "https://theconversation.com/comment-les-dejections-doiseaux-ont-faconne-lagriculture-moderne-et-contribue-a-lexpansion-de-lempire-americain-288944",
+    "source": "The Conversation — Histoire",
+    "score": 75,
+    "raison": "Le guano, premier engrais mondialisé, illustre chaînes d'approvisionnement et exploitation des travailleurs : utile en première et pour la mondialisation en seconde."
+   },
+   {
+    "uid": "fc3004798af86796",
+    "titre": "IA et devoirs à la maison : l’ENS cherche des enseignants de Première pour une expérimentation",
+    "url": "https://www.clionautes.org/ia-devoirs-maison-experimentation.html",
+    "source": "Les Clionautes",
+    "score": 72,
+    "raison": "L'ENS cherche des professeurs de Première pour une expérimentation sur le devoir maison à l'heure de l'IA : une occasion de t'engager et de réfléchir à tes pratiques."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-20.mp3",
   "date": "2026-10-20",
   "pubdate": "Tue, 20 Oct 2026 23:19:03 -1000",
