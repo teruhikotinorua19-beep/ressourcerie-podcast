@@ -5,7 +5,7 @@ Tu fabriques l'épisode quotidien du podcast de veille d'un professeur d'histoir
 ## 1. Installer et lire les candidats
 
 ```bash
-pip install -q -r requirements.txt
+python3 -m pip install -q -r requirements.txt
 ```
 
 La collecte n'est PAS faite par toi : le réseau de ton environnement bloque les sites des sources. GitHub Actions l'a faite vers 5 h 20 (heure de Tahiti) et a committé `travail/candidats.json` : le champ `genere` (date UTC), le profil (`missions`, `criteres`, `score_minimum`, `max_retenus`) et les nouveautés jamais vues (`uid`, `titre`, `source`, `date`, `auteurs`, `url`, `resume`).
