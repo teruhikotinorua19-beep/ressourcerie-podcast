@@ -40,6 +40,10 @@ def main():
         V.maintenant() - timedelta(days=int(profil.get("fenetre_defaut_jours", 30))))
     journal = [f"Fenêtre : depuis le {depuis.date().isoformat()}"]
     bruts = V.collecter(conf, depuis, journal)
+    if not bruts and CANDIDATS.exists():
+        # Aucune source joignable (réseau bloqué) : on garde la dernière collecte.
+        print("\n".join(journal))
+        sys.exit("Aucune source n'a répondu : travail/candidats.json est conservé tel quel.")
 
     candidats, ce_lot = [], set()
     for it in bruts:
