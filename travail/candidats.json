@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-21T15:51+00:00",
+ "genere": "2026-10-22T15:50+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,58 +8,121 @@
  },
  "items": [
   {
-   "uid": "ae8ac710383f3e5d",
-   "titre": "Prix de l’électricité nucléaire : les dessous du mécanisme envisagé par l’État pour les nouveaux EPR2",
+   "uid": "3f1941930ec4bbbd",
+   "titre": "Ressources pédagogiques de l’Insee : consultation des enseignants",
+   "source": "Les Clionautes",
+   "date": "2026-10-22",
+   "auteurs": "William Brou",
+   "url": "https://www.clionautes.org/ressources-pedagogiques-insee-questionnaire.html",
+   "resume": "L’Insee lance une consultation auprès des enseignants pour savoir comment ils utilisent, ou n’utilisent pas, ses ressources pédagogiques. Le questionnaire est ouvert à plusieurs disciplines, dont l’histoire-géographie. Quelques minutes suffisent, et votre réponse compte même si vous n’avez jamais ouvert insee.fr. Pourquoi répondre ? Pyramides des âges, données sur les territoires, cartographie interactive : l’Insee […]"
+  },
+  {
+   "uid": "ae0bb1f232bf4700",
+   "titre": "Naissance des paysages sous-marins",
+   "source": "Les Clionautes",
+   "date": "2026-10-22",
+   "auteurs": "Adeline Abrioux Duong",
+   "url": "https://www.clionautes.org/naissance-des-paysages-sous-marins.html",
+   "resume": "Lola Guyon est géographe de formation. Elle s’est spécialisée au fil des années sur les thématiques littorales : des perceptions des plages aux risques côtiers. Elle est actuellement en fin de doctorat à l’Université de Bretagne Occidentale sur la thématique des paysages sous-marins en contexte turbide. Ses travaux s’inscrivent en géographie humaine, sur des questions […]"
+  },
+  {
+   "uid": "42446520d4d9aef7",
+   "titre": "Quand les paysages nous prennent au corps",
+   "source": "Les Clionautes",
+   "date": "2026-10-22",
+   "auteurs": "Romain Ducornet",
+   "url": "https://www.clionautes.org/quand-les-paysages-nous-prennent-au-corps.html",
+   "resume": "Comment comprendre et partager les ressentis et les attachements des habitants face aux paysages ? Une vaste enquête scientifique et artistique, transdisciplinaire et participative, a tenté de répondre à cette question en s’intéressant au rapport à la mer d’habitants de Crozon. avec Caroline GUITTET, Laurence LE DU (absente), géographes, Mathilde CHADEAU, metteuse en scène, dramaturge […]"
+  },
+  {
+   "uid": "78fd23ab432252f8",
+   "titre": "Qu’est-ce qu’une forêt ? Pourquoi cette question est bien plus complexe qu’il n’y paraît",
    "source": "The Conversation — Environnement",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "auteurs": "",
-   "url": "https://theconversation.com/prix-de-lelectricite-nucleaire-les-dessous-du-mecanisme-envisage-par-letat-pour-les-nouveaux-epr2-294176",
-   "resume": "Pour financer les six futurs réacteurs nucléaires EPR2, la France a proposé à l’Union européenne un mécanisme financier inédit : le « contrat pour différence »."
+   "url": "https://theconversation.com/quest-ce-quune-foret-pourquoi-cette-question-est-bien-plus-complexe-quil-ny-parait-294311",
+   "resume": "Il existe au moins 1 000 définitions du mot « forêt ». Définir ce qu’est une forêt demeure très important. Cela permet de savoir ce que l’on promeut sur le plan économique, écologique ou climatique."
   },
   {
-   "uid": "91a8db70b4f3f0cf",
-   "titre": "Face à l’autisme, les grands-parents, des soutiens précieux pour les familles",
+   "uid": "b5e04a691af7c9c7",
+   "titre": "Pourquoi nous avons de plus en plus de mal à lire des textes longs – et comment entretenir cette capacité",
    "source": "The Conversation — Éducation",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "auteurs": "",
-   "url": "https://theconversation.com/face-a-lautisme-les-grands-parents-des-soutiens-precieux-pour-les-familles-292286",
-   "resume": "En France, les grands-parents d’enfants autistes jouent un rôle majeur auprès de leur famille, mais restent encore peu reconnus par les équipes soignantes."
+   "url": "https://theconversation.com/pourquoi-nous-avons-de-plus-en-plus-de-mal-a-lire-des-textes-longs-et-comment-entretenir-cette-capacite-293870",
+   "resume": "Quelles sont les conditions essentielles à préserver pour que la lecture reste un moyen pour chacun de se construire et de donner forme à son expérience ?"
   },
   {
-   "uid": "ebead5f3f2e54251",
-   "titre": "Combien coûte un élève en France ?",
-   "source": "The Conversation — Éducation",
-   "date": "2026-10-21",
-   "auteurs": "",
-   "url": "https://theconversation.com/combien-coute-un-eleve-en-france-293993",
-   "resume": "En 2025, la dépense moyenne annuelle s’établit à 9 440 euros par élève pour le premier degré, 11 780 euros pour le second degré et à 13 350 euros pour le supérieur."
+   "uid": "a12532dd6c698472",
+   "titre": "Les figures de la contextualisation dans l’enseignement de l’histoire-géographie à partir des pratiques déclarées des enseignant.e.s",
+   "source": "HAL",
+   "date": "2026-10-22",
+   "auteurs": "Sylvain Genevois, Pierre-Éric Fageol",
+   "url": "https://hal.science/hal-05835083v1",
+   "resume": "Cette proposition de communication s’inscrit dans le cadre du projet de recherche HGContext porté par le laboratoire ICARE de l’Université de La Réunion, concernant l’enseignement de l’histoire-géographie en contexte ultra-marin. Un questionnaire d’enquête sur les pratiques enseignantes a été passé en 2017, puis renouvelé en 2023 dans le but d’appréhender la mise en oeuvre des adaptations des programmes nationaux et la prise en compte des spécificités des départements d’Outre-mer (Genevois & Fageol, 2020). L’analyse des réponses à ces deux questionnaires a permis d’infléchir l’approche, d’une logique d’adaptation (référée au curriculum prescrit) vers une logique de contextualisation (dans le"
   },
   {
-   "uid": "abc69eb6b61c2bee",
-   "titre": "Comment changer l'école ?",
-   "source": "The Conversation — Éducation",
-   "date": "2026-10-21",
-   "auteurs": "",
-   "url": "https://theconversation.com/comment-changer-lecole-294919",
-   "resume": "Comment changer l'école ? Dans Le Grand Entretien, une spécialiste des mathématiques et des questions éducatives partage son expertise : Laure Saint-Raymond, professeure au Collège de France et membre de l’Académie des sciences depuis 2013."
+   "uid": "23e9e998081ad3ca",
+   "titre": "Nommer les établissements scolaires dans les outre-mers français : mémoires postcoloniales et identités collectives. Une étude exploratoire à La Réunion et en Nouvelle-Calédonie",
+   "source": "HAL",
+   "date": "2026-10-22",
+   "auteurs": "Cédric Hossen, Séverine Ferrière",
+   "url": "https://hal.science/hal-05835141v1",
+   "resume": "Une récente note du Conseil d’évaluation de l’École (Le Cam et Touahir, 2024) dresse un portrait saisissant de la dénomination des établissements scolaire en France : 43 % des écoles publiques et environ 80 % des collèges et lycées portent le nom d’une personnalité, très majoritairement masculine (78 à 85 % selon le degré) et de nationalité française (89 à 91 % des cas), principalement rattachée à la IIIe République ou à la période contemporaine. La note signale une féminisation récente des noms attribués, ainsi qu’une association partielle entre nom d’établissement et profil social des élèves. Si les études toponymiques ne sont pas récentes, celles relatives aux noms des établissements scol"
   },
   {
-   "uid": "97862ca6f3f33f83",
-   "titre": "Le design du genre « médiation scientifiques » pour rendre accessibles les savoirs de l’oral",
+   "uid": "c67e744eba90d85e",
+   "titre": "Emergence de l’IA en contexte scolaire Malgache : réalité ou utopie ? En appui du projet CONNECTER-IA",
+   "source": "HAL",
+   "date": "2026-10-22",
+   "auteurs": "Thierry Gaillat",
+   "url": "https://hal.science/hal-05835122v1",
+   "resume": "s un contexte de transformation numérique accélérée des systèmes éducatifs (UNESCO,2024), le projet CONNECTER-IA (IFADEM, 2025/2026) interroge les conditions d’une intégration éthique, contextualisée et pédagogiquement pertinente de l’intelligence artificielle générative (IAg) dans l’enseignement à Madagascar (UNICEF, 2022). À partir d’une recherche-action mixte menée auprès de 1 092 enseignants et complétée par 100 entretiens semi-directifs, cette étude propose un diagnostic inédit des compétences numériques, des usages effectifs du numériqueet des représentations associées à l’IAg dans un contexte marqué par de fortes contraintes infrastructurelles. Les données révèlent une fracture numéri"
+  },
+  {
+   "uid": "78aded56acf7ebfb",
+   "titre": "Technical Support Perceived Usefulness and Ethical Awareness in Generative AI Implementation through Language Teacher Attitudes",
+   "source": "OpenAlex",
+   "date": "2026-10-22",
+   "auteurs": "Hamisu Hamisu Haruna, Azza Jauhar Ahmad Tajuddin, Isyaku Hassan, Muhammad Naeem",
+   "url": "https://doi.org/10.21203/rs.3.rs-10889622/v1",
+   "resume": ""
+  },
+  {
+   "uid": "d2787eacaa147e44",
+   "titre": "Mobiliser l'intelligence artificielle dans et hors de la classe pour relever le défi de l'inclusion scolaire",
    "source": "HAL",
    "date": "2026-10-21",
-   "auteurs": "Dorothée Sales-Hitier",
-   "url": "https://hal.science/hal-05828829v1",
-   "resume": "Cette communication interroge l'accessibilité didactique des savoirs de l’oral et des savoirs scientifiques à travers un dispositif mettant en scène le genre de la médiation scientifique co-conçu entre une chercheure en didactique du français et une enseignante de SVT exerçant en collège REP+, dans le cadre d'un Lieu d'éducation Associé - LéA - en partenariat avec le Muséum d'histoire naturelle de Toulouse. L'oral reste un point aveugle de l'enseignement du français : faute d'objets de savoir stabilisés, il est rarement pensé comme un contenu à part entière, ce qui pénalise particulièrement les élèves dont le rapport au langage ne favorise pas l'entrée dans les apprentissages scolaires. En c"
+   "auteurs": "Nicolas Ribeiro",
+   "url": "https://hal.science/hal-05830356v1",
+   "resume": "Le pôle pilote « 100 % Inclusion, un Défi, un Territoire » réunit des professionnels de terrain et des chercheurs autour de l'émergence de ressources pédagogiques inclusives dans les régions du Nord et de l'Ouest de la France. Cette présentation exemplifie l'utilisation de l'IA dans le cadre du pôle pilote à travers deux exemples. Premièrement, nous développons un répertoire de ressources pédagogiques inclusives qui exploite les avantages de l'intelligence artificielle pour prendre en compte de manière approfondie les particularités des situations professionnelles rencontrées sur le terrain avant toute recommandation de ressources. Ce répertoire facilite le déploiement opérationnel des resso"
   },
   {
-   "uid": "1f8f45e509c0c723",
-   "titre": "From Media Audience to Critical Citizen: Media Evolution, Psychological Vulnerability and the Crisis of Information Trust in the Age of Artificial Intelligence",
+   "uid": "19ff6d37138f1651",
+   "titre": "Subordinating Disciplinary Inquiry: Performativity and the Formative Assessment of Historical Thinking at Key Stage 3",
    "source": "OpenAlex",
    "date": "2026-10-21",
-   "auteurs": "Dawid Karol Kolodziej",
-   "url": "https://doi.org/10.5281/zenodo.23513806",
-   "resume": "We live in an age of unprecedented access to information, yet having more information does not necessarily mean understanding the world more accurately. From traditional storytelling and printed newspapers to television, smartphones and generative artificial intelligence, the ways in which people create, distribute and interpret information have undergone profound transformations. In From Media Audience to Critical Citizen: Media Evolution, Psychological Vulnerability and the Crisis of Information Trust in the Age of Artificial Intelligence, Dawid Karol Kolodziej explores the psychological, educational and social consequences of these changes. Drawing on established media theories and contem"
+   "auteurs": "Emre Karatas",
+   "url": "https://doi.org/10.1080/00071005.2026.2746549",
+   "resume": "This article investigates the ways in which historical thinking is formatively assessed in a sample of English secondary schools at Key Stage 3 within performative accountability regimes. Drawing on qualitative data from 12 history departments, the study highlights how GCSE examinations exert a significant washback effect on the epistemological foundations and pedagogical value of history education in secondary schools. Historical thinking, encompassing critical engagement with contested truth claims via disciplinary inquiry process, constitutes a distinctive mode of cognition with significant implications for intellectual autonomy. Yet the performative imperatives of schooling, operating th"
+  },
+  {
+   "uid": "43e9056422b937fb",
+   "titre": "PROJETO NÓS PROPOMOS! NA UNIOESTE/FRANCISCO BELTRÃO: CIDADANIA TERRITORIAL E GOVERNANÇA",
+   "source": "OpenAlex",
+   "date": "2026-10-21",
+   "auteurs": "Mafalda Nesi Francischett, Rosana Cristina Biral Leme, Sérgio Claudino Loureiro Nunes",
+   "url": "https://doi.org/10.56346/2764-6203.v9n8.2026.779",
+   "resume": "This text presents the Nós Propomos! Project developed at Unioeste in Francisco Beltrão, based on experiences with teachers and students from basic and higher education and postgraduate programs in Geography and Education since its inception in 2017. The project aims to foster territorial citizenship through teaching, research, and extension, with the purpose of studying the historical processes of municipalities in the Southwest region of Paraná, focusing on territorial citizenship and heritage education. This paper synthesizes some of the main actions carried out in public and private schools, in elementary, secondary, and higher education, in the municipalities where the project is implem"
+  },
+  {
+   "uid": "8c64beb15c30c292",
+   "titre": "Editorial: Adolescent smoking, alcohol consumption and psychoactive substance misuse in low-middle income countries",
+   "source": "OpenAlex",
+   "date": "2026-10-21",
+   "auteurs": "Mona N. Radwan, Jennifer Murray, Noreen Dadirai Mdege, Maryam M. Ba-Break",
+   "url": "https://doi.org/10.3389/fpubh.2026.2008159",
+   "resume": "Adolescence and early adulthood are the periods of greatest vulnerability to initiating smoking, alcohol consumption, and psychoactive substance misuse (1,2). Initiation is shaped by social influence, peer pressure, media portrayals, stress, bullying, low selfesteem, and family substance use (SU) (3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)(14). Early onset raises the risk of dependence and of chronic disease, making prevention and cessation a global priority (15)(16)(17).A substantial evidence base on prevention and cessation exists for high-income countries (HICs), but high-quality evidence and context-specific interventions remain scarce in low-and middle-income countries (LMICs) (18)(19)(20)(21"
   }
  ]
 }
