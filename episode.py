@@ -20,6 +20,7 @@ import io, json, re, sys, wave
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from html import escape
+from urllib.parse import quote
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -136,12 +137,14 @@ def ecrire_index(conf, histo):
 body{{margin:0;padding:24px 16px;background:var(--fond);color:var(--texte);font:16px/1.5 -apple-system,system-ui,sans-serif;max-width:640px;margin:auto}}
 a{{color:var(--accent)}} li{{margin:6px 0}} span{{color:var(--doux);font-size:13px}}
 code{{word-break:break-all}}
-.bouton{{display:inline-block;background:var(--accent);color:var(--fond);padding:12px 20px;border-radius:10px;text-decoration:none;font-weight:600}}
+.bouton{{display:inline-block;margin:4px 0;background:var(--accent);color:var(--fond);padding:12px 20px;border-radius:10px;text-decoration:none;font-weight:600}}
 audio{{width:100%;margin-top:4px}}
 </style></head><body>
 <h1>{escape(conf['titre'])}</h1>
 <p>{escape(conf['description'])}</p>
-<p><a class="bouton" href="podcasts://{base.split('://', 1)[1]}/feed.xml">S’abonner dans Podcasts</a></p>
+<p><a class="bouton" href="overcast://x-callback-url/add?url={quote(base + '/feed.xml', safe='')}">S’abonner dans Overcast</a></p>
+<p><a class="bouton" href="pktc://subscribe/{base.split('://', 1)[1]}/feed.xml">S’abonner dans Pocket Casts</a></p>
+<p><a class="bouton" href="podcasts://{base.split('://', 1)[1]}/feed.xml">S’abonner dans Podcasts (Apple)</a></p>
 <p>Si le bouton ne fait rien : app Podcasts → onglet Bibliothèque → « … » → « Suivre un podcast par URL », puis coller :<br><code>{base}/feed.xml</code></p>
 <p>Ou écoute directement ici :</p>
 <ul>{lignes}</ul>
