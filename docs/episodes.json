@@ -1,5 +1,56 @@
 [
  {
+  "fichier": "veille-2026-10-22.mp3",
+  "date": "2026-10-22",
+  "pubdate": "Thu, 22 Oct 2026 06:12:26 -1000",
+  "titre": "Veille du 22 octobre",
+  "description": "5 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:24",
+  "taille": 1152731,
+  "items": [
+   {
+    "uid": "a12532dd6c698472",
+    "titre": "Les figures de la contextualisation dans l’enseignement de l’histoire-géographie à partir des pratiques déclarées des enseignant.e.s",
+    "url": "https://hal.science/hal-05835083v1",
+    "source": "HAL",
+    "score": 72,
+    "raison": "Enquête sur la contextualisation des programmes d'histoire-géographie en outre-mer : un miroir direct pour ta pratique en Polynésie."
+   },
+   {
+    "uid": "23e9e998081ad3ca",
+    "titre": "Nommer les établissements scolaires dans les outre-mers français : mémoires postcoloniales et identités collectives. Une étude exploratoire à La Réunion et en Nouvelle-Calédonie",
+    "url": "https://hal.science/hal-05835141v1",
+    "source": "HAL",
+    "score": 62,
+    "raison": "Étude sur les noms des établissements en outre-mer et les mémoires postcoloniales : piste pour l'EMC et pour la colonisation en première."
+   },
+   {
+    "uid": "ae0bb1f232bf4700",
+    "titre": "Naissance des paysages sous-marins",
+    "url": "https://www.clionautes.org/naissance-des-paysages-sous-marins.html",
+    "source": "Les Clionautes",
+    "score": 60,
+    "raison": "Une géographe du littoral présente les paysages sous-marins : utile pour le chapitre littoral et le regard sur le lagon."
+   },
+   {
+    "uid": "78fd23ab432252f8",
+    "titre": "Qu’est-ce qu’une forêt ? Pourquoi cette question est bien plus complexe qu’il n’y paraît",
+    "url": "https://theconversation.com/quest-ce-quune-foret-pourquoi-cette-question-est-bien-plus-complexe-quil-ny-parait-294311",
+    "source": "The Conversation — Environnement",
+    "score": 58,
+    "raison": "Mille définitions du mot forêt : un angle concret sur les ressources et les enjeux environnementaux en seconde."
+   },
+   {
+    "uid": "3f1941930ec4bbbd",
+    "titre": "Ressources pédagogiques de l’Insee : consultation des enseignants",
+    "url": "https://www.clionautes.org/ressources-pedagogiques-insee-questionnaire.html",
+    "source": "Les Clionautes",
+    "score": 56,
+    "raison": "L'Insee consulte les enseignants sur ses ressources pédagogiques, pyramides des âges et données territoriales utiles en géographie."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-21.mp3",
   "date": "2026-10-21",
   "pubdate": "Wed, 21 Oct 2026 06:08:45 -1000",
