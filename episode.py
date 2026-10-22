@@ -96,6 +96,7 @@ def ecrire_flux(conf, histo):
         items.append(f"""    <item>
       <title>{escape(ep['titre'])}</title>
       <description><![CDATA[{notes_episode(ep)}]]></description>
+      <content:encoded><![CDATA[{notes_episode(ep)}]]></content:encoded>
       <pubDate>{ep['pubdate']}</pubDate>
       <guid isPermaLink="false">{escape(ep['fichier'])}</guid>
       <enclosure url="{base}/episodes/{escape(ep['fichier'])}" length="{ep['taille']}" type="audio/mpeg"/>
@@ -103,7 +104,7 @@ def ecrire_flux(conf, histo):
       <itunes:explicit>false</itunes:explicit>
     </item>""")
     flux = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{escape(conf['titre'])}</title>
     <link>{base}/</link>
@@ -125,7 +126,8 @@ def ecrire_index(conf, histo):
     base = conf["base_url"].rstrip("/")
     lignes = "".join(
         f'<li>{escape(ep["titre"])} <span>{ep["duree"][3:]}</span>'
-        f'<audio controls preload="none" src="episodes/{escape(ep["fichier"])}"></audio></li>' for ep in histo)
+        f'<audio controls preload="none" src="episodes/{escape(ep["fichier"])}"></audio>'
+        f'<details><summary>Les articles</summary>{notes_episode(ep)}</details></li>' for ep in histo)
     (DOCS / "index.html").write_text(f"""<!doctype html>
 <html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -139,6 +141,7 @@ a{{color:var(--accent)}} li{{margin:6px 0}} span{{color:var(--doux);font-size:13
 code{{word-break:break-all}}
 .bouton{{display:inline-block;margin:4px 0;background:var(--accent);color:var(--fond);padding:12px 20px;border-radius:10px;text-decoration:none;font-weight:600}}
 audio{{width:100%;margin-top:4px}}
+ul{{padding-left:20px}} details{{margin:4px 0 14px}} summary{{cursor:pointer;color:var(--accent)}} details li{{margin:8px 0}}
 </style></head><body>
 <h1>{escape(conf['titre'])}</h1>
 <p>{escape(conf['description'])}</p>
