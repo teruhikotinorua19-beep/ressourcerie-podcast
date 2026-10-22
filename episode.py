@@ -124,8 +124,8 @@ def ecrire_flux(conf, histo):
 def ecrire_index(conf, histo):
     base = conf["base_url"].rstrip("/")
     lignes = "".join(
-        f'<li><a href="episodes/{escape(ep["fichier"])}">{escape(ep["titre"])}</a> '
-        f'<span>{ep["duree"][3:]}</span></li>' for ep in histo)
+        f'<li>{escape(ep["titre"])} <span>{ep["duree"][3:]}</span>'
+        f'<audio controls preload="none" src="episodes/{escape(ep["fichier"])}"></audio></li>' for ep in histo)
     (DOCS / "index.html").write_text(f"""<!doctype html>
 <html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -137,10 +137,14 @@ def ecrire_index(conf, histo):
 body{{margin:0;padding:24px 16px;background:var(--fond);color:var(--texte);font:16px/1.5 -apple-system,system-ui,sans-serif;max-width:640px;margin:auto}}
 a{{color:var(--accent)}} li{{margin:6px 0}} span{{color:var(--doux);font-size:13px}}
 code{{word-break:break-all}}
+.bouton{{display:inline-block;background:var(--accent);color:var(--fond);padding:12px 20px;border-radius:10px;text-decoration:none;font-weight:600}}
+audio{{width:100%;margin-top:4px}}
 </style></head><body>
 <h1>{escape(conf['titre'])}</h1>
 <p>{escape(conf['description'])}</p>
-<p>S’abonner dans Apple Podcasts : onglet Bibliothèque → « … » → « Suivre un podcast par URL », puis coller :<br><code>{base}/feed.xml</code></p>
+<p><a class="bouton" href="podcasts://{base.split('://', 1)[1]}/feed.xml">S’abonner dans Podcasts</a></p>
+<p>Si le bouton ne fait rien : app Podcasts → onglet Bibliothèque → « … » → « Suivre un podcast par URL », puis coller :<br><code>{base}/feed.xml</code></p>
+<p>Ou écoute directement ici :</p>
 <ul>{lignes}</ul>
 </body></html>
 """, encoding="utf-8")
