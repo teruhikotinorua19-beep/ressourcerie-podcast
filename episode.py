@@ -113,7 +113,6 @@ def ecrire_flux(conf, histo):
     <itunes:image href="{base}/couverture.jpg"/>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:block>Yes</itunes:block>
 {chr(10).join(items)}
   </channel>
 </rss>
