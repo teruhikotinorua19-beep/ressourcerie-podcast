@@ -1,5 +1,7 @@
 travail/*
 !travail/candidats.json
+!travail/selection.json
+!travail/script.txt
 __pycache__/
 *.tmp
 .DS_Store

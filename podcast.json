@@ -3,6 +3,7 @@
   "titre": "Veille HG-EMC — Ressourcerie",
   "auteur": "Ressourcerie",
   "description": "Chaque matin, les nouveautés utiles pour la classe d'histoire-géographie-EMC (6e, 2nde, 1re générale), en Polynésie française. Podcast généré automatiquement, voix de synthèse.",
-  "voix": "fr_FR-siwis-medium",
-  "garder_jours": 14
+  "voix": "edge:fr-FR-VivienneMultilingualNeural",
+  "garder_jours": 14,
+  "voix_secours": "fr_FR-siwis-medium"
 }

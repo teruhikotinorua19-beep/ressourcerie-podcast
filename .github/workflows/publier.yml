@@ -1,7 +1,8 @@
-# Publie le podcast sur GitHub Pages à chaque épisode.
-# La routine Claude pousse soit sur main, soit sur une branche claude/… :
-# dans ce cas on fusionne d'abord dans main (la routine suivante repart de
-# main, c'est là que vit la mémoire etat/vus.json).
+# Fabrique et publie le podcast sur GitHub Pages.
+# La routine Claude pousse travail/selection.json et travail/script.txt, soit
+# sur main, soit sur une branche claude/… (fusionnée d'abord dans main, où vit
+# la mémoire etat/vus.json). Si un script est en attente, on fabrique ici
+# l'épisode : la voix Microsoft n'est pas joignable depuis le cloud de Claude.
 name: Publier le podcast
 on:
   push:
@@ -34,6 +35,24 @@ jobs:
           git merge --no-edit "origin/${{ github.ref_name }}"
           git push origin main
           git push origin --delete "${{ github.ref_name }}"
+      - name: Script en attente ?
+        id: attente
+        run: test -f travail/script.txt && echo "oui=1" >> "$GITHUB_OUTPUT" || true
+      - uses: actions/setup-python@v5
+        if: steps.attente.outputs.oui
+        with:
+          python-version: "3.12"
+      - name: Fabriquer l'épisode
+        if: steps.attente.outputs.oui
+        run: |
+          pip install -q -r requirements.txt
+          python episode.py
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A docs etat travail
+          git commit -m "Épisode du $(TZ=Pacific/Tahiti date +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push origin main
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -1,2 +1,3 @@
 piper-tts
 lameenc
+edge-tts

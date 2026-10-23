@@ -14,7 +14,8 @@ puis :
   4. marque TOUS les candidats du jour comme vus (retenus ou non) ;
   5. supprime les épisodes plus vieux que `garder_jours`.
 
-    python3 episode.py
+    python3 episode.py              # fabrique (GitHub Actions, voir publier.yml)
+    python3 episode.py --verifier   # contrôle seulement (routine Claude)
 """
 import io, json, re, sys, wave
 from datetime import datetime, timedelta, timezone
@@ -55,6 +56,34 @@ def nettoyer_oral(t):
     t = re.sub(r"[*_#`>]+", "", t)
     t = re.sub(r"^\s*[-•]\s+", "", t, flags=re.M)
     return re.sub(r"\n{3,}", "\n\n", t).strip()
+
+
+def synthese_edge(texte, voix):
+    """Voix neuronale Microsoft (service en ligne non officiel, via edge-tts).
+    Sortie MP3 mono 24 kHz à 48 kbit/s constants : la durée se déduit de la taille."""
+    import asyncio, edge_tts
+    async def go():
+        morceaux = []
+        async for m in edge_tts.Communicate(texte, voix).stream():
+            if m["type"] == "audio":
+                morceaux.append(m["data"])
+        return b"".join(morceaux)
+    mp3 = asyncio.run(go())
+    if len(mp3) < 10_000:
+        raise RuntimeError("réponse audio vide")
+    return mp3, len(mp3) * 8 / 48_000
+
+
+def synthese(texte, conf):
+    """Voix principale, puis voix de secours Piper si le service ne répond pas."""
+    voix = conf.get("voix", "fr_FR-siwis-medium")
+    if voix.startswith("edge:"):
+        try:
+            return synthese_edge(texte, voix[5:])
+        except Exception as e:
+            print(f"Voix {voix} indisponible ({e}) : secours Piper.", file=sys.stderr)
+            voix = conf.get("voix_secours", "fr_FR-siwis-medium")
+    return synthese_mp3(texte, voix)
 
 
 def synthese_mp3(texte, voix):
@@ -155,7 +184,21 @@ ul{{padding-left:20px}} details{{margin:4px 0 14px}} summary{{cursor:pointer;col
 """, encoding="utf-8")
 
 
+def verifier():
+    """Contrôle ce que la routine a écrit, sans rien fabriquer."""
+    selection = lire(TRAVAIL / "selection.json", None)
+    script_p = TRAVAIL / "script.txt"
+    if not isinstance(selection, dict) or not isinstance(selection.get("items"), list):
+        sys.exit("travail/selection.json manquant ou mal formé.")
+    if not script_p.exists() or len(nettoyer_oral(script_p.read_text(encoding="utf-8"))) < 200:
+        sys.exit("travail/script.txt manquant, vide ou trop court.")
+    print(f"✓ prêt : {len(selection['items'])} article(s), "
+          f"{len(script_p.read_text(encoding='utf-8').split())} mots")
+
+
 def main():
+    if "--verifier" in sys.argv:
+        return verifier()
     conf = json.loads(CONF.read_text(encoding="utf-8"))
     selection = lire(TRAVAIL / "selection.json", None)
     script_p = TRAVAIL / "script.txt"
@@ -186,7 +229,7 @@ def main():
                       "url": c.get("url", ""), "source": c.get("source", ""),
                       "score": s.get("score"), "raison": s.get("raison", c.get("raison", ""))})
 
-    mp3, secondes = synthese_mp3(script, conf.get("voix", "fr_FR-siwis-medium"))
+    mp3, secondes = synthese(script, conf)
     EPISODES.mkdir(parents=True, exist_ok=True)
     (EPISODES / nom).write_bytes(mp3)
 
@@ -218,6 +261,10 @@ def main():
         vus[u] = jour
     ecrire(VUS, vus)
     ecrire(DERNIER, {"lancement": datetime.now(timezone.utc).isoformat()})
+
+    # Le script est consommé : sa présence signale un épisode à fabriquer.
+    for f in ("selection.json", "script.txt"):
+        (TRAVAIL / f).unlink(missing_ok=True)
 
     print(f"✓ {nom} — {duree_hms(secondes)}, {len(mp3) // 1024} Ko, {len(items)} article(s)"
           + (" (rappel)" if rappel else ""))

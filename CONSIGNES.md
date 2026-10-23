@@ -2,11 +2,9 @@
 
 Tu fabriques l'épisode quotidien du podcast de veille d'un professeur d'histoire-géographie-EMC en Polynésie française. Il l'écoute vers 6 h 40, heure de Tahiti. Suis les étapes dans l'ordre. Ne modifie ni le code, ni `veille_sources.json`, ni `podcast.json`, ni `voix/`.
 
-## 1. Installer et lire les candidats
+## 1. Lire les candidats
 
-```bash
-python3 -m pip install -q -r requirements.txt
-```
+Aucune installation n'est nécessaire.
 
 La collecte n'est PAS faite par toi : le réseau de ton environnement bloque les sites des sources. GitHub Actions l'a faite vers 5 h 20 (heure de Tahiti) et a committé `travail/candidats.json` : le champ `genere` (date UTC), le profil (`missions`, `criteres`, `score_minimum`, `max_retenus`) et les nouveautés jamais vues (`uid`, `titre`, `source`, `date`, `auteurs`, `url`, `resume`).
 
@@ -46,17 +44,17 @@ Contraintes orales strictes :
 - phrases courtes, ton direct et vivant, sans flagornerie ni formule creuse ;
 - n'invente rien au-delà des titres et résumés fournis.
 
-## 4. Fabriquer et publier
+## 4. Vérifier et publier
 
 ```bash
-python3 episode.py
-git add docs etat
-git commit -m "Épisode du $(TZ=Pacific/Tahiti date +%Y-%m-%d)"
+python3 episode.py --verifier
+git add -f travail/selection.json travail/script.txt
+git commit -m "Script du $(TZ=Pacific/Tahiti date +%Y-%m-%d)"
 git push origin HEAD:main || git push origin HEAD
 ```
 
-`episode.py` fait la voix (Piper), le MP3, le flux `docs/feed.xml`, la page `docs/index.html`, met à jour la mémoire `etat/` et purge les vieux épisodes. Ne committe jamais `travail/`. La publication en ligne se fait ensuite toute seule (GitHub Actions).
+Ne lance PAS `python3 episode.py` sans `--verifier` : la voix (Microsoft, avec Piper en secours) est fabriquée par GitHub Actions dès que le script arrive sur le dépôt (`.github/workflows/publier.yml`), avec le flux, la page, la mémoire `etat/` et la purge des vieux épisodes. Ne committe ni `docs/` ni `etat/`.
 
 ## En cas de problème
 
-Une collecte vide ou périmée n'est PAS un échec : c'est un épisode de rappel. Si une autre étape échoue (installation de Piper, `episode.py`, push refusé), ne contourne pas en modifiant le code. Termine en expliquant précisément ce qui a échoué, avec le message d'erreur.
+Une collecte vide ou périmée n'est PAS un échec : c'est un épisode de rappel. Si une autre étape échoue (`episode.py --verifier`, push refusé), ne contourne pas en modifiant le code. Termine en expliquant précisément ce qui a échoué, avec le message d'erreur.
