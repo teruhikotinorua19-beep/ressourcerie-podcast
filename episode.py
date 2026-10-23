@@ -149,6 +149,10 @@ def ecrire_flux(conf, histo):
 </rss>
 """
     (DOCS / "feed.xml").write_text(flux, encoding="utf-8")
+    # Même flux sous une 2e adresse pour Apple Podcasts, dont les serveurs ont
+    # gardé en cache l'ancien feed.xml (itunes:block) et refusent l'abonnement.
+    (DOCS / "podcast.xml").write_text(
+        flux.replace(f'{base}/feed.xml" rel="self"', f'{base}/podcast.xml" rel="self"'), encoding="utf-8")
 
 
 def ecrire_index(conf, histo):
@@ -176,7 +180,7 @@ ul{{padding-left:20px}} details{{margin:4px 0 14px}} summary{{cursor:pointer;col
 <p>{escape(conf['description'])}</p>
 <p><a class="bouton" href="overcast://x-callback-url/add?url={quote(base + '/feed.xml', safe='')}">S’abonner dans Overcast</a></p>
 <p><a class="bouton" href="pktc://subscribe/{base.split('://', 1)[1]}/feed.xml">S’abonner dans Pocket Casts</a></p>
-<p><a class="bouton" href="podcasts://{base.split('://', 1)[1]}/feed.xml">S’abonner dans Podcasts (Apple)</a></p>
+<p><a class="bouton" href="podcasts://{base.split('://', 1)[1]}/podcast.xml">S’abonner dans Podcasts (Apple)</a></p>
 <p>Si le bouton ne fait rien : app Podcasts → onglet Bibliothèque → « … » → « Suivre un podcast par URL », puis coller :<br><code>{base}/feed.xml</code></p>
 <p>Ou écoute directement ici :</p>
 <ul>{lignes}</ul>
