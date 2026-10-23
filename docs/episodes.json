@@ -1,5 +1,24 @@
 [
  {
+  "fichier": "veille-2026-10-23.mp3",
+  "date": "2026-10-23",
+  "pubdate": "Fri, 23 Oct 2026 06:12:07 -1000",
+  "titre": "Veille du 23 octobre",
+  "description": "1 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:54",
+  "taille": 1041984,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-22-2.mp3",
   "date": "2026-10-22",
   "pubdate": "Thu, 22 Oct 2026 20:44:10 -1000",
