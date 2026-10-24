@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-10-24.mp3",
+  "date": "2026-10-24",
+  "pubdate": "Sat, 24 Oct 2026 06:09:50 -1000",
+  "titre": "Veille du 24 octobre",
+  "description": "4 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:36",
+  "taille": 933120,
+  "items": [
+   {
+    "uid": "47c9f1184ce6da49",
+    "titre": "Vous allez aimer la France moche",
+    "url": "https://www.clionautes.org/vous-allez-aimer-la-france-moche.html",
+    "source": "Les Clionautes",
+    "score": 72,
+    "raison": "Un regard critique sur le discours de la France moche et les zones d'activité, utile en première pour les espaces productifs et la métropolisation, et en sixième pour habiter une métropole."
+   },
+   {
+    "uid": "42137115d6f65bb4",
+    "titre": "Au-delà de l’adoption : les non-usages des IA génératives par les lycéens en France au prisme de l’éthique",
+    "url": "https://hal.science/hal-05837953v1",
+    "source": "HAL",
+    "score": 60,
+    "raison": "Une enquête sur les lycéens qui n'utilisent pas l'IA générative et leurs raisons éthiques, de quoi nourrir une réflexion en seconde ou en première sur l'usage de l'IA en classe."
+   },
+   {
+    "uid": "cf4cd71b47190f9b",
+    "titre": "Après une guerre, quelle éducation pour construire la paix ?",
+    "url": "https://theconversation.com/apres-une-guerre-quelle-education-pour-construire-la-paix-290799",
+    "source": "The Conversation — Éducation",
+    "score": 58,
+    "raison": "Montre comment manuels et programmes pèsent sur la mémoire collective après un conflit, une piste pour l'EMC et pour parler du rôle de l'histoire enseignée."
+   },
+   {
+    "uid": "27cbe8aef3132ead",
+    "titre": "Raconte-moi l’archéologie",
+    "url": "https://www.clionautes.org/raconte-moi-larcheologie.html",
+    "source": "Les Clionautes",
+    "score": 55,
+    "raison": "Une rencontre avec une archéologue de terrain autour d'un album jeunesse, pour introduire le métier d'archéologue et les sources en sixième."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-23.mp3",
   "date": "2026-10-23",
   "pubdate": "Fri, 23 Oct 2026 06:12:07 -1000",
