@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-23T15:53+00:00",
+ "genere": "2026-10-24T15:45+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,22 +8,103 @@
  },
  "items": [
   {
-   "uid": "9d6e520bc9253f36",
-   "titre": "Tutores de IA: desempeño asistido, aprendizaje autónomo y transferencia / AI tutors: assisted performance, unaided learning and transfer",
-   "source": "OpenAlex",
-   "date": "2026-10-23",
-   "auteurs": "Santiago Pineda Botero",
-   "url": "https://doi.org/10.5281/zenodo.23580338",
-   "resume": "El desempeño obtenido mientras un tutor generativo está disponible no permite identificar, por sí solo, lo que el estudiante podrá hacer después sin ayuda. Este artículo examina una selección de experimentos de educación secundaria y superior, herramientas que asisten a estudiantes o a tutores humanos, y documentos de adopción y orientación institucional. La síntesis distingue práctica asistida, prueba autónoma inmediata, retención diferida, transferencia y evaluación del curso, y registra para cada estudio el diseño (ensayo aleatorizado individual, por aula o cruzado; laboratorio o campo), la población y la métrica del efecto. En el mismo ensayo de matemáticas de secundaria, el acceso sin b"
+   "uid": "47c9f1184ce6da49",
+   "titre": "Vous allez aimer la France moche",
+   "source": "Les Clionautes",
+   "date": "2026-10-24",
+   "auteurs": "Romain Ducornet",
+   "url": "https://www.clionautes.org/vous-allez-aimer-la-france-moche.html",
+   "resume": "Le discours sur la France moche remonte au XIXe siècle, pour protéger le patrimoine national, pittoresque et immuable, de la laideur des paysages modernes. Principales ciblées aujourd’hui : les zones d’activité… qui ne sont pourtant pas sans intérêt esthétique : ces paysages banals ne sont-ils pas les laboratoires d’une urbanité plus riche qu’il n’y paraît […]"
   },
   {
-   "uid": "e044a205cb9e6dc0",
-   "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+   "uid": "cf4cd71b47190f9b",
+   "titre": "Après une guerre, quelle éducation pour construire la paix ?",
+   "source": "The Conversation — Éducation",
+   "date": "2026-10-24",
+   "auteurs": "",
+   "url": "https://theconversation.com/apres-une-guerre-quelle-education-pour-construire-la-paix-290799",
+   "resume": "Après un conflit, reconstruire l’éducation ne consiste pas seulement à rouvrir les écoles. Les programmes, les manuels et leur gouvernance pèsent aussi sur la mémoire collective."
+  },
+  {
+   "uid": "42137115d6f65bb4",
+   "titre": "Au-delà de l’adoption : les non-usages des IA génératives par les lycéens en France au prisme de l’éthique",
    "source": "HAL",
-   "date": "2026-10-22",
-   "auteurs": "Camille Mazé-Lambrechts",
-   "url": "https://hal.science/hal-05835798v1",
-   "resume": "Depuis une vingtaine d’années, le rāhui, sorte de mise en jachère des terres et des mers, issue de la culture locale, a fait son retour en Polynésie française. Cette tradition disparue avec l’arrivée des colons au 18e siècle est aujourd’hui réhabilitée par les populations locales, les décideurs publics, les chercheurs ainsi que par des fondations et ONG associées aux scientifiques, aux autorités locales et aux organisations de pêche. L’argument majeur avancé pour justifier le recours à cette pratique et sa mise en œuvre sur le terrain est écologique et alimentaire – conservation de la nature, souveraineté et sécurité des populations. En première intention, il s’agit aujourd’hui de préserver "
+   "date": "2026-10-24",
+   "auteurs": "Michael Zeyringer",
+   "url": "https://hal.science/hal-05837953v1",
+   "resume": "French high school students make extensive use of generative artificial intelligence (GAI) in their schoolwork. All of them? No. This study focuses on non-users and the reasons for their non-use. It is based on the responses of 153 non-user high school students, collected during a survey conducted in France in December 2024. Using a mixed-method approach, we show, on the one hand, that variables related to ethics significantly influence the intention to use GAI and, on the other hand, that the profiles of non-users are characterized by different attitudes toward ethical issues. Finally, the qualitative analysis of the reasons for non-use draws on the concepts of necessities and facts from th"
+  },
+  {
+   "uid": "27cbe8aef3132ead",
+   "titre": "Raconte-moi l’archéologie",
+   "source": "Les Clionautes",
+   "date": "2026-10-23",
+   "auteurs": "Christiane Peyronnard",
+   "url": "https://www.clionautes.org/raconte-moi-larcheologie.html",
+   "resume": "Cette rencontre, proposée à partir de 8 ans, est, à travers la présentation d’un album jeunesse : Raconte-moi l’archéologie,, rencontre avec Sandra Sicard, l’autrice et archéologue qui évoque la vie quotidienne sur le terrain de toute une équipe d’archéologues. Xavier Mauduit invite Sandra Sicard à se présenter. Sandra Sicard : je suis archéologue de terrain, je fouille […]"
+  },
+  {
+   "uid": "c226b5325eac9a9c",
+   "titre": "L’Union européenne : élargissement, recompositions, nouvelles formes d’intégration",
+   "source": "Les Clionautes",
+   "date": "2026-10-23",
+   "auteurs": "Eric Joly",
+   "url": "https://www.clionautes.org/lunion-europeenne-elargissement-recompositions-nouvelles-formes-dintegration.html",
+   "resume": "Emmanuelle Boulineau est professeur de géographie à l’ENS de Lyon et chercheuse au laboratoire Environnement, Ville, Société (UMR EVS). Ses recherches portent sur la géographie politique de l’Europe centrale et orientale et sur les modalités spatiales de l’intégration européenne de la Bulgarie et des Balkans. Michel Foucher est géographe, essayiste, diplomate et ancien ambassadeur. Sylvain […]"
+  },
+  {
+   "uid": "3702bc89c8d24c71",
+   "titre": "===Fardinpour===Zenodo==Paper=SUSTAINABLE MATHEMATICS EDUCATION",
+   "source": "OpenAlex",
+   "date": "2026-10-23",
+   "auteurs": "Younes Karimi Fardinpour, Abolfazl Rafiepour, Mohammad Ebrahim Ramazani",
+   "url": "https://doi.org/10.5281/zenodo.23592810",
+   "resume": "A Scientometric and Grounded Theory Synthesis of Research on Sustainable Mathematics Education Abstract Purpose: Research on Sustainable Mathematics Education (SME) has expanded significantly over the last two decades, driven by the climate crisis, socio-economic instability, and global agendas like Education for Sustainable Development (ESD) and the Sustainable Development Goals (SDGs). SME transcends merely adding climate topics; it demands a fundamental transformation in task design, teacher roles, assessment, and the relationship between school, society, and the Earth. This study systematically analyzes the intellectual and social structure of SME, its dissemination patterns, and researc"
+  },
+  {
+   "uid": "4976e8b38673c76b",
+   "titre": "Azerbaijan's Anti-Colonial Shift in Foreign Policy",
+   "source": "OpenAlex",
+   "date": "2026-10-23",
+   "auteurs": "",
+   "url": "https://doi.org/10.62476/soc33179",
+   "resume": "The article examines the emergence and development of anti-colonial rhetoric in Azerbaijan's foreign policy and its transformation into an instrument of contemporary diplomacy.The study places this process in the context of post-Soviet state-building, the Karabakh conflict, Azerbaijan's participation in the Non-Aligned Movement and its chairmanship of the organization from 2019 to 2024.Particular attention is given to the gradual adaptation of the language of decolonization to Azerbaijan's interpretation of its territorial conflict and, following the restoration of control over Karabakh, to the extension of the anti-colonial agenda to territories beyond the South Caucasus.A central component"
+  },
+  {
+   "uid": "175d2b458e485365",
+   "titre": "A curated global synthesis of mitochondrial diversity in milkfish (Chanos chanos): specific marker resolution and geographic gaps in public sequence data",
+   "source": "OpenAlex",
+   "date": "2026-10-23",
+   "auteurs": "Ziwei Wang, Biyuan Liu",
+   "url": "https://doi.org/10.21203/rs.3.rs-11251614/v1",
+   "resume": ""
+  },
+  {
+   "uid": "839e20385f2df9b7",
+   "titre": "Adaptive Generative Tutoring in Resource-Limited Secondary Education: Effects on Participation, Achievement, and Digital Equity in Nigeria",
+   "source": "OpenAlex",
+   "date": "2026-10-23",
+   "auteurs": "María de los Ángeles Sánchez Trujillo, David Alberto García Arango, Felícita Delia Sáenz-Egúsquiza, Natalia Andrea Builes-Quintero",
+   "url": "https://doi.org/10.3390/educsci16111780",
+   "resume": "This study examines the short-term educational contribution of teacher-guided generative tutoring through a secondary analysis of a randomized trial in nine public secondary schools in Benin City, Nigeria. Among 1328 randomized students, 657 were offered twelve 90 min sessions combining Microsoft Copilot, curriculum-aligned English activities, and pair work, while 671 received regular instruction. Intention-to-treat models used ordinary least squares, school fixed effects, baseline performance adjustment, and HC3 standard errors, with conditional estimates on observed endline outcomes and required covariates. The overall assessment effect was 0.310 SD (95% CI 0.176–0.444; n = 654), with posi"
+  },
+  {
+   "uid": "fdc0d9a23ba358f3",
+   "titre": "Teacher Mediation of AI Use and Learning Autonomy at SMP Negeri 4 Pekanbaru",
+   "source": "OpenAlex",
+   "date": "2026-10-23",
+   "auteurs": "Daviq Chairilsyah, Rita Kurnia, Tetty Siska, Reni Rama Yenni",
+   "url": "https://doi.org/10.65622/ijei.v2i3.390",
+   "resume": "Generative artificial intelligence (AI) expands access to information and instructional support while raising concerns about information accuracy, cognitive dependence, and learning autonomy. This study examines how teachers mediate AI use while strengthening students’ independent learning at SMP Negeri 4 Pekanbaru. A qualitative case study was conducted in August 2026 with five purposively selected informants: one school principal, three subject teachers, and one Grade VIII student. Data were collected through semi-structured interviews and supporting documentation and analyzed using thematic analysis. The findings reveal several interconnected patterns: AI functions as a learning assistant"
+  },
+  {
+   "uid": "7212aca07f25d2dc",
+   "titre": "Spatial Educational Intelligence: Grounding Learning in Three-Dimensional Environments",
+   "source": "OpenAlex",
+   "date": "2026-10-23",
+   "auteurs": "Jincheng Zhang",
+   "url": "https://doi.org/10.5281/zenodo.23592695",
+   "resume": "Artificial intelligence in education has advanced from rule-based tutoring systems and digital learning platforms to conversational agents, generative artificial intelligence, and multimodal foundation models. However, educational intelligence is frequently organized around the interpretation of textual, visual, or symbolic information, while the spatial structure of the learning environment remains secondary to the system's reasoning and decision-making processes. In actual educational settings, learning depends not only on what students know, but also on where students are located, how they interact with one another, which materials and instruments are accessible, how objects are spatially"
   }
  ]
 }
