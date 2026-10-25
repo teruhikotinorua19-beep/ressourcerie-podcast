@@ -1,5 +1,32 @@
 [
  {
+  "fichier": "veille-2026-10-25.mp3",
+  "date": "2026-10-25",
+  "pubdate": "Sun, 25 Oct 2026 06:09:57 -1000",
+  "titre": "Veille du 25 octobre",
+  "description": "2 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:36",
+  "taille": 933264,
+  "items": [
+   {
+    "uid": "4c2076a64a581aa2",
+    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
+    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
+    "source": "Les Clionautes",
+    "score": 82,
+    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
+   },
+   {
+    "uid": "12aefcfd6b93d966",
+    "titre": "Paysages et cultures automobiles",
+    "url": "https://www.clionautes.org/paysages-et-cultures-automobiles.html",
+    "source": "Les Clionautes",
+    "score": 60,
+    "raison": "Un regard de géographes et de paysagistes sur les paysages liés à l'automobile, mobilisable en première sur la métropolisation et en sixième sur habiter une métropole."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-24.mp3",
   "date": "2026-10-24",
   "pubdate": "Sat, 24 Oct 2026 06:09:50 -1000",
