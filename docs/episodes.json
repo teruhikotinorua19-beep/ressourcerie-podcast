@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-10-26.mp3",
+  "date": "2026-10-26",
+  "pubdate": "Mon, 26 Oct 2026 06:10:42 -1000",
+  "titre": "Veille du 26 octobre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:01:39",
+  "taille": 595152,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   },
+   {
+    "uid": "82079082ffe91e10",
+    "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
+    "url": "https://hal.science/hal-05820763v1",
+    "source": "HAL",
+    "score": 82,
+    "raison": "Les normes anciennes sur l'usage des lagons en Polynésie croisent le droit d'aujourd'hui : un cas local pour le littoral en sixième et pour le droit en EMC."
+   },
+   {
+    "uid": "4c2076a64a581aa2",
+    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
+    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
+    "source": "Les Clionautes",
+    "score": 82,
+    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
+   },
+   {
+    "uid": "fdc390ff8e21d646",
+    "titre": "Christophe Colomb se croyait investi d’une mission divine, comme le révèlent ses écrits",
+    "url": "https://theconversation.com/christophe-colomb-se-croyait-investi-dune-mission-divine-comme-le-revelent-ses-ecrits-293955",
+    "source": "The Conversation — Histoire",
+    "score": 78,
+    "raison": "Les écrits de Colomb montrent le lien entre conversion et conquête dès 1492 : une source pour l'ouverture atlantique en seconde."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-25.mp3",
   "date": "2026-10-25",
   "pubdate": "Sun, 25 Oct 2026 06:09:57 -1000",
