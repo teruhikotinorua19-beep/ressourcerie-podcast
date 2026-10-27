@@ -1,5 +1,40 @@
 [
  {
+  "fichier": "veille-2026-10-27.mp3",
+  "date": "2026-10-27",
+  "pubdate": "Tue, 27 Oct 2026 06:10:28 -1000",
+  "titre": "Veille du 27 octobre",
+  "description": "3 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:36",
+  "taille": 936000,
+  "items": [
+   {
+    "uid": "39956d693e3a1740",
+    "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
+    "url": "https://hal.science/hal-05735818v1",
+    "source": "HAL",
+    "score": 78,
+    "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
+   },
+   {
+    "uid": "31bea7e8ae012fda",
+    "titre": "Faire périodiser les élèves en classe d'histoire pour construire des savoirs plus critiques",
+    "url": "https://hal.science/hal-05735802v1",
+    "source": "HAL",
+    "score": 72,
+    "raison": "Faire périodiser les élèves eux-mêmes plutôt que leur donner des périodes toutes faites, une démarche applicable à n'importe quel chapitre du programme."
+   },
+   {
+    "uid": "036299d3f35e20c1",
+    "titre": "Périodiser en classe d'histoire : une recherche didactique pour développer les compétences critiques en éducation prioritaire",
+    "url": "https://hal.science/hal-05840597v1",
+    "source": "HAL",
+    "score": 70,
+    "raison": "Une recherche en éducation prioritaire sur la périodisation pour développer l'esprit critique, utile pour assumer de ne pas tout couvrir dans le programme."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-26.mp3",
   "date": "2026-10-26",
   "pubdate": "Mon, 26 Oct 2026 06:10:42 -1000",
