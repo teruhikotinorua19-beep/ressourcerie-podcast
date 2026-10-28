@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-27T15:58+00:00",
+ "genere": "2026-10-28T16:04+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,130 +8,103 @@
  },
  "items": [
   {
-   "uid": "53f7a2faf4700e6f",
-   "titre": "Itinéraire d’un cartographe palestinien",
+   "uid": "f13b2cb73ca7bc85",
+   "titre": "Travailleurs roumains en France : une citoyenneté européenne mise à l’épreuve",
    "source": "Les Clionautes",
-   "date": "2026-10-27",
-   "auteurs": "Elodie Quantin",
-   "url": "https://www.clionautes.org/itineraire-dun-cartographe-palestinien.html",
-   "resume": "RENCONTRE – Itinéraire d’un cartographe palestinien 9h30-10h30, Cathédrale Intervenants : Khalil Tafakji, Géographe : traduit de l’anglais par un interprète, auteur de 31° Nord 35° Est, Chroniques géographiques de la colonisation israélienne (La Découverte) Delphine Papin, docteure en géopolitique, cartographe, Israël-Palestine (Tallandier) Delphine Papin accueille Khalil Tafakji qui évoque son parcours de cartographe et les enjeux […]"
+   "date": "2026-10-28",
+   "auteurs": "Pauline Eliot",
+   "url": "https://www.clionautes.org/travailleurs-roumains-en-france-une-citoyennete-europeenne-mise-a-lepreuve.html",
+   "resume": "Thibault Courcelle est géographe à Albi, David Gouard est politiste à Toulouse et Samuel Delepine est géographe à Angers auprès du Laboratoire SMS (Structuration des mondes sociaux). Les gens dont ils vont parler durant cette analyse politique n’ont pas la citoyenneté française et ont un rapport au vote éloigné. Quelques mots sur la migration roumaine […]"
   },
   {
-   "uid": "b42d23a94cf7f8b5",
-   "titre": "Le corps en mouvement dans la peinture",
-   "source": "Les Clionautes",
-   "date": "2026-10-27",
-   "auteurs": "Christine Focquenoy",
-   "url": "https://www.clionautes.org/le-corps-en-mouvement-dans-la-peinture.html",
-   "resume": "Georges Vigarello, directeur d’études à l’Ecole des hautes études en sciences sociales, a donné une conférence passionnante, « Le corps en mouvement dans la peinture », dans la magnifique salle des États Généraux du château de Blois. La conférence relève le défi de comprendre comment une surface plane, immobile peut donner l’impression du mouvement. Georges Vigarello souligne […]"
-  },
-  {
-   "uid": "cbe56dbcf478eab4",
-   "titre": "Protéger la biodiversité : et si avant de dépenser plus, on ciblait mieux les efforts ?",
+   "uid": "57a27d8e4f2da42b",
+   "titre": "Relance du nucléaire : produire plus, plus vite, sans dégrader la sûreté, est-ce possible ?",
    "source": "The Conversation — Environnement",
-   "date": "2026-10-27",
+   "date": "2026-10-28",
    "auteurs": "",
-   "url": "https://theconversation.com/proteger-la-biodiversite-et-si-avant-de-depenser-plus-on-ciblait-mieux-les-efforts-292410",
-   "resume": "Alors que les financements en faveur de la biodiversité diminuent, le choix des stratégies les plus efficaces au regard des objectifs recherchés est crucial."
+   "url": "https://theconversation.com/relance-du-nucleaire-produire-plus-plus-vite-sans-degrader-la-surete-est-ce-possible-293769",
+   "resume": "Pour répondre à cette question, une équipe de chercheurs travaille depuis dix ans sur le terrain et analyse le travail quotidien des professionnels du secteur."
   },
   {
-   "uid": "036299d3f35e20c1",
-   "titre": "Périodiser en classe d'histoire : une recherche didactique pour développer les compétences critiques en éducation prioritaire",
+   "uid": "465cb4f499225d31",
+   "titre": "De Victor à Janmari, proximités et écarts avec la figure de l’enfant sauvage chez Fernand Deligny",
    "source": "HAL",
-   "date": "2026-10-27",
-   "auteurs": "Erwan Desnos",
-   "url": "https://hal.science/hal-05840597v1",
-   "resume": "L'évolution de l'enseignement de l'histoire se heurte à des résistances à plusieurs niveaux : les débats médiatiques sur les programmes (Leduc, 2003), la persistance d'une vision positiviste du savoir chez les enseignants (Tutiaux-Guillon, 2008) et l'inertie des pratiques pédagogiques, souvent guidées par la peur de ne pas couvrir l'intégralité du programme. Ces résistances se répercutent sur les élèves, alors habitués à un format d'enseignement linéaire et exhaustif. Cette résistance, parfois perceptible, est pourtant en tension avec de nouvelles attentes sociétales vis-à-vis de l'enseignement de l'histoire, comme celui de développer l'esprit critique. La recherche en didactique montre que "
+   "date": "2026-10-28",
+   "auteurs": "Michaël Pouteyo",
+   "url": "https://hal.science/hal-05842083v1",
+   "resume": "Deligny travaille avec des enfants dont la « sauvagerie » est à entendre en dehors de tout motif littéraire. Si les enfants avec lesquels il travaille sont dits sauvages, c’est avant tout parce qu’ils ne respectent pas les normes habituelles de la vie en société. La lecture des mémoires d’Itard et la rencontre avec Janmari, enfant autiste mutique, lui permet de mieux définir sa position et d’envisager les conditions théoriques et pratiques d’un mode de vie en commun, par-delà le langage."
   },
   {
-   "uid": "39956d693e3a1740",
-   "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
+   "uid": "17cfc47fbdfc46d6",
+   "titre": "Traitements lexicométriques du texte littéraire",
    "source": "HAL",
-   "date": "2026-10-27",
-   "auteurs": "Erwan Desnos",
-   "url": "https://hal.science/hal-05735818v1",
-   "resume": "La pensée historienne, qui consiste à appréhender les faits passés à travers des méthodes critiques, des postures réflexives et une reconstruction active du temps (Pirard, 2022), reste marginalisée dans les pratiques scolaires ordinaires. Celles-ci tendent en effet à réduire le temps historique à une vision linéaire et monodirectionnelle, notamment à travers l'usage conventionnel de la frise chronologique, souvent limitée à des opérations de mémorisation et de localisation (Lautier, 2001). Pourtant, cet outil graphique, lorsqu'il est repensé, peut devenir un médiateur à la fois pour mobiliser des opérations intellectuelles complexes et pour favoriser les interactions entre élèves. Nous propo"
-  },
-  {
-   "uid": "31bea7e8ae012fda",
-   "titre": "Faire périodiser les élèves en classe d'histoire pour construire des savoirs plus critiques",
-   "source": "HAL",
-   "date": "2026-10-27",
-   "auteurs": "Erwan Desnos",
-   "url": "https://hal.science/hal-05735802v1",
-   "resume": "Les périodes sont omniprésentes dans toutes les démarches d'historicisation. Objet de débat dans la sphère universitaire, elles paraissent pourtant figées dans le monde scolaire. Si l'on étudie les périodes en classe, la périodisation elle-même est peu présente. Pourtant, il s'agit d'une opération fondamentale d'historicisation et d'intelligibilité du temps dans l'enquête historienne. Parmi les cadres théoriques en didactique de l'histoire, le cadre de l'apprentissage par la problématisation considère que les savoirs sont inséparables des pratiques et processus qui les ont produits. Ainsi, les savoirs se construisent dans la construction d'un problème. En nous inscrivant dans ce cadre, nous "
-  },
-  {
-   "uid": "2111dddea34f5bdb",
-   "titre": "Concevoir avec l’IA : compétences techno-pédagogiques et stratégies d’appropriation des enseignants dans les dispositifs adaptatifs ouverts",
-   "source": "HAL",
-   "date": "2026-10-27",
-   "auteurs": "Mariana Mancieri, Christine Michel, Laëtitia Pierrot",
-   "url": "https://hal.science/hal-05840635v1",
-   "resume": "Les dispositifs d’apprentissage adaptatif transforment les pratiques pédagogiques en permettant, grâce aux technologies d’IA, de personnaliser les parcours et de soutenir l’engagement des apprenants (du Plooy et al., 2024). Toutefois, les solutions actuellement disponibles, comme Pix, Lalilo, Adaptiv’Langue ou Adaptiv’Math, reposent majoritairement sur des architectures fermées, dont les paramètres algorithmiques, les ressources et les critères d’adaptation ne sont ni visibles ni paramétrables par les enseignants. Pensés pour s’ajuster à une grande diversité de contextes, ces systèmes encadrent fortement l’action pédagogique. Les enseignants développent alors des stratégies de détournement d"
-  },
-  {
-   "uid": "138fd2b9292c2118",
-   "titre": "Grand prix AFINEF des collectivités innovantes",
-   "source": "Ludomag",
-   "date": "2026-10-27",
-   "auteurs": "redaction",
-   "url": "https://www.ludomag.com/2026/10/27/grand-prix-afinef-des-collectivites-innovantes/?utm_source=rss&utm_medium=rss&utm_campaign=grand-prix-afinef-des-collectivites-innovantes",
-   "resume": "Pour la troisième année consécutive, l’AFINEF propose de mettre en avant les initiatives portées par les collectivités territoriales en matière d’innovation dans le secteur de l’éducation.\nL’article Grand prix AFINEF des collectivités innovantes est apparu en premier sur Ludomag ."
-  },
-  {
-   "uid": "4b327676c37169fa",
-   "titre": "L’IA pour les Débutants",
-   "source": "Ludomag",
-   "date": "2026-10-27",
-   "auteurs": "rédaction",
-   "url": "https://www.ludomag.com/2026/10/27/lia-pour-les-debutants/?utm_source=rss&utm_medium=rss&utm_campaign=lia-pour-les-debutants",
-   "resume": "Vous ouvrez ChatGPT, vous posez une question et vous obtenez un long texte qui ne vous aide pas vraiment. Vous essayez de nouveau, sans trop savoir quoi changer. À force d'entendre que l'IA est facile à utiliser, cette première expérience peut être décourageante.\nL’article L’IA pour les Débutants est apparu en premier sur Ludomag ."
-  },
-  {
-   "uid": "ebfc2f55f40eee1d",
-   "titre": "Enfants et écrans : et si tout se jouait avant l’entrée à l’école ?",
-   "source": "Ludomag",
-   "date": "2026-10-27",
-   "auteurs": "rédaction",
-   "url": "https://www.ludomag.com/2026/10/27/enfants-et-ecrans-et-si-tout-se-jouait-avant-lentree-a-lecole/?utm_source=rss&utm_medium=rss&utm_campaign=enfants-et-ecrans-et-si-tout-se-jouait-avant-lentree-a-lecole",
-   "resume": "Alors que les débats sur les écrans se concentrent souvent sur les smartphones des adolescents et les réseaux sociaux, un nouveau rapport de Terra Nova invite à regarder bien plus tôt, dès les premières années de vie. Publié le 13 octobre 2026, « Enfants et écrans : prendre le problème à la racine » alerte […]\nL’article Enfants et écrans : et si tout se jouait avant l’entrée à l’école ? est apparu en premier sur Ludomag ."
-  },
-  {
-   "uid": "2e690fd705795c49",
-   "titre": "« Osez les métiers du numérique »",
-   "source": "Ludomag",
-   "date": "2026-10-27",
-   "auteurs": "redaction",
-   "url": "https://www.ludomag.com/2026/10/27/osez-les-metiers-du-numerique/?utm_source=rss&utm_medium=rss&utm_campaign=osez-les-metiers-du-numerique",
-   "resume": "Après le vif succès des trois premières éditions organisées à Paris, la Banque de France déploie pour la première fois à Lille l’événement « Osez les métiers du numérique », en partenariat avec l’Académie de Lille.\nL’article « Osez les métiers du numérique » est apparu en premier sur Ludomag ."
-  },
-  {
-   "uid": "5d9b602dee6e3d80",
-   "titre": "Numéville : un jeu de plateau pour apprendre à déjouer les pièges du numérique !",
-   "source": "Ludomag",
-   "date": "2026-10-27",
-   "auteurs": "Aurélie Julien",
-   "url": "https://www.ludomag.com/2026/10/27/numeville-un-jeu-de-plateau-pour-apprendre-a-dejouer-les-pieges-du-numerique/?utm_source=rss&utm_medium=rss&utm_campaign=numeville-un-jeu-de-plateau-pour-apprendre-a-dejouer-les-pieges-du-numerique",
-   "resume": "Comment sensibiliser les jeunes aux enjeux du numérique sans leur faire la morale ? Avec Numéville, l'apprentissage passe par le jeu, la coopération et l'esprit critique.\nL’article Numéville : un jeu de plateau pour apprendre à déjouer les pièges du numérique ! est apparu en premier sur Ludomag ."
-  },
-  {
-   "uid": "99fa6221e474af67",
-   "titre": "La misión de la Consolata en Caquetá y Putumayo. Desarrollo educativo, construcción del tejido social y acción humanitaria en el Sur de Colombia",
-   "source": "HAL",
-   "date": "2026-10-26",
-   "auteurs": "Maurizio Alì, Matthew Arose Magak, Iván David Buelvas Arrieta, Alba Rocio Báez",
-   "url": "https://hal.science/hal-05839950v1",
+   "date": "2026-10-28",
+   "auteurs": "Baptiste Bohet",
+   "url": "https://hal.science/hal-05842077v1",
    "resume": ""
   },
   {
-   "uid": "74f3bc3d8ec37f1f",
-   "titre": "Pourquoi apprendre à l’ère de l’IA ? Réflexion avec les personnes étudiantes",
+   "uid": "8667159a309292a3",
+   "titre": "L’intégration de l’IAG dans le secteur des services : Risques et capacités dynamiques de réponses",
    "source": "HAL",
-   "date": "2026-10-26",
-   "auteurs": "Solenn Gillouard, Prune Sochard, Mélanie Pauly-Harquevaux, Colin de La Higuera",
-   "url": "https://nantes-universite.hal.science/hal-05839751v1",
-   "resume": "Face aux transformations profondes de l’apprentissage induites par l’IA générative, il est aujourd’hui primordial de replacer les personnes étudiantes au cœur des réflexions sur l’avenir de l’éducation, alors qu’elles en sont souvent absentes des débats de politique éducative. Portée par le réseau Unitwin UNOE, une initiative a mobilisé des groupes d’étudiant·es dans plusieurs pays afin d’explorer collectivement la question « Pourquoi apprend-on aujourd’hui ? ». Les participant·es ont analysé leurs motivations d’apprentissage et l’impact de l’IA, partageant leurs réflexions au sein du réseau. Le projet s’étend désormais à neuf pays et vise à construire une communauté étudiante internationale"
+   "date": "2026-10-28",
+   "auteurs": "Yasmine Sabor, Mamadou Ndione, Slimane Haddadj",
+   "url": "https://ube.hal.science/hal-05842376v1",
+   "resume": "L’objectif de cet article est de proposer une cartographie des différents types de risques liés à l’usage de l’intelligence artificielle générative (IAG) dans les entreprises de services ainsi qu’à identifier des leviers permettant de les encadrer. En mobilisant la théorie des capacités dynamiques, nous avons mené 18 entretiens semi-directifs. L’analyse thématique met en évidence deux grandes catégories de risques (exogènes et endogènes) ainsi qu’une catégorie émergente de risques humains, située à l’interface de ces deux dimensions. Les résultats soulignent l’importance de processus participatifs, coopératifs et réglementaires pour structurer une intégration maîtrisée de l’IAG, ainsi que le"
+  },
+  {
+   "uid": "c2278faa882f1614",
+   "titre": "Que deviennent les États-Unis à l’approche des midterms ?",
+   "source": "Les Clionautes",
+   "date": "2026-10-27",
+   "auteurs": "Ludovic Chevassus",
+   "url": "https://www.clionautes.org/que-deviennent-les-etats-unis-a-lapproche-des-midterms.html",
+   "resume": "À un mois des élections de mi-mandat, tout semble annoncer une vague bleue. La flambée des carburants pèse sur les ménages américains. La guerre contre l’Iran est impopulaire. Pourtant, au Palais Neptune, les quatre spécialistes réunis par Marie-Caroline Debray ont surtout parlé d’autre chose. Le 3 novembre dira qui tient les clés de la maison. […]"
+  },
+  {
+   "uid": "a097a60d4d2e5d7f",
+   "titre": "The Socratic Method in Secondary Education: Transforming passive secondary stage learners into active, critical thinkers through structured inquiry.",
+   "source": "OpenAlex",
+   "date": "2026-10-27",
+   "auteurs": "Shrutidhara Mahanta",
+   "url": "https://doi.org/10.5281/zenodo.23691191",
+   "resume": "This presentation serves as an actionable pedagogical guide designed to help secondary stage educators integrate the Socratic Method into modern classroom practice. It begins by establishing the core philosophy of Socratic dialogue—shifting instruction away from passive lecture toward student-centered, inquiry-based learning. Educators are introduced to practical instructional strategies, including formulating open-ended questions, systematically probing student assumptions, scaffolding progressive prompts, and guiding respectful classroom debates. These techniques empower teachers to nurture critical thinking, intellectual independence, and deeper conceptual comprehension among secondary sc"
+  },
+  {
+   "uid": "4f7218d0b18d5dac",
+   "titre": "From the history of classical education in Western Siberia: senior teacher of the Main Public School of Tobolsk Timofey Mikhailovich Voskresensky (1766–1815)",
+   "source": "OpenAlex",
+   "date": "2026-10-27",
+   "auteurs": "Лаптева Марина Юрьевна",
+   "url": "https://doi.org/10.33693/2658-4654-2026-8-3-151-159",
+   "resume": "This article explores the professional biography of T. M. Voskresensky, a graduate of the Trinity (Lavra) Theological Seminary and the St. Petersburg Teachers' Seminary, and one of the first four teachers at the Main Public School in the Siberian provincial city of Tobolsk in the last quarter of the 18th century. Drawing on archival data, including data introduced into scholarly circulation for the first time, the author reconstructs the main biographical details, professional, and personal characteristics of this senior teacher at the Main Public School in Tobolsk, which was transformed into the first classical gymnasium in Western Siberia in the early 19th century. Voskresensky's life jour"
+  },
+  {
+   "uid": "416ff86a1b17dbcd",
+   "titre": "A Demographic Analysis of Midwest Clinic Performing Ensembles from 2015-2024",
+   "source": "OpenAlex",
+   "date": "2026-10-27",
+   "auteurs": "Rose Alon",
+   "url": "https://doi.org/10.13016/i4w0-t17s",
+   "resume": "This study examined the demographic and institutional characteristics of the high school bands, string orchestras, and full orchestras that performed at The Midwest Clinic International Band & Orchestra Conference between 2015 and 2024. Although The Midwest Clinic is widely recognized as one of the premier music education conferences in the United States, little research has examined the demographic characteristics of the schools represented on its performance stage. Using publicly available data sourced from The Midwest Clinic, the National Center for Education Statistics, the U.S. Census Bureau, and the ProPublica Nonprofit Explorer, this study compiled a dataset of 114 performing ensemble"
+  },
+  {
+   "uid": "d9adb98b5bf66d43",
+   "titre": "A New Subspecies of Leporicypraea mappa (Linnaeus, 1758) from the Society Islands, French Polynesia (Mollusca: Gastropoda: Cypraeidae)",
+   "source": "OpenAlex",
+   "date": "2026-10-27",
+   "auteurs": "David Lum",
+   "url": "https://doi.org/10.54173/f584298",
+   "resume": "This paper describes Leporicypraea mappa hanae n. ssp. from the Society Islands, French Polynesia, as a new subspecies of Leporicypraea mappa (Linnaeus, 1758). Previously considered a form of Leporicypraea mappa admirabilis Lorenz, 2002, this population is distinguished by unique shell characteristics. The paper also considers environmental factors that may have contributed to its divergence from related taxa."
+  },
+  {
+   "uid": "0039c458bd7f00e0",
+   "titre": "Occurrence Download",
+   "source": "OpenAlex",
+   "date": "2026-10-27",
+   "auteurs": "GBIF.org User",
+   "url": "https://doi.org/10.15468/dl.6y4m5s",
+   "resume": "A dataset containing 119136 species occurrences available in GBIF matching the query: { \"and\" : [ \"TaxonKey is Felis catus\", \"HasCoordinate is true\", \"Country is one of (Australia, Ecuador, Spain, United Kingdom of Great Britain and Northern Ireland, Japan, Mexico, New Caledonia, New Zealand, French Polynesia, Réunion, French Southern Territories, United States of America, South Africa)\" ] } The dataset includes 119136 records from 180 constituent datasets; see https://api.gbif.org/v1/occurrence/download/0009507-261023074918325/datasets/export for details. Data from some individual datasets included in this download may be licensed under less restrictive terms."
   }
  ]
 }
