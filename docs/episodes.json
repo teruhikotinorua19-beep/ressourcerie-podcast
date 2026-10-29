@@ -1,5 +1,32 @@
 [
  {
+  "fichier": "veille-2026-10-29.mp3",
+  "date": "2026-10-29",
+  "pubdate": "Thu, 29 Oct 2026 06:10:20 -1000",
+  "titre": "Veille du 29 octobre",
+  "description": "2 article(s) retenu(s) pour la classe.",
+  "duree": "00:01:35",
+  "taille": 572112,
+  "items": [
+   {
+    "uid": "e7eff6e476fbbb0c",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Les aspects politiques »",
+    "url": "https://hal.science/hal-05842508v1",
+    "source": "HAL",
+    "score": 58,
+    "raison": "Conférence sur le poids de l'histoire coloniale et de l'esclavage dans les outre-mer : un point d'appui pour la colonisation en première et la citoyenneté en EMC."
+   },
+   {
+    "uid": "3346ac6c567d115c",
+    "titre": "Ressources d’accompagnement en histoire-géographie : le ministère consulte les professeurs",
+    "url": "https://www.clionautes.org/consultation-ressources-histoire-geographie.html",
+    "source": "Les Clionautes",
+    "score": 56,
+    "raison": "Consultation nationale ouverte jusqu'au dix-huit décembre sur les ressources d'accompagnement des programmes d'histoire-géographie : l'occasion de dire ce qu'il te faut pour tes classes."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-28.mp3",
   "date": "2026-10-28",
   "pubdate": "Wed, 28 Oct 2026 06:17:23 -1000",
