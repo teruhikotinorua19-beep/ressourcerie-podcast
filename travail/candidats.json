@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-28T16:04+00:00",
+ "genere": "2026-10-29T16:07+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,103 +8,58 @@
  },
  "items": [
   {
-   "uid": "f13b2cb73ca7bc85",
-   "titre": "Travailleurs roumains en France : une citoyenneté européenne mise à l’épreuve",
+   "uid": "3346ac6c567d115c",
+   "titre": "Ressources d’accompagnement en histoire-géographie : le ministère consulte les professeurs",
    "source": "Les Clionautes",
-   "date": "2026-10-28",
-   "auteurs": "Pauline Eliot",
-   "url": "https://www.clionautes.org/travailleurs-roumains-en-france-une-citoyennete-europeenne-mise-a-lepreuve.html",
-   "resume": "Thibault Courcelle est géographe à Albi, David Gouard est politiste à Toulouse et Samuel Delepine est géographe à Angers auprès du Laboratoire SMS (Structuration des mondes sociaux). Les gens dont ils vont parler durant cette analyse politique n’ont pas la citoyenneté française et ont un rapport au vote éloigné. Quelques mots sur la migration roumaine […]"
+   "date": "2026-10-29",
+   "auteurs": "William Brou",
+   "url": "https://www.clionautes.org/consultation-ressources-histoire-geographie.html",
+   "resume": "La DGESCO ouvre jusqu’au 18 décembre 2026 une consultation nationale sur les ressources d’accompagnement des programmes d’histoire-géographie. Dix minutes pour dire ce dont vous avez besoin, du CP à la terminale. Nous vous invitons à y répondre, avec quelques réserves. Ce qui est en jeu La consultation ne porte pas sur le contenu des programmes, […]"
   },
   {
-   "uid": "57a27d8e4f2da42b",
-   "titre": "Relance du nucléaire : produire plus, plus vite, sans dégrader la sûreté, est-ce possible ?",
+   "uid": "dd3e8bfdf11382da",
+   "titre": "Effacement électrique : la Cour des comptes dénonce une politique coûteuse et inefficace",
    "source": "The Conversation — Environnement",
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "auteurs": "",
-   "url": "https://theconversation.com/relance-du-nucleaire-produire-plus-plus-vite-sans-degrader-la-surete-est-ce-possible-293769",
-   "resume": "Pour répondre à cette question, une équipe de chercheurs travaille depuis dix ans sur le terrain et analyse le travail quotidien des professionnels du secteur."
+   "url": "https://theconversation.com/effacement-electrique-la-cour-des-comptes-denonce-une-politique-couteuse-et-inefficace-294262",
+   "resume": "La Cour des comptes a récemment publié un bilan sévère, qui pointe de nombreux dysfonctionnements du dispositif qui existait jusqu’en 2026."
   },
   {
-   "uid": "465cb4f499225d31",
-   "titre": "De Victor à Janmari, proximités et écarts avec la figure de l’enfant sauvage chez Fernand Deligny",
+   "uid": "f010906f90d806d3",
+   "titre": "Comprendre le paradoxe des prix négatifs de l’électricité : quand la rareté change de camp",
+   "source": "The Conversation — Environnement",
+   "date": "2026-10-29",
+   "auteurs": "",
+   "url": "https://theconversation.com/comprendre-le-paradoxe-des-prix-negatifs-de-lelectricite-quand-la-rarete-change-de-camp-292514",
+   "resume": "Les prix négatifs de l’électricité montrent que la rareté a changé de camp : tout dépend désormais de notre aptitude à rendre les consommations plus flexibles."
+  },
+  {
+   "uid": "4d61169adac6d57f",
+   "titre": "Éthique des usages de l'IA à l’école : proposition d’un modèle d’analyse de la problématisation des usages dans un cadre de référence sociotechnique",
+   "source": "HAL",
+   "date": "2026-10-29",
+   "auteurs": "Michael Zeyringer",
+   "url": "https://hal.science/hal-05843317v1",
+   "resume": "Les discours institutionnels, tant nationaux qu’internationaux, promeuvent une IA « éthique, inclusive et centrée sur l’humain ». Dans notre étude, nous nous intéressons aux réflexions des professeurs des écoles, et à la manière dont ces réflexions peuvent avoir une incidence sur les usages et non-usages. Nous adoptons une démarche exploratoire et posons les bases d’un modèle théorique en construction pour l’analyse de la problématisation des usages et non-usages des IA, dans la perspective d’une éthique située (Zacklad et Rouvroy, 2022). En mobilisant conjointement la problématisation (Fabre et Orange, 1997) et le cadre sociotechnique (Flichy, 2008), nous mettons en évidence que les enseign"
+  },
+  {
+   "uid": "89eb693bde3f1ab1",
+   "titre": "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+   "source": "CNIL",
+   "date": "2026-10-29",
+   "auteurs": "CNIL",
+   "url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+   "resume": "Le 22 octobre 2026, la CNIL a sanctionné les sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT d’une amende de 7&nbsp;millions d’euros pour non-respect des règles applicables en matière de traceurs (cookies)."
+  },
+  {
+   "uid": "e7eff6e476fbbb0c",
+   "titre": "Conférence à l'Académie des sciences d'outre-mer « Les aspects politiques »",
    "source": "HAL",
    "date": "2026-10-28",
-   "auteurs": "Michaël Pouteyo",
-   "url": "https://hal.science/hal-05842083v1",
-   "resume": "Deligny travaille avec des enfants dont la « sauvagerie » est à entendre en dehors de tout motif littéraire. Si les enfants avec lesquels il travaille sont dits sauvages, c’est avant tout parce qu’ils ne respectent pas les normes habituelles de la vie en société. La lecture des mémoires d’Itard et la rencontre avec Janmari, enfant autiste mutique, lui permet de mieux définir sa position et d’envisager les conditions théoriques et pratiques d’un mode de vie en commun, par-delà le langage."
-  },
-  {
-   "uid": "17cfc47fbdfc46d6",
-   "titre": "Traitements lexicométriques du texte littéraire",
-   "source": "HAL",
-   "date": "2026-10-28",
-   "auteurs": "Baptiste Bohet",
-   "url": "https://hal.science/hal-05842077v1",
-   "resume": ""
-  },
-  {
-   "uid": "8667159a309292a3",
-   "titre": "L’intégration de l’IAG dans le secteur des services : Risques et capacités dynamiques de réponses",
-   "source": "HAL",
-   "date": "2026-10-28",
-   "auteurs": "Yasmine Sabor, Mamadou Ndione, Slimane Haddadj",
-   "url": "https://ube.hal.science/hal-05842376v1",
-   "resume": "L’objectif de cet article est de proposer une cartographie des différents types de risques liés à l’usage de l’intelligence artificielle générative (IAG) dans les entreprises de services ainsi qu’à identifier des leviers permettant de les encadrer. En mobilisant la théorie des capacités dynamiques, nous avons mené 18 entretiens semi-directifs. L’analyse thématique met en évidence deux grandes catégories de risques (exogènes et endogènes) ainsi qu’une catégorie émergente de risques humains, située à l’interface de ces deux dimensions. Les résultats soulignent l’importance de processus participatifs, coopératifs et réglementaires pour structurer une intégration maîtrisée de l’IAG, ainsi que le"
-  },
-  {
-   "uid": "c2278faa882f1614",
-   "titre": "Que deviennent les États-Unis à l’approche des midterms ?",
-   "source": "Les Clionautes",
-   "date": "2026-10-27",
-   "auteurs": "Ludovic Chevassus",
-   "url": "https://www.clionautes.org/que-deviennent-les-etats-unis-a-lapproche-des-midterms.html",
-   "resume": "À un mois des élections de mi-mandat, tout semble annoncer une vague bleue. La flambée des carburants pèse sur les ménages américains. La guerre contre l’Iran est impopulaire. Pourtant, au Palais Neptune, les quatre spécialistes réunis par Marie-Caroline Debray ont surtout parlé d’autre chose. Le 3 novembre dira qui tient les clés de la maison. […]"
-  },
-  {
-   "uid": "a097a60d4d2e5d7f",
-   "titre": "The Socratic Method in Secondary Education: Transforming passive secondary stage learners into active, critical thinkers through structured inquiry.",
-   "source": "OpenAlex",
-   "date": "2026-10-27",
-   "auteurs": "Shrutidhara Mahanta",
-   "url": "https://doi.org/10.5281/zenodo.23691191",
-   "resume": "This presentation serves as an actionable pedagogical guide designed to help secondary stage educators integrate the Socratic Method into modern classroom practice. It begins by establishing the core philosophy of Socratic dialogue—shifting instruction away from passive lecture toward student-centered, inquiry-based learning. Educators are introduced to practical instructional strategies, including formulating open-ended questions, systematically probing student assumptions, scaffolding progressive prompts, and guiding respectful classroom debates. These techniques empower teachers to nurture critical thinking, intellectual independence, and deeper conceptual comprehension among secondary sc"
-  },
-  {
-   "uid": "4f7218d0b18d5dac",
-   "titre": "From the history of classical education in Western Siberia: senior teacher of the Main Public School of Tobolsk Timofey Mikhailovich Voskresensky (1766–1815)",
-   "source": "OpenAlex",
-   "date": "2026-10-27",
-   "auteurs": "Лаптева Марина Юрьевна",
-   "url": "https://doi.org/10.33693/2658-4654-2026-8-3-151-159",
-   "resume": "This article explores the professional biography of T. M. Voskresensky, a graduate of the Trinity (Lavra) Theological Seminary and the St. Petersburg Teachers' Seminary, and one of the first four teachers at the Main Public School in the Siberian provincial city of Tobolsk in the last quarter of the 18th century. Drawing on archival data, including data introduced into scholarly circulation for the first time, the author reconstructs the main biographical details, professional, and personal characteristics of this senior teacher at the Main Public School in Tobolsk, which was transformed into the first classical gymnasium in Western Siberia in the early 19th century. Voskresensky's life jour"
-  },
-  {
-   "uid": "416ff86a1b17dbcd",
-   "titre": "A Demographic Analysis of Midwest Clinic Performing Ensembles from 2015-2024",
-   "source": "OpenAlex",
-   "date": "2026-10-27",
-   "auteurs": "Rose Alon",
-   "url": "https://doi.org/10.13016/i4w0-t17s",
-   "resume": "This study examined the demographic and institutional characteristics of the high school bands, string orchestras, and full orchestras that performed at The Midwest Clinic International Band & Orchestra Conference between 2015 and 2024. Although The Midwest Clinic is widely recognized as one of the premier music education conferences in the United States, little research has examined the demographic characteristics of the schools represented on its performance stage. Using publicly available data sourced from The Midwest Clinic, the National Center for Education Statistics, the U.S. Census Bureau, and the ProPublica Nonprofit Explorer, this study compiled a dataset of 114 performing ensemble"
-  },
-  {
-   "uid": "d9adb98b5bf66d43",
-   "titre": "A New Subspecies of Leporicypraea mappa (Linnaeus, 1758) from the Society Islands, French Polynesia (Mollusca: Gastropoda: Cypraeidae)",
-   "source": "OpenAlex",
-   "date": "2026-10-27",
-   "auteurs": "David Lum",
-   "url": "https://doi.org/10.54173/f584298",
-   "resume": "This paper describes Leporicypraea mappa hanae n. ssp. from the Society Islands, French Polynesia, as a new subspecies of Leporicypraea mappa (Linnaeus, 1758). Previously considered a form of Leporicypraea mappa admirabilis Lorenz, 2002, this population is distinguished by unique shell characteristics. The paper also considers environmental factors that may have contributed to its divergence from related taxa."
-  },
-  {
-   "uid": "0039c458bd7f00e0",
-   "titre": "Occurrence Download",
-   "source": "OpenAlex",
-   "date": "2026-10-27",
-   "auteurs": "GBIF.org User",
-   "url": "https://doi.org/10.15468/dl.6y4m5s",
-   "resume": "A dataset containing 119136 species occurrences available in GBIF matching the query: { \"and\" : [ \"TaxonKey is Felis catus\", \"HasCoordinate is true\", \"Country is one of (Australia, Ecuador, Spain, United Kingdom of Great Britain and Northern Ireland, Japan, Mexico, New Caledonia, New Zealand, French Polynesia, Réunion, French Southern Territories, United States of America, South Africa)\" ] } The dataset includes 119136 records from 180 constituent datasets; see https://api.gbif.org/v1/occurrence/download/0009507-261023074918325/datasets/export for details. Data from some individual datasets included in this download may be licensed under less restrictive terms."
+   "auteurs": "George Pau-Langevin",
+   "url": "https://hal.science/hal-05842508v1",
+   "resume": "On désigne couramment sous le terme de 6° Dom, les Ultramarins qui vivent non dans leur territoire d’origine mais dans l’hexagone. Pour eux, l’enjeu est de construire une relation nouvelle avec une France de la Diversité, ouverte aux paradigmes mondiaux mais dans la conscience approfondie et lucide des enjeux d’hier et d’aujourd’hui entre singularité - identité et citoyenneté partagée. 1) Les outremers français et le poids de l’histoire 1.A. Les vieilles colonies appartiennent à la France depuis le 17° siècle selon les rapports Nord-Sud dans un contexte déjà de domination, avec une économie de plantation fondée sur l'esclavage. Les peuples autochtones préexistants ont partout quasiment dispa"
   }
  ]
 }
