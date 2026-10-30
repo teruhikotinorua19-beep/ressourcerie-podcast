@@ -1,5 +1,40 @@
 [
  {
+  "fichier": "veille-2026-10-30.mp3",
+  "date": "2026-10-30",
+  "pubdate": "Fri, 30 Oct 2026 06:12:09 -1000",
+  "titre": "Veille du 30 octobre",
+  "description": "3 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:53",
+  "taille": 1035648,
+  "items": [
+   {
+    "uid": "9b2205c74bf2a3df",
+    "titre": "L’objet de voyage et l’objectification de l’enseignement géographique à la fin du xixe siècle",
+    "url": "https://hal.science/hal-05845627v1",
+    "source": "HAL",
+    "score": 64,
+    "raison": "Un article de didactique qui montre comment les objets rapportés de voyage ont servi à enseigner la géographie à la fin du dix-neuvième siècle : utile pour faire réfléchir en classe à l'histoire de la discipline et à la place de l'objet comme document."
+   },
+   {
+    "uid": "e32d9accff1e806d",
+    "titre": "AI Literacy",
+    "url": "https://doi.org/10.4018/979-8-2600-4926-6.ch006",
+    "source": "OpenAlex",
+    "score": 58,
+    "raison": "Une réflexion sur l'éducation critique à l'IA, qui nourrit le travail d'EMC sur l'esprit critique face aux images et aux textes générés, de la sixième à la première."
+   },
+   {
+    "uid": "921aa7a5192ca9eb",
+    "titre": "Tetiaroa Atoll Diel Seawater Chemistry and Sr/Ca Ratios (2015-2017)",
+    "url": "https://doi.org/10.17632/5435ftgbn5",
+    "source": "OpenAlex",
+    "score": 55,
+    "raison": "Des mesures chimiques de l'eau du récif de l'atoll de Tetiaroa : une donnée brute, très technique, mais qui ancre un exemple polynésien pour le littoral et les milieux récifaux."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-29.mp3",
   "date": "2026-10-29",
   "pubdate": "Thu, 29 Oct 2026 06:10:20 -1000",
