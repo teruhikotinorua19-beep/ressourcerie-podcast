@@ -1,5 +1,40 @@
 [
  {
+  "fichier": "veille-2026-10-31.mp3",
+  "date": "2026-10-31",
+  "pubdate": "Sat, 31 Oct 2026 06:10:29 -1000",
+  "titre": "Veille du 31 octobre",
+  "description": "3 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:37",
+  "taille": 944784,
+  "items": [
+   {
+    "uid": "9a975ef97a06b3b4",
+    "titre": "Inventer les paysages du futur, maintenant !",
+    "url": "https://www.clionautes.org/inventer-les-paysages-du-futur-maintenant.html",
+    "source": "Les Clionautes",
+    "score": 68,
+    "raison": "Un livre présenté par les Clionautes qui croise géographie du paysage et risques climatiques avec la géographe Magali Reghezza-Zitt : utile en seconde pour le chapitre sur les sociétés et les risques, et pour penser le littoral et l'adaptation en sixième."
+   },
+   {
+    "uid": "77b4d87fbda549af",
+    "titre": "De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
+    "url": "https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761",
+    "source": "The Conversation — Histoire",
+    "score": 58,
+    "raison": "Un article de synthèse qui suit la bière de Rome à l'Empire britannique : une entrée originale pour parler des échanges et du pouvoir dans l'Antiquité romaine ou le Moyen Âge, en sixième comme en seconde."
+   },
+   {
+    "uid": "e5cb539b9e97d0b3",
+    "titre": "TEACHING GEOGRAPHY FROM PLACE: THE GEOMORPHOLOGY OF THE MUNICIPALITY OF CARIRÉ-CE AS A LEARNING TOOL",
+    "url": "https://doi.org/10.56346/2764-6203.v9n9.2026.798",
+    "source": "OpenAlex",
+    "score": 55,
+    "raison": "Une séquence de géographie menée avec des élèves de l'équivalent de la cinquième, qui part du relief local pour enseigner : une piste pour ancrer un cours sur le territoire proche, par exemple un relief ou un littoral de Polynésie."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-30.mp3",
   "date": "2026-10-30",
   "pubdate": "Fri, 30 Oct 2026 06:12:09 -1000",
