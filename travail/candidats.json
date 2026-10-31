@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-30T16:02+00:00",
+ "genere": "2026-10-31T15:48+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,130 +8,175 @@
  },
  "items": [
   {
-   "uid": "9b2205c74bf2a3df",
-   "titre": "L’objet de voyage et l’objectification de l’enseignement géographique à la fin du xixe siècle",
-   "source": "HAL",
-   "date": "2026-10-30",
-   "auteurs": "Alice Bombardier",
-   "url": "https://hal.science/hal-05845627v1",
-   "resume": "À partir du compte rendu du 6e Congrès international de géographie (Londres, 1895) – précisément le catalogue d’exposition –, l’article met en lumière la trajectoire géodidactique de l’objet de voyage. Naturel, technique, anthropologique ou symbolique, l’objet de voyage objectifie l’enseignement de la géographie. Cette intégration de l’objet de voyage à l’enseignement géographique dénote une stratégie éducative nouvelle et façonne le développement de la pensée spatiale dans les pays occidentaux."
+   "uid": "9a975ef97a06b3b4",
+   "titre": "Inventer les paysages du futur, maintenant !",
+   "source": "Les Clionautes",
+   "date": "2026-10-31",
+   "auteurs": "Adeline Abrioux Duong",
+   "url": "https://www.clionautes.org/inventer-les-paysages-du-futur-maintenant.html",
+   "resume": "Présentation par Sophie Bonin SOPHIE BONIN enseigne la géographie aux paysagistes concepteurs à l’Ecole Nationale Supérieure de Paysage de Versailles et elle est directrice du laboratoire de recherche sur le projet de paysage (LAREP). MAGALI REGHEZZA-ZITT est géographe normalienne, agrégée, spécialiste des risques. Elle a participé au haut conseil pour le climat. Elle travaille dans les questions […]"
   },
   {
-   "uid": "1fb282a5fa18b4a2",
-   "titre": "Vidéo Recherche FNEGE Médias : Exploration du paradoxe d’une efficience perturbée par l’intelligence artificielle. Cas des données de l’action publique - Pitch lors du Concours pour le Prix FNEGE de la Meilleure Thèse en 180 secondes",
-   "source": "HAL",
-   "date": "2026-10-30",
-   "auteurs": "Magalie Duarte",
-   "url": "https://bsb-education.hal.science/hal-05845370v1",
-   "resume": "Titre de la thèse : Exploration du paradoxe d'une efficience perturbée par l'intelligence artificielle. Cas des données de l'action publique. L’intelligence artificielle (IA) suscite des attentes inédites pour relever des défis majeurs d’intérêt général. Pourtant, malgré le progrès fulgurant des techniques d’IA, son adoption se heurte à l’incertitude sur ses effets et aux tensions qu’elle génère. Cette thèse explore les enjeux de l’IA d’intérêt général (IAIG) et de la dynamique complexe de son adoption, à travers deux études de cas en profondeur dont celle d’un modèle prédictif de la perte d’autonomie dans le logement social, analysé en immersion pendant six mois. Elle éclaire les mécanismes"
+   "uid": "77b4d87fbda549af",
+   "titre": "De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
+   "source": "The Conversation — Histoire",
+   "date": "2026-10-31",
+   "auteurs": "",
+   "url": "https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761",
+   "resume": "De l’Empire carolingien à l’Empire britannique, en passant par le Saint-Empire romain germanique, la bière a généré plus de conflits qu’aucun autre alcool au monde."
   },
   {
-   "uid": "8453fccbcea68e68",
-   "titre": "Class’Connect : en Île-de-France, des lycéens accèdent aux logiciels professionnels grâce à la virtualisation",
+   "uid": "b5cb5a4a4c44baa9",
+   "titre": "À l’école maternelle, pourquoi la joie de travailler avec les enfants ne suffit pas à tenir",
+   "source": "The Conversation — Éducation",
+   "date": "2026-10-31",
+   "auteurs": "",
+   "url": "https://theconversation.com/a-lecole-maternelle-pourquoi-la-joie-de-travailler-avec-les-enfants-ne-suffit-pas-a-tenir-293060",
+   "resume": "Enseignants, Atsem, animateurs : trois enquêtes auprès de 181 professionnels de la petite enfance montrent une joie réelle dans l’exercice du métier, tout comme une fatigue liée aux conditions de travail."
+  },
+  {
+   "uid": "340334f3ee667171",
+   "titre": "Artificial Intelligence and Digital Transformation in Higher Education: A Systematic Review of Opportunities, Challenges and Emerging Trends",
+   "source": "OpenAlex",
+   "date": "2026-10-31",
+   "auteurs": "Ms. Komal Kamlesh Gaikwad",
+   "url": "https://doi.org/10.5281/zenodo.23409834",
+   "resume": "Artificial Intelligence AI is getting more and more involved in higher education, it is reshaping teaching, learning , assessment, academic administration, research, and even how institutions decide things. In the last few years the fast rise of generative artificial intelligence GenAI, plus intelligent tutoring systems, learning analytics, automated assessment, recommendation systems, and AI assisted administrative tools has opened up new possibilities for universities, yet it also brings worries like academic integrity, data privacy, algorithmic bias, digital inequality, transparency, and changing professional roles. This paper actually uses a secondary-data based systematic review, lookin"
+  },
+  {
+   "uid": "e4c42d9d440a4ace",
+   "titre": "Une journée d'école – Objets, gestes et formes",
+   "source": "HAL",
+   "date": "2026-10-30",
+   "auteurs": "Sylvain Wagnon, Raphaël Wagnon",
+   "url": "https://hal.science/hal-05846242v1",
+   "resume": "À l’école, les objets sont partout. Si familiers qu’ils en deviennent presque invisibles, ils accompagnent pourtant chaque geste, chaque moment de la vie scolaire, d’hier comme d’aujourd’hui. Cet ouvrage explore notre relation matérielle et sensible à l’école à travers une quarantaine d’objets – il révèle ces formes ordinaires, souvent imparfaites, qui incarnent le quotidien de l’école. Déformés par l’usage, réappropriés, réparés ou réutilisés, ces objets industriels racontent une histoire à la fois personnelle et collective. Derrière chacun d’eux se dessinent des expériences humaines singulières, des surfaces, des textures, qui donnent corps à une mémoire scolaire largement partagée."
+  },
+  {
+   "uid": "68f3d05021a3e3b1",
+   "titre": "La confiance et la coopération avec des intelligences artificielles perçues comme « prosociales ».",
+   "source": "HAL",
+   "date": "2026-10-30",
+   "auteurs": "Emmanuel Bazzucchi",
+   "url": "https://hal.science/hal-05846171v1",
+   "resume": "A partir des thèmes de résistance au changement, digitalisation des entreprises, automatisation du travail et insécurité de l’emploi ainsi qu’en parcourant la littérature récente sur la collaboration humain-machine et la prosocialité des IA, cette étude démarre une réflexion exploratoire à propos des effets des intelligences artificielles dotées de prosocialité lorsqu’elles sont introduites dans les organisations. La coopération et la confiance ont été identifiées comme deux concepts essentiels de l’adoption des IA et nous suggérons que des IA capables de comportements prosociaux suscitent une telle adoption en favorisant la coopération et la confiance. Cette recherche souligne toutefois l’i"
+  },
+  {
+   "uid": "f865480c3d36a18c",
+   "titre": "Artificial Intelligence and the Transformation of Management Education",
+   "source": "HAL",
+   "date": "2026-10-30",
+   "auteurs": "Olivier Toutain, Rachid Jabbouri, Yann Truong",
+   "url": "https://hal.science/hal-05846095v1",
+   "resume": "We develop a conceptual framework to examine the potential impact of artificial intelligence (AI) and its associated technologies on five dimensions of management education. Through the analysis of the mission statement of 785 educational technology startups, we identify five mechanisms through which AI may benefit and transform the field of management education in a post-COVID-19 world. Our research is one of the first to propose a global and comprehensive framework to advance our understanding of the impact of a disruptive technology on the traditional and immutable field of higher-education, and more particularly on management education."
+  },
+  {
+   "uid": "bb312b5b588899ab",
+   "titre": "Implications of Ubuntu Theory on Pedagogy for Values Inculcation in Secondary School History Education in Zimbabwe",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Hlengiwe Ncube, Valencia Tshinompheni Mabalane",
+   "url": "https://doi.org/10.26803/ijlter.25.10.35",
+   "resume": "This conceptual narrative review stems from a doctoral study that focuses on the teaching of values in the implementation of the secondary school curriculum in Zimbabwe. The Zimbabwean secondary school history curriculum provides for values inculcation grounded on Ubuntu. However, despite expansive research on the implications of Ubuntu on instructional practice, there is a gap on how it informs pedagogy for values teaching in secondary school history education. The study employed a qualitative approach which enabled an indepth exploration. The review focused on twelve papers on Ubuntu’s application on pedagogy and ten on values pedagogy in secondary school history education that were obtain"
+  },
+  {
+   "uid": "49dd6606f0d8e5a7",
+   "titre": "The school as a site of memory: biographies, documents, and the historical heritage of Inza Secondary School No. 1",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Alexey Nikolaevich Ovchinnikov",
+   "url": "https://doi.org/10.30853/mns20260274",
+   "resume": "The purpose of the study is to substantiate the historical and commemorative significance of the building of Municipal Budgetary General Education Institution “Inza Secondary School No. 1 named after Hero of the Soviet Union Y. T. Alasheev”, drawing on documented biographies of test pilot Y. T. Alasheev and intelligence radio operator E. Ya. Vologodskaya, the chronology of their commemoration, and court case materials. For the first time, the article attempts to bring together archival materials from the Ulyanovsk Regional Scientific Library, regional periodicals, and court rulings on the protection of a cultural heritage site to show how, in this case, the building’s status as a historical "
+  },
+  {
+   "uid": "e5cb539b9e97d0b3",
+   "titre": "TEACHING GEOGRAPHY FROM PLACE: THE GEOMORPHOLOGY OF THE MUNICIPALITY OF CARIRÉ-CE AS A LEARNING TOOL",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Eloisa Rocha Queiroz",
+   "url": "https://doi.org/10.56346/2764-6203.v9n9.2026.798",
+   "resume": "The teaching of physical-natural contents in school Geography still presents challenges related to the fragmentation between nature and society, especially in the approach to topics such as geomorphology. This study aims to analyze the contributions of teaching geomorphology based on the category of place, articulating theoretical and methodological foundations of school Geography with a socio-environmental perspective. The research, of a qualitative nature and applied character, was developed with 7th-grade students of lower secondary education, in the year 2024, through the application of a didactic sequence based on the contents of the textbook and the local reality of the municipality of"
+  },
+  {
+   "uid": "b1fe513028896944",
+   "titre": "Mentoring and strategic vision for inner areas: Experiential background for cascade teacher training",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Carmela Paladino",
+   "url": "https://doi.org/10.5281/zenodo.23807383",
+   "resume": "Schools in inner areas (psnai, 2021) face complex challenges (bartolini et al., 2022; peconio, 2025): geographical isolation, educational poverty (vinci, 2023), sporadic cultural opportunities, a defeatist attitude, and school and territorial dropout. The teacher acts as a mediator (damiano, 2013; flavian, 2019) between cultural heritage and territory-oriented digital skills. The theoretical framework integrates the faro convention, snai, tpack (2006), and digcomp 3.0 (2025). The research addresses three questions: the identification of teachers inclined toward territorial educational design, the identification of technologies as devices for cultural mediation, and the relationship between a"
+  },
+  {
+   "uid": "e96c6e41d6fbb348",
+   "titre": "Developing and Validating a Measurement Scale to Assess Knowledge of Memory and Learning Processes Among Italian Teachers",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Francesco Carabba, Ottavia M. Epifania, Demis Basso",
+   "url": "https://doi.org/10.31234/osf.io/4ta89_v2",
+   "resume": "Knowledge of memory and learning processes may inform teachers’ educational decisions. However, to our knowledge, no psychometrically validated instrument specifically assesses teachers’ procedural knowledge of these processes through realistic classroom scenarios.This Stage 1 Registered Report aims to develop and validate a scenario-based measure of Italian teachers’ procedural knowledge of memory and learning processes.Approximately 600 Italian teachers, from preschool to upper-secondary education, will be recruited through proportional stratified quota sampling based on sex, geographical area, and school level.Following two pilot studies and iterative revisions, 30 original items were ret"
+  },
+  {
+   "uid": "311266d15d159433",
+   "titre": "Design and preliminary validation of an AI enhanced game based learning environment for computational thinking in upper secondary education",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Pongsakon Hengsawat, Chinnaphat Junruang, Issara Kanjug",
+   "url": "https://doi.org/10.1007/s44217-026-02362-4",
+   "resume": "Abstract Integrating generative artificial intelligence within game-based learning offers promising but still-maturing possibilities for computational thinking (CT) education. This developmental research study (Type I) reports the design and preliminary validation of an AI-enhanced game-based learning environment (AI-GBLE) for upper-secondary students. Grounded in constructivism, cognitive load theory, information processing theory, mental models theory, and game-based learning principles, the environment integrates six components on the Roblox platform—problem-based scenarios, learning resources, collaborative learning, a CT enhancement centre, scaffolding, and an AI coaching system combini"
+  },
+  {
+   "uid": "7ba2ac87d94ae4d0",
+   "titre": "Student Interpretation and Negotiation of AI-Generated Critique in Design Studio Education: A Feedback Literacy and Cooperative Learning Perspective",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Atria Nuraini Fadilla, Mai Neo, Heidi Yeen-Ju Tan",
+   "url": "https://doi.org/10.26803/ijlter.25.10.13",
+   "resume": "Generative artificial intelligence (GenAI) is increasingly used in design education, where it can provide students with fast, repeated suggestions or critiques on their work. This study examines how design students interpret AI-generated critique individually and how they negotiate its relevance with their group when making studio design decisions. Feedback literacy and two cooperative learning processes serve as the analytical lenses. The study is a cross-sectional, convergent mixed-methods survey of 77 visual communication design students in a studio course. This article reports a post hoc, theory-guided secondary analysis of three composites, together with five open-ended questions. Perce"
+  },
+  {
+   "uid": "1c1978385d02ee90",
+   "titre": "Algorithmic narratives and affective expression: a study on the impact of generative artificial intelligence on the emotional writing of students and future teachers",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Alfonso Filippone, María S. Carlo",
+   "url": "https://doi.org/10.5281/zenodo.23807102",
+   "resume": "This contribution presents a mixed-methods study on the impact of generative artificial intelligence on emotional writing and the narrative construction of the self. The study moves from the assumption that generative AI does not merely support writing at a technical level, but may act as a symbolic mediator that intervenes in the way subjects organize emotions, relationships and personal experience into narrative form. The theoretical framework is grounded in the perspective of Digital Affective Literacy, understood as the ability to use AI systems critically in order to express, interpret and re-elaborate emotional and relational meanings without delegating authorship or agency to the algo"
+  },
+  {
+   "uid": "9151ede765b1db55",
+   "titre": "Affective Affordances in AI-Mediated Learning: A Scoping Review on Adolescent Motivation and Psychological Needs",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Francesco Facciorusso, Marilena di Padova",
+   "url": "https://doi.org/10.5281/zenodo.23807349",
+   "resume": "The growing integration of generative artificial intelligence (GenAI) in secondary education raises urgent questions about how AI-mediated interactions shape the emotional and motivational dimensions of learning. While much of the discourse on AI in schools has focused on content delivery and academic performance, far less attention has been paid to the affective dynamics that emerge when adolescents engage with conversational agents and adaptive tutoring systems. This paper addresses that gap by examining whether and how AI-mediated learning environments can serve as a \"Strategic Mediators\". Four theoretical lenses structure the inquiry: Self-Determination Theory (SDT; Ryan & Deci, 2000), t"
+  },
+  {
+   "uid": "263fefa89c789847",
+   "titre": "Hybrid and emotionally aware learning environments and digital affective literacy: a mixed-method study on well-being, engagement and inclusion in secondary schools",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Giovanna Scala, Maria Giovanna Tafuri",
+   "url": "https://doi.org/10.5281/zenodo.23807283",
+   "resume": "Contemporary technologies are creating hybrid learning environments in which physical and digital dimensions increasingly overlap (Selwyn, 2021). Generative AI can simulate empathetic responses, making it essential to distinguish artificial support from authentic human relationships (Floridi et al., 2018; Mintz et al., 2023). These tools may support students with Specific Learning Disorders (SLDs) through personalised content, immediate feedback and less judgemental interaction (Ok et al., 2017). Their educational use, however, requires Digital Affective Literacy, understood as the ability to interpret digitally mediated emotions critically and distinguish simulated empathy from human respon"
+  },
+  {
+   "uid": "f11583a630a52a63",
+   "titre": "A.N.I.M.A.: An Experimental Pedagogical Model for Conscious Self-Narration in First-Cycle School",
+   "source": "OpenAlex",
+   "date": "2026-10-30",
+   "auteurs": "Francesco Sarcina, Anna Cuzzi, Giulia Ranieri",
+   "url": "https://doi.org/10.5281/zenodo.23807112",
+   "resume": "Learning to narrate oneself is a decisive competence in primary and lower-secondary school. Recounting a personal episode requires selecting events, ordering them, assigning them meaning and translating them into words: a formative practice that gives shape to experience, names emotions and builds awareness of the self (Bruner, 1991; Demetrio, 1996). Psychology has shown how identity itself takes the form of an internalised and evolving life story. Generative artificial intelligence, now within reach even of young students, is however most often encountered in a substitutive mode, with the machine being asked to write in the student's place. Applied to autobiography, this mode delegates the "
+  },
+  {
+   "uid": "23e8fab3754d20d3",
+   "titre": "Grandir avec l’IA : « L’enjeu n’est pas la compétition, mais l’hybridation », selon Raphaël Gaillard",
    "source": "Ludomag",
    "date": "2026-10-30",
-   "auteurs": "Eric Fourcaud",
-   "url": "https://www.ludomag.com/2026/10/30/classconnect-en-ile-de-france-des-lyceens-accedent-aux-logiciels-professionnels-grace-a-la-virtualisation/?utm_source=rss&utm_medium=rss&utm_campaign=classconnect-en-ile-de-france-des-lyceens-accedent-aux-logiciels-professionnels-grace-a-la-virtualisation",
-   "resume": "REPORTAGE EN CLASSE 🎙️Au lycée Le Corbusier de Cormeilles-en-Parisis (Val-d'Oise), les enseignants expérimentent Class'Connect, une solution de classes virtuelles accessible depuis l'ENT monlycée.net. Objectif : permettre aux élèves d'utiliser des logiciels professionnels exigeants, même sur des ordinateurs peu puissants, tout en simplifiant la maintenance informatique. Hamza Ustun et Mathieu Latzer, deux enseignants de l'établissement, nous expliquent les avantages et les contraintes de ce nouvel environnement de travail.\nL’article Class’Connect : en Île-de-France, des lycéens accèdent aux logiciels professionnels grâce à la virtualisation est apparu en premier sur Ludomag ."
-  },
-  {
-   "uid": "11fc40ea9ae0a390",
-   "titre": "Fascisme : une histoire américaine",
-   "source": "The Conversation — Histoire",
-   "date": "2026-10-29",
-   "auteurs": "",
-   "url": "https://theconversation.com/fascisme-une-histoire-americaine-294393",
-   "resume": "Un récent ouvrage revient sur l’histoire de cette mouvance politique aux multiples visages qui, depuis un siècle, a pesé de diverses façons sur les États-Unis."
-  },
-  {
-   "uid": "d6b76021f5b522c5",
-   "titre": "Le condor de Californie a été sauvé, mais à quel prix, et pour qui ?",
-   "source": "The Conversation — Environnement",
-   "date": "2026-10-29",
-   "auteurs": "",
-   "url": "https://theconversation.com/le-condor-de-californie-a-ete-sauve-mais-a-quel-prix-et-pour-qui-295220",
-   "resume": "Quand la conservation touche les populations locales, qui paie et qui a son mot à dire ? Le rétablissement du condor de Californie éclaire les débats de la conférence des Nations unies sur la biodiversité, à Erevan."
-  },
-  {
-   "uid": "62c0077b264c127a",
-   "titre": "The Secondary Technical School",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Gary McCulloch",
-   "url": "https://doi.org/10.4324/9781042042296",
-   "resume": "Originally published in 1989, Gary McCulloch’s work provided an elegant and pointed answer to the plea for more historical study in the curriculum domain. He focuses on a fascinating episode in the long history of vocationalism in Britain – the Secondary Technical School. In undertaking this historical scholarship, he has avowedly and specifically related this study to new developments in Thatcher’s Britain – notably the Technical and Vocational Education Initiative and the city technical colleges. He poses an important question: does earlier experiment of the Secondary Technical School provide us with a ‘usable past’ as we define policy in the present? The book’s purpose was two-fold. First"
-  },
-  {
-   "uid": "683cd7bd35778b96",
-   "titre": "History and Policy",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Gary McCulloch",
-   "url": "https://doi.org/10.4324/9781042042296-2",
-   "resume": "We may interpret the initiatives of the present government as the latest in a long line of attempts to reconcile the ‘secondary’ with the ‘technical’. It is useful to locate these current initiatives in the context of at least two centuries of endeavours to create and promote the secondary technical school, not only in this country but all over the world. What emerges from such general perspectives is an historic tension between ‘secondary’ and ‘technical’ education that has been particularly severe in twentieth-century England, and which current policies seem intended to resolve. But at present these policies suffer from distortions and limitations that seem likely to reduce their impact or"
-  },
-  {
-   "uid": "b5c4d6748b4f2f55",
-   "titre": "The TVEI: Comparisons and Contrasts",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Gary McCulloch",
-   "url": "https://doi.org/10.4324/9781042042296-9",
-   "resume": "The historical experience of the secondary technical schools offers useful precedents, models and lessons with which to interpret the policy debates of the 1980s, and even to suggest alternative policies for the future. It has been uncommon to make use of this history except in a vague or rhetorical sense. Although recent, the experience of the secondary technical schools has been curiously detached from the policy initiatives of the 1980s. This chapter will attempt to draw conclusions shedding light on the Technical and Vocational Education Initiative (TVEI), first launched in November 1982 and eventually to become a nationwide curriculum project."
-  },
-  {
-   "uid": "99e6bceb6deefecb",
-   "titre": "London",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Kenneth Lindsay",
-   "url": "https://doi.org/10.4324/9781042043118-6",
-   "resume": "In order more fully to explain the growth of secondary education during the last thirty years, and especially the relation of primary to secondary schools, we may take a glance at London thirty years ago. There were about 600 or 700 scholarships for elementary schools, of which about one-half were localized. The amounts in money varied from remission of whole or part of fees to sums of £20 a year. In addition, there were a number of scholarships and exhibitions tenable at efficient secondary schools, either on independent foundations, or attached to special elementary schools, or in the hands of the London School Board. The latter number varied between fifteen and twenty each year. Probably "
-  },
-  {
-   "uid": "e32d9accff1e806d",
-   "titre": "AI Literacy",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Deepak Kumar Gupta",
-   "url": "https://doi.org/10.4018/979-8-2600-4926-6.ch006",
-   "resume": "Children in contemporary school settings are daily consumers of AI-generated content — whether they know it or not. Recommendation feeds, synthetic images, AI-drafted text, and algorithmic advertising have become routine features of childhood digital experience, yet most K–12 curricula offer little preparation for navigating these environments critically. This chapter argues that schools bear a genuine responsibility to address this gap through deliberate, grade-appropriate AI literacy education oriented not merely toward using AI tools, but toward questioning and evaluating what those tools produce. Drawing on recent empirical work and theoretical scholarship across AI literacy, media educa"
-  },
-  {
-   "uid": "d31ee2f2b22a42b2",
-   "titre": "Analisis Penerapan Prosedur Oleh Dinas Pendidikan Dalam Pelaksanaan Dana Bos di Kabupaten Toraja Utara",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Cindy Amelia Tandililing, Sita Yubelina Sabandar",
-   "url": "https://doi.org/10.62710/63j84m88",
-   "resume": "This study aims to analyze the implementation of procedures by the North Toraja Regency Education Office in the administration of School Operational Assistance (BOS) Funds through socialization, monitoring, guidance, and verification in accordance with Minister of Primary and Secondary Education Regulation No. 8 of 2025, as well as to identify the associated constraints from the perspective of public sector accountability and transparency. This study employed a descriptive qualitative approach using in-depth interviews, observation, and documentation. The data were analyzed interactively and validated through triangulation. The findings indicate that all four procedures have been implemented"
-  },
-  {
-   "uid": "921aa7a5192ca9eb",
-   "titre": "Tetiaroa Atoll Diel Seawater Chemistry and Sr/Ca Ratios (2015-2017)",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "S. Aminata Wyatt-Ngom, Anna Zagora, Julian Sachs, Alex Gagnon",
-   "url": "https://doi.org/10.17632/5435ftgbn5",
-   "resume": "This dataset contains discrete seawater carbonate system parameters and elemental concentrations collected across three 24-hour diel sampling campaigns (October 2015, January 2016, and March 2017) at Motu Onetahi, Tetiaroa Atoll, French Polynesia. The data was collected to evaluate the temporal stability of net ecosystem strontium partitioning (Kd, Net) and to validate high-throughput ICP-OES methods against double-spike TIMS reference frames. Seawater was sampled discretely at ~2-hour intervals over full diel cycles on the reef flat of Motu Onetahi, Tetiaroa Atoll. Samples for Dissolved Inorganic Carbon (DIC) and Total Alkalinity (TA) were collected without atmospheric exposure, poisoned wi"
-  },
-  {
-   "uid": "bbcf088ab1731d85",
-   "titre": "Data for: Systematic Review of Pedagogical Theory Operationalisation in Generative AI Educational Content Systems for Higher Education",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Yasmine Ben Tiba, Aroua Hedhili, Rihab Balti",
-   "url": "https://doi.org/10.5281/zenodo.23533127",
-   "resume": "This dataset contains the data extracted from the 23 primary studies included in a systematic review of how generative AI systems that produce educational content operationalise pedagogical theory in higher education. The studies were identified through a search of IEEE Xplore, Web of Science and Scopus for publications from 2020 to 2026, and selected through a procedure adapted from PRISMA. The search strings and selection steps are reported in the related article. Each row describes one study: its reference and DOI, year, educational setting, primary generative model, architecture, deployment pattern, type of content generated, the point at which pedagogical design enters the generation pi"
-  },
-  {
-   "uid": "0f240265cd99b13e",
-   "titre": "AI and the double competence gap in dental education: towards symbiotic intelligence",
-   "source": "OpenAlex",
-   "date": "2026-10-29",
-   "auteurs": "Rune Johan Krumsvik, Kristin Solveig Klock, Magnus Bratteberg",
-   "url": "https://doi.org/10.3389/fdmed.2026.1965756",
-   "resume": "Artificial intelligence (AI) is increasingly becoming part of the knowledge infrastructure of healthcare. From diagnostic support and image interpretation to patient communication and clinical decision-making, AI-supported technologies, including generative AI, are changing the conditions under which healthcare professionals work. Dentistry is no exception. Recent research highlights emerging applications of AI in dental practice, while international reviews suggest growing opportunities and challenges associated with integrating AI into dental education. However, the rapid development of AI-supported technologies raises questions about how effectively professional education and continuing p"
+   "auteurs": "Aurélie Julien",
+   "url": "https://www.ludomag.com/2026/10/30/grandir-avec-lia-lenjeu-nest-pas-la-competition-mais-lhybridation-selon-raphael-gaillard/?utm_source=rss&utm_medium=rss&utm_campaign=grandir-avec-lia-lenjeu-nest-pas-la-competition-mais-lhybridation-selon-raphael-gaillard",
+   "resume": "PORTRAIT 🎥 L'intelligence artificielle va-t-elle augmenter nos capacités ou, au contraire, affaiblir certaines de nos facultés cognitives ? À l'occasion du colloque scientifique In Finé, organisé le 9 octobre 2026 sur le site du Futuroscope, à Poitiers, Raphaël Gaillard, professeur de psychiatrie, a proposé un éclairage sur les relations entre cerveau humain, apprentissages et intelligence artificielle.\nL’article Grandir avec l’IA : « L’enjeu n’est pas la compétition, mais l’hybridation », selon Raphaël Gaillard est apparu en premier sur Ludomag ."
   }
  ]
 }
