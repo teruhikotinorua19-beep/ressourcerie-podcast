@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-31T15:48+00:00",
+ "genere": "2026-11-01T15:48+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,175 +8,85 @@
  },
  "items": [
   {
-   "uid": "9a975ef97a06b3b4",
-   "titre": "Inventer les paysages du futur, maintenant !",
+   "uid": "4fc7fa5e77c73299",
+   "titre": "Le cosmopolitisme paysager de la Côte d’Azur, capitale des rivieras",
    "source": "Les Clionautes",
-   "date": "2026-10-31",
-   "auteurs": "Adeline Abrioux Duong",
-   "url": "https://www.clionautes.org/inventer-les-paysages-du-futur-maintenant.html",
-   "resume": "Présentation par Sophie Bonin SOPHIE BONIN enseigne la géographie aux paysagistes concepteurs à l’Ecole Nationale Supérieure de Paysage de Versailles et elle est directrice du laboratoire de recherche sur le projet de paysage (LAREP). MAGALI REGHEZZA-ZITT est géographe normalienne, agrégée, spécialiste des risques. Elle a participé au haut conseil pour le climat. Elle travaille dans les questions […]"
+   "date": "2026-11-01",
+   "auteurs": "Elodie Quantin",
+   "url": "https://www.clionautes.org/le-cosmopolitisme-paysager-de-la-cote-dazur-capitale-des-rivieras.html",
+   "resume": "Comment la Côte d’Azur est-elle devenue un modèle paysager mondial ? Jardins exotiques, architecture cosmopolite, douceur du climat et représentations artistiques ont façonné dès le XVIIIe siècle l’imaginaire de la Riviera. Un modèle ensuite largement copié, des rivieras de Crimée à la Californie. Conférencier : Jean-Christophe Gay (Université Côte d’Azur, URMIS, Institut du tourisme Côte […]"
   },
   {
-   "uid": "77b4d87fbda549af",
-   "titre": "De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
+   "uid": "cccd0e03d9543243",
+   "titre": "Ni Crécy ni Azincourt : Neville’s Cross, la victoire anglaise décisive que l’histoire a oubliée",
    "source": "The Conversation — Histoire",
-   "date": "2026-10-31",
+   "date": "2026-11-01",
    "auteurs": "",
-   "url": "https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761",
-   "resume": "De l’Empire carolingien à l’Empire britannique, en passant par le Saint-Empire romain germanique, la bière a généré plus de conflits qu’aucun autre alcool au monde."
+   "url": "https://theconversation.com/ni-crecy-ni-azincourt-nevilles-cross-la-victoire-anglaise-decisive-que-lhistoire-a-oubliee-294694",
+   "resume": "En 1346, près de Durham, l’Angleterre a écrasé l’armée écossaise lancée à l’appel de la France et capturé le roi David II. Une victoire décisive de la guerre de Cent Ans, pourtant oubliée."
   },
   {
-   "uid": "b5cb5a4a4c44baa9",
-   "titre": "À l’école maternelle, pourquoi la joie de travailler avec les enfants ne suffit pas à tenir",
+   "uid": "2b78111bb0bef6fa",
+   "titre": "Qui se cache derrière le champignon introduit illégalement il y a 40 ans pour combattre les ronces australiennes ?",
+   "source": "The Conversation — Environnement",
+   "date": "2026-11-01",
+   "auteurs": "",
+   "url": "https://theconversation.com/qui-se-cache-derriere-le-champignon-introduit-illegalement-il-y-a-40-ans-pour-combattre-les-ronces-australiennes-294254",
+   "resume": "Les ronces posent depuis longtemps problème aux agriculteurs et aux randonneurs australiens. Mais qui a pu disséminer illégalement un champignon pour lutter contre elles ?"
+  },
+  {
+   "uid": "78af8ff79947f092",
+   "titre": "Niveau de français exigé pour les étrangers : une « simple » question de langue ?",
+   "source": "The Conversation — Éducation",
+   "date": "2026-11-01",
+   "auteurs": "",
+   "url": "https://theconversation.com/niveau-de-francais-exige-pour-les-etrangers-une-simple-question-de-langue-291610",
+   "resume": "En France, les exigences de maîtrise du français en vue de l’obtention de titres de séjour et de la naturalisation se durcissent. Cette politique interroge les liens entre langue, intégration et inégalités sociales."
+  },
+  {
+   "uid": "64b2c9aedafdfae7",
+   "titre": "Variation in the Area Deprivation Index by Rurality and Region",
+   "source": "OpenAlex",
+   "date": "2026-11-01",
+   "auteurs": "Casey Balio, Nicole Galler, Margaret E Francisco, Kate Beatty",
+   "url": "https://dc.etsu.edu/rhrc-pubs/10",
+   "resume": "the federal, state, and local levels.Recent evidence suggests there are potential limitations to the precision of the ADI, particularly when applied to urban areas and related to measures of housing quality, yet how the ADI relates to rurality, other demographic and geographic variations across the country, and implications for use in policy in rural areas are unknown.15,16 The findings presented in this brief related to the ADI and perspectives from experts may be informative for what measure(s) to use in the future, or how to structure their use.This study describes the implications of ADI applications specifically for rural communities.First, we describe variation in the ADI and ADI missi"
+  },
+  {
+   "uid": "9f31bc010382063c",
+   "titre": "Venez présenter votre projet au Forum du Café pédagogique !",
+   "source": "Café pédagogique",
+   "date": "2026-11-01",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/01/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
+   "resume": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche\n L’article Venez présenter votre projet au Forum du Café pédagogique ! est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "ae8f1cd318bc33e7",
+   "titre": "Du Kenya à la France, le masque, signe de ralliement de la génération Z",
    "source": "The Conversation — Éducation",
    "date": "2026-10-31",
    "auteurs": "",
-   "url": "https://theconversation.com/a-lecole-maternelle-pourquoi-la-joie-de-travailler-avec-les-enfants-ne-suffit-pas-a-tenir-293060",
-   "resume": "Enseignants, Atsem, animateurs : trois enquêtes auprès de 181 professionnels de la petite enfance montrent une joie réelle dans l’exercice du métier, tout comme une fatigue liée aux conditions de travail."
+   "url": "https://theconversation.com/du-kenya-a-la-france-le-masque-signe-de-ralliement-de-la-generation-z-295564",
+   "resume": "Rendu obligatoire jusque dans les écoles pendant la pandémie de Covid-19, le masque réapparaît en 2026 dans les blocus lycéens et les manifestations. Contre les gaz lacrymogènes ou pour éviter d’être reconnus, les jeunes retournent un objet que l’État leur avait appris à porter."
   },
   {
-   "uid": "340334f3ee667171",
-   "titre": "Artificial Intelligence and Digital Transformation in Higher Education: A Systematic Review of Opportunities, Challenges and Emerging Trends",
+   "uid": "154ba314c7cdec78",
+   "titre": "Evaluating Historical Thinking Development Through an ADDIE Based History Learning Model in Secondary Education",
    "source": "OpenAlex",
    "date": "2026-10-31",
-   "auteurs": "Ms. Komal Kamlesh Gaikwad",
-   "url": "https://doi.org/10.5281/zenodo.23409834",
-   "resume": "Artificial Intelligence AI is getting more and more involved in higher education, it is reshaping teaching, learning , assessment, academic administration, research, and even how institutions decide things. In the last few years the fast rise of generative artificial intelligence GenAI, plus intelligent tutoring systems, learning analytics, automated assessment, recommendation systems, and AI assisted administrative tools has opened up new possibilities for universities, yet it also brings worries like academic integrity, data privacy, algorithmic bias, digital inequality, transparency, and changing professional roles. This paper actually uses a secondary-data based systematic review, lookin"
+   "auteurs": "M. Fakhruddin",
+   "url": "https://doi.org/10.59890/ijels.v4i10.96",
+   "resume": "The development of students' historical thinking skills is an important challenge in history education because it is related to the ability to critically analyze, evaluate, and understand past events. This study aims to evaluate the influence of ADDIE-based historical learning models on the development of historical thinking of high school students. The study uses a quantitative approach with a quasi-experimental design of pretest-posttest non-equivalent control group involving 60 students. Data were collected through historical thinking ability tests and analyzed using independent t-tests and N-gain analysis. The results of the study show that the application of the ADDIE model significantl"
   },
   {
-   "uid": "e4c42d9d440a4ace",
-   "titre": "Une journée d'école – Objets, gestes et formes",
-   "source": "HAL",
-   "date": "2026-10-30",
-   "auteurs": "Sylvain Wagnon, Raphaël Wagnon",
-   "url": "https://hal.science/hal-05846242v1",
-   "resume": "À l’école, les objets sont partout. Si familiers qu’ils en deviennent presque invisibles, ils accompagnent pourtant chaque geste, chaque moment de la vie scolaire, d’hier comme d’aujourd’hui. Cet ouvrage explore notre relation matérielle et sensible à l’école à travers une quarantaine d’objets – il révèle ces formes ordinaires, souvent imparfaites, qui incarnent le quotidien de l’école. Déformés par l’usage, réappropriés, réparés ou réutilisés, ces objets industriels racontent une histoire à la fois personnelle et collective. Derrière chacun d’eux se dessinent des expériences humaines singulières, des surfaces, des textures, qui donnent corps à une mémoire scolaire largement partagée."
-  },
-  {
-   "uid": "68f3d05021a3e3b1",
-   "titre": "La confiance et la coopération avec des intelligences artificielles perçues comme « prosociales ».",
-   "source": "HAL",
-   "date": "2026-10-30",
-   "auteurs": "Emmanuel Bazzucchi",
-   "url": "https://hal.science/hal-05846171v1",
-   "resume": "A partir des thèmes de résistance au changement, digitalisation des entreprises, automatisation du travail et insécurité de l’emploi ainsi qu’en parcourant la littérature récente sur la collaboration humain-machine et la prosocialité des IA, cette étude démarre une réflexion exploratoire à propos des effets des intelligences artificielles dotées de prosocialité lorsqu’elles sont introduites dans les organisations. La coopération et la confiance ont été identifiées comme deux concepts essentiels de l’adoption des IA et nous suggérons que des IA capables de comportements prosociaux suscitent une telle adoption en favorisant la coopération et la confiance. Cette recherche souligne toutefois l’i"
-  },
-  {
-   "uid": "f865480c3d36a18c",
-   "titre": "Artificial Intelligence and the Transformation of Management Education",
-   "source": "HAL",
-   "date": "2026-10-30",
-   "auteurs": "Olivier Toutain, Rachid Jabbouri, Yann Truong",
-   "url": "https://hal.science/hal-05846095v1",
-   "resume": "We develop a conceptual framework to examine the potential impact of artificial intelligence (AI) and its associated technologies on five dimensions of management education. Through the analysis of the mission statement of 785 educational technology startups, we identify five mechanisms through which AI may benefit and transform the field of management education in a post-COVID-19 world. Our research is one of the first to propose a global and comprehensive framework to advance our understanding of the impact of a disruptive technology on the traditional and immutable field of higher-education, and more particularly on management education."
-  },
-  {
-   "uid": "bb312b5b588899ab",
-   "titre": "Implications of Ubuntu Theory on Pedagogy for Values Inculcation in Secondary School History Education in Zimbabwe",
+   "uid": "d849dda2b6a0a4c7",
+   "titre": "The Coordinates of Thought: A Question-Centered Architecture for Comparative Philosophy",
    "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Hlengiwe Ncube, Valencia Tshinompheni Mabalane",
-   "url": "https://doi.org/10.26803/ijlter.25.10.35",
-   "resume": "This conceptual narrative review stems from a doctoral study that focuses on the teaching of values in the implementation of the secondary school curriculum in Zimbabwe. The Zimbabwean secondary school history curriculum provides for values inculcation grounded on Ubuntu. However, despite expansive research on the implications of Ubuntu on instructional practice, there is a gap on how it informs pedagogy for values teaching in secondary school history education. The study employed a qualitative approach which enabled an indepth exploration. The review focused on twelve papers on Ubuntu’s application on pedagogy and ten on values pedagogy in secondary school history education that were obtain"
-  },
-  {
-   "uid": "49dd6606f0d8e5a7",
-   "titre": "The school as a site of memory: biographies, documents, and the historical heritage of Inza Secondary School No. 1",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Alexey Nikolaevich Ovchinnikov",
-   "url": "https://doi.org/10.30853/mns20260274",
-   "resume": "The purpose of the study is to substantiate the historical and commemorative significance of the building of Municipal Budgetary General Education Institution “Inza Secondary School No. 1 named after Hero of the Soviet Union Y. T. Alasheev”, drawing on documented biographies of test pilot Y. T. Alasheev and intelligence radio operator E. Ya. Vologodskaya, the chronology of their commemoration, and court case materials. For the first time, the article attempts to bring together archival materials from the Ulyanovsk Regional Scientific Library, regional periodicals, and court rulings on the protection of a cultural heritage site to show how, in this case, the building’s status as a historical "
-  },
-  {
-   "uid": "e5cb539b9e97d0b3",
-   "titre": "TEACHING GEOGRAPHY FROM PLACE: THE GEOMORPHOLOGY OF THE MUNICIPALITY OF CARIRÉ-CE AS A LEARNING TOOL",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Eloisa Rocha Queiroz",
-   "url": "https://doi.org/10.56346/2764-6203.v9n9.2026.798",
-   "resume": "The teaching of physical-natural contents in school Geography still presents challenges related to the fragmentation between nature and society, especially in the approach to topics such as geomorphology. This study aims to analyze the contributions of teaching geomorphology based on the category of place, articulating theoretical and methodological foundations of school Geography with a socio-environmental perspective. The research, of a qualitative nature and applied character, was developed with 7th-grade students of lower secondary education, in the year 2024, through the application of a didactic sequence based on the contents of the textbook and the local reality of the municipality of"
-  },
-  {
-   "uid": "b1fe513028896944",
-   "titre": "Mentoring and strategic vision for inner areas: Experiential background for cascade teacher training",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Carmela Paladino",
-   "url": "https://doi.org/10.5281/zenodo.23807383",
-   "resume": "Schools in inner areas (psnai, 2021) face complex challenges (bartolini et al., 2022; peconio, 2025): geographical isolation, educational poverty (vinci, 2023), sporadic cultural opportunities, a defeatist attitude, and school and territorial dropout. The teacher acts as a mediator (damiano, 2013; flavian, 2019) between cultural heritage and territory-oriented digital skills. The theoretical framework integrates the faro convention, snai, tpack (2006), and digcomp 3.0 (2025). The research addresses three questions: the identification of teachers inclined toward territorial educational design, the identification of technologies as devices for cultural mediation, and the relationship between a"
-  },
-  {
-   "uid": "e96c6e41d6fbb348",
-   "titre": "Developing and Validating a Measurement Scale to Assess Knowledge of Memory and Learning Processes Among Italian Teachers",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Francesco Carabba, Ottavia M. Epifania, Demis Basso",
-   "url": "https://doi.org/10.31234/osf.io/4ta89_v2",
-   "resume": "Knowledge of memory and learning processes may inform teachers’ educational decisions. However, to our knowledge, no psychometrically validated instrument specifically assesses teachers’ procedural knowledge of these processes through realistic classroom scenarios.This Stage 1 Registered Report aims to develop and validate a scenario-based measure of Italian teachers’ procedural knowledge of memory and learning processes.Approximately 600 Italian teachers, from preschool to upper-secondary education, will be recruited through proportional stratified quota sampling based on sex, geographical area, and school level.Following two pilot studies and iterative revisions, 30 original items were ret"
-  },
-  {
-   "uid": "311266d15d159433",
-   "titre": "Design and preliminary validation of an AI enhanced game based learning environment for computational thinking in upper secondary education",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Pongsakon Hengsawat, Chinnaphat Junruang, Issara Kanjug",
-   "url": "https://doi.org/10.1007/s44217-026-02362-4",
-   "resume": "Abstract Integrating generative artificial intelligence within game-based learning offers promising but still-maturing possibilities for computational thinking (CT) education. This developmental research study (Type I) reports the design and preliminary validation of an AI-enhanced game-based learning environment (AI-GBLE) for upper-secondary students. Grounded in constructivism, cognitive load theory, information processing theory, mental models theory, and game-based learning principles, the environment integrates six components on the Roblox platform—problem-based scenarios, learning resources, collaborative learning, a CT enhancement centre, scaffolding, and an AI coaching system combini"
-  },
-  {
-   "uid": "7ba2ac87d94ae4d0",
-   "titre": "Student Interpretation and Negotiation of AI-Generated Critique in Design Studio Education: A Feedback Literacy and Cooperative Learning Perspective",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Atria Nuraini Fadilla, Mai Neo, Heidi Yeen-Ju Tan",
-   "url": "https://doi.org/10.26803/ijlter.25.10.13",
-   "resume": "Generative artificial intelligence (GenAI) is increasingly used in design education, where it can provide students with fast, repeated suggestions or critiques on their work. This study examines how design students interpret AI-generated critique individually and how they negotiate its relevance with their group when making studio design decisions. Feedback literacy and two cooperative learning processes serve as the analytical lenses. The study is a cross-sectional, convergent mixed-methods survey of 77 visual communication design students in a studio course. This article reports a post hoc, theory-guided secondary analysis of three composites, together with five open-ended questions. Perce"
-  },
-  {
-   "uid": "1c1978385d02ee90",
-   "titre": "Algorithmic narratives and affective expression: a study on the impact of generative artificial intelligence on the emotional writing of students and future teachers",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Alfonso Filippone, María S. Carlo",
-   "url": "https://doi.org/10.5281/zenodo.23807102",
-   "resume": "This contribution presents a mixed-methods study on the impact of generative artificial intelligence on emotional writing and the narrative construction of the self. The study moves from the assumption that generative AI does not merely support writing at a technical level, but may act as a symbolic mediator that intervenes in the way subjects organize emotions, relationships and personal experience into narrative form. The theoretical framework is grounded in the perspective of Digital Affective Literacy, understood as the ability to use AI systems critically in order to express, interpret and re-elaborate emotional and relational meanings without delegating authorship or agency to the algo"
-  },
-  {
-   "uid": "9151ede765b1db55",
-   "titre": "Affective Affordances in AI-Mediated Learning: A Scoping Review on Adolescent Motivation and Psychological Needs",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Francesco Facciorusso, Marilena di Padova",
-   "url": "https://doi.org/10.5281/zenodo.23807349",
-   "resume": "The growing integration of generative artificial intelligence (GenAI) in secondary education raises urgent questions about how AI-mediated interactions shape the emotional and motivational dimensions of learning. While much of the discourse on AI in schools has focused on content delivery and academic performance, far less attention has been paid to the affective dynamics that emerge when adolescents engage with conversational agents and adaptive tutoring systems. This paper addresses that gap by examining whether and how AI-mediated learning environments can serve as a \"Strategic Mediators\". Four theoretical lenses structure the inquiry: Self-Determination Theory (SDT; Ryan & Deci, 2000), t"
-  },
-  {
-   "uid": "263fefa89c789847",
-   "titre": "Hybrid and emotionally aware learning environments and digital affective literacy: a mixed-method study on well-being, engagement and inclusion in secondary schools",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Giovanna Scala, Maria Giovanna Tafuri",
-   "url": "https://doi.org/10.5281/zenodo.23807283",
-   "resume": "Contemporary technologies are creating hybrid learning environments in which physical and digital dimensions increasingly overlap (Selwyn, 2021). Generative AI can simulate empathetic responses, making it essential to distinguish artificial support from authentic human relationships (Floridi et al., 2018; Mintz et al., 2023). These tools may support students with Specific Learning Disorders (SLDs) through personalised content, immediate feedback and less judgemental interaction (Ok et al., 2017). Their educational use, however, requires Digital Affective Literacy, understood as the ability to interpret digitally mediated emotions critically and distinguish simulated empathy from human respon"
-  },
-  {
-   "uid": "f11583a630a52a63",
-   "titre": "A.N.I.M.A.: An Experimental Pedagogical Model for Conscious Self-Narration in First-Cycle School",
-   "source": "OpenAlex",
-   "date": "2026-10-30",
-   "auteurs": "Francesco Sarcina, Anna Cuzzi, Giulia Ranieri",
-   "url": "https://doi.org/10.5281/zenodo.23807112",
-   "resume": "Learning to narrate oneself is a decisive competence in primary and lower-secondary school. Recounting a personal episode requires selecting events, ordering them, assigning them meaning and translating them into words: a formative practice that gives shape to experience, names emotions and builds awareness of the self (Bruner, 1991; Demetrio, 1996). Psychology has shown how identity itself takes the form of an internalised and evolving life story. Generative artificial intelligence, now within reach even of young students, is however most often encountered in a substitutive mode, with the machine being asked to write in the student's place. Applied to autobiography, this mode delegates the "
-  },
-  {
-   "uid": "23e8fab3754d20d3",
-   "titre": "Grandir avec l’IA : « L’enjeu n’est pas la compétition, mais l’hybridation », selon Raphaël Gaillard",
-   "source": "Ludomag",
-   "date": "2026-10-30",
-   "auteurs": "Aurélie Julien",
-   "url": "https://www.ludomag.com/2026/10/30/grandir-avec-lia-lenjeu-nest-pas-la-competition-mais-lhybridation-selon-raphael-gaillard/?utm_source=rss&utm_medium=rss&utm_campaign=grandir-avec-lia-lenjeu-nest-pas-la-competition-mais-lhybridation-selon-raphael-gaillard",
-   "resume": "PORTRAIT 🎥 L'intelligence artificielle va-t-elle augmenter nos capacités ou, au contraire, affaiblir certaines de nos facultés cognitives ? À l'occasion du colloque scientifique In Finé, organisé le 9 octobre 2026 sur le site du Futuroscope, à Poitiers, Raphaël Gaillard, professeur de psychiatrie, a proposé un éclairage sur les relations entre cerveau humain, apprentissages et intelligence artificielle.\nL’article Grandir avec l’IA : « L’enjeu n’est pas la compétition, mais l’hybridation », selon Raphaël Gaillard est apparu en premier sur Ludomag ."
+   "date": "2026-10-31",
+   "auteurs": "Syed Raheel Shahzad",
+   "url": "https://doi.org/10.17613/1yex0-d1147",
+   "resume": "The Coordinates of Thought: A Question-Centered Architecture for Comparative Philosophy presents the intellectual framework, classification methodology, and digital continuation of The Coordinates of Thought — Philosophy: Every Question, Answer, Thinker and Tradition, an unpublished philosophical reference book by Syed Raheel Shahzad, prepared under the publishing imprint of The Syed Group. Syed Raheel Shahzad is an author, business strategist, and systems thinker whose writing examines philosophy, knowledge, reasoning, human understanding, civilization, and the architecture of complex systems. His approach emphasizes the relationships between questions, assumptions, arguments, competing exp"
   }
  ]
 }
