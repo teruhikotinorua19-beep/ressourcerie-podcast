@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-11-01.mp3",
+  "date": "2026-11-01",
+  "pubdate": "Sun, 01 Nov 2026 06:10:37 -1000",
+  "titre": "Veille du 1 novembre",
+  "description": "4 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:30",
+  "taille": 899712,
+  "items": [
+   {
+    "uid": "78af8ff79947f092",
+    "titre": "Niveau de français exigé pour les étrangers : une « simple » question de langue ?",
+    "url": "https://theconversation.com/niveau-de-francais-exige-pour-les-etrangers-une-simple-question-de-langue-291610",
+    "source": "The Conversation — Éducation",
+    "score": 62,
+    "raison": "Les exigences de français pour les titres de séjour et la naturalisation : un cas d'actualité pour l'EMC en seconde ou en première sur la citoyenneté, l'intégration et les inégalités."
+   },
+   {
+    "uid": "ae8f1cd318bc33e7",
+    "titre": "Du Kenya à la France, le masque, signe de ralliement de la génération Z",
+    "url": "https://theconversation.com/du-kenya-a-la-france-le-masque-signe-de-ralliement-de-la-generation-z-295564",
+    "source": "The Conversation — Éducation",
+    "score": 58,
+    "raison": "Le masque devenu signe de ralliement dans les blocus lycéens : une entrée concrète pour l'EMC sur la liberté d'expression, le droit de manifester et l'engagement des jeunes."
+   },
+   {
+    "uid": "4fc7fa5e77c73299",
+    "titre": "Le cosmopolitisme paysager de la Côte d’Azur, capitale des rivieras",
+    "url": "https://www.clionautes.org/le-cosmopolitisme-paysager-de-la-cote-dazur-capitale-des-rivieras.html",
+    "source": "Les Clionautes",
+    "score": 57,
+    "raison": "La Côte d'Azur comme modèle paysager copié dans le monde : un exemple pour la mise en tourisme des littoraux, en sixième sur le littoral ou en première sur les espaces de loisirs."
+   },
+   {
+    "uid": "154ba314c7cdec78",
+    "titre": "Evaluating Historical Thinking Development Through an ADDIE Based History Learning Model in Secondary Education",
+    "url": "https://doi.org/10.59890/ijels.v4i10.96",
+    "source": "OpenAlex",
+    "score": 55,
+    "raison": "Une étude sur le développement de la pensée historique au lycée : une piste didactique pour construire des séquences qui apprennent à analyser et critiquer les sources."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-10-31.mp3",
   "date": "2026-10-31",
   "pubdate": "Sat, 31 Oct 2026 06:10:29 -1000",
