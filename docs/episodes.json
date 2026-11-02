@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-11-02.mp3",
+  "date": "2026-11-02",
+  "pubdate": "Mon, 02 Nov 2026 06:13:03 -1000",
+  "titre": "Veille du 2 novembre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:01:28",
+  "taille": 528768,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   },
+   {
+    "uid": "82079082ffe91e10",
+    "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
+    "url": "https://hal.science/hal-05820763v1",
+    "source": "HAL",
+    "score": 82,
+    "raison": "Les normes anciennes sur l'usage des lagons en Polynésie croisent le droit d'aujourd'hui : un cas local pour le littoral en sixième et pour le droit en EMC."
+   },
+   {
+    "uid": "4c2076a64a581aa2",
+    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
+    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
+    "source": "Les Clionautes",
+    "score": 82,
+    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
+   },
+   {
+    "uid": "39956d693e3a1740",
+    "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
+    "url": "https://hal.science/hal-05735818v1",
+    "source": "HAL",
+    "score": 78,
+    "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-01.mp3",
   "date": "2026-11-01",
   "pubdate": "Sun, 01 Nov 2026 06:10:37 -1000",
