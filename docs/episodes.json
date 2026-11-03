@@ -1,5 +1,40 @@
 [
  {
+  "fichier": "veille-2026-11-03.mp3",
+  "date": "2026-11-03",
+  "pubdate": "Tue, 03 Nov 2026 06:12:00 -1000",
+  "titre": "Veille du 3 novembre",
+  "description": "3 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:25",
+  "taille": 867744,
+  "items": [
+   {
+    "uid": "ab060a5a2ba3c1f6",
+    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
+    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
+   },
+   {
+    "uid": "e190ade59a893f11",
+    "titre": "30 ans de droit à l’École : laïcité, réformes, droits des élèves",
+    "url": "https://www.cafepedagogique.net/2026/11/03/30-ans-de-droit-a-lecole-laicite-reformes-droits-des-eleves/",
+    "source": "Café pédagogique",
+    "score": 66,
+    "raison": "Un bilan de trente ans de droit à l'École, laïcité et droits des élèves compris, utile pour construire une séquence d'EMC sur les libertés et le droit."
+   },
+   {
+    "uid": "98d0dc1f3d4d20ba",
+    "titre": "Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales",
+    "url": "https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361",
+    "source": "The Conversation — Histoire",
+    "score": 56,
+    "raison": "Un siècle et demi d'innovations navales, du steamer au trimaran, qui peut illustrer l'industrialisation en première et le Pacifique par la voile."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-02.mp3",
   "date": "2026-11-02",
   "pubdate": "Mon, 02 Nov 2026 06:13:03 -1000",
