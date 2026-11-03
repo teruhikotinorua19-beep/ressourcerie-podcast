@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-02T16:14+00:00",
+ "genere": "2026-11-03T16:06+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,31 +8,175 @@
  },
  "items": [
   {
-   "uid": "67b2a647977895ab",
-   "titre": "Des pirates, des Titans et des cancres",
-   "source": "Les Clionautes",
-   "date": "2026-11-02",
-   "auteurs": "Ludovic Chevassus",
-   "url": "https://www.clionautes.org/des-pirates-des-titans-et-des-cancres.html",
-   "resume": "Une réplique de série Le 16 septembre 1971, la chaîne ABC diffuse le premier épisode d’une série policière que plus personne ne regarde. Longstreet suit les enquêtes d’un détective aveugle à La Nouvelle-Orléans. Dans cet épisode, un antiquaire nommé Li Tsung lui apprend à se battre. Il est joué par un acteur que l’Amérique connaît […]"
-  },
-  {
-   "uid": "e8e81d907b8e9b67",
-   "titre": "Le vieux principe du droit anglais qui protège Donald Trump des plaintes en diffamation",
+   "uid": "ab060a5a2ba3c1f6",
+   "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
    "source": "The Conversation — Histoire",
-   "date": "2026-11-02",
+   "date": "2026-11-03",
    "auteurs": "",
-   "url": "https://theconversation.com/le-vieux-principe-du-droit-anglais-qui-protege-donald-trump-des-plaintes-en-diffamation-295694",
-   "resume": "Donald Trump a traité de « djihadiste » le candidat démocrate au Sénat dans le Michigan. Une plainte en diffamation aurait pourtant peu de chances d’aboutir, car l’immunité souveraine, héritée du droit anglais, protège les élus fédéraux."
+   "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+   "resume": "Il y a soixante-dix ans, Français et Britanniques débarquaient à Port-Saïd. Alors que Washington vient de frapper l’île iranienne de Qeshm, la crise de Suez rappelle que la puissance militaire bute sur les limites économiques."
   },
   {
-   "uid": "ba3c374e8d32f588",
-   "titre": "Vinted, Too Good To Go… : quand la consommation responsable encourage à consommer plus",
-   "source": "The Conversation — Environnement",
-   "date": "2026-11-02",
+   "uid": "98d0dc1f3d4d20ba",
+   "titre": "Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales",
+   "source": "The Conversation — Histoire",
+   "date": "2026-11-03",
    "auteurs": "",
-   "url": "https://theconversation.com/vinted-too-good-to-go-quand-la-consommation-responsable-encourage-a-consommer-plus-295191",
-   "resume": "La possibilité de faire de bonnes affaires sur des applications comme Vinted ou Too Good To Go peut nous inciter à consommer plus ou bien à acheter des choses dont on n'aura pas besoin."
+   "url": "https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361",
+   "resume": "Le multicoque « Gitana 18 » est un bijou de technologie dont l’histoire remonte à la fin du XIXᵉ siècle."
+  },
+  {
+   "uid": "fd5e2083a3e4fb8f",
+   "titre": "Cultiver des mélanges d’espèces végétales : pourquoi une pratique aux bénéfices prouvés reste-t-elle si marginale ?",
+   "source": "The Conversation — Environnement",
+   "date": "2026-11-03",
+   "auteurs": "",
+   "url": "https://theconversation.com/cultiver-des-melanges-despeces-vegetales-pourquoi-une-pratique-aux-benefices-prouves-reste-t-elle-si-marginale-292905",
+   "resume": "Associer plusieurs cultures dans un même champ génère de nombreux bénéfices. Cela limite l'impact des ravageurs, cela permet d'utiliser moins d'engrais de synthèse, de stabiliser les rendements…"
+  },
+  {
+   "uid": "5d738496434ba758",
+   "titre": "En symbiose avec les plantes, les champignons mycorhiziens défient notre vision du vivant",
+   "source": "The Conversation — Environnement",
+   "date": "2026-11-03",
+   "auteurs": "",
+   "url": "https://theconversation.com/en-symbiose-avec-les-plantes-les-champignons-mycorhiziens-defient-notre-vision-du-vivant-295024",
+   "resume": "Vivant sous terre, entremêlés aux racines des plantes, les champignons mycorhiziens arbusculaires posent encore de nombreuses questions aux biologistes."
+  },
+  {
+   "uid": "f04e6f743b3b58ad",
+   "titre": "Au lycée, la pénibilité du travail scolaire est source de colère et de souffrance",
+   "source": "The Conversation — Éducation",
+   "date": "2026-11-03",
+   "auteurs": "",
+   "url": "https://theconversation.com/au-lycee-la-penibilite-du-travail-scolaire-est-source-de-colere-et-de-souffrance-294544",
+   "resume": "Dénoncée par les lycéens mobilisés, la dégradation des conditions d’études pèse-t-elle sur leur santé ? Une enquête auprès de 7 000 élèves apporte un éclairage sociologique."
+  },
+  {
+   "uid": "92d3670e6cabaf54",
+   "titre": "Étude comparative des locuteurs de l’occitan en milieux rural, urbain et péri-urbain : continuité ou paradoxe ?",
+   "source": "HAL",
+   "date": "2026-11-03",
+   "auteurs": "Caroline Calvet",
+   "url": "https://hal.science/hal-05850152v1",
+   "resume": "À travers cette communication, je propose d’analyser, dans une perspective comparative, deux formes contrastées de néo-locutorat adulte en domaine occitan. D’une part, j’ai exploré la figure du néo-locuteur paradoxal de l’occitan (Calvet 2024) en contexte rural vulnérable, à partir d’une enquête menée dans le Parc Naturel Régional de l’Aubrac. Contrairement aux approches orientées sur les acteurs engagés dans la revitalisation linguistique, cette étude s’est intéressée à une catégorie de locuteurs qui se situent à l’intersection de dynamiques contradictoires. Ces locuteurs, n’ayant pas reçu l’occitan directement comme langue première en transmission intra-familiale, investissent la langue de"
+  },
+  {
+   "uid": "d2af579eabc80a69",
+   "titre": "Compte rendu. Revue d'Histoire littéraire de la France. \"La Fabrique des Rougon-Macquart. Édition des dossiers préparatoires. L’Argent. Le Docteur Pascal\". Publiés par Colette Becker. Volumes VIII, 1-2. Paris, Honoré Champion, « Textes de littérature moderne et contemporaine », 2022. Deux vol. de 93",
+   "source": "HAL",
+   "date": "2026-11-03",
+   "auteurs": "Olivier Lumbroso",
+   "url": "https://hal.science/hal-05849438v1",
+   "resume": ""
+  },
+  {
+   "uid": "d0e7e80a505076c6",
+   "titre": "Exposition en ligne : \"Rémanences créatives naturalistes\". Adaptation et transposition des œuvres naturalistes à l'ère multimédiatique. En collaboration avec la Cité des écritures (Sorbonne Nouvelle), Marina Krylyschin, Céline Grenaud-Tostain",
+   "source": "HAL",
+   "date": "2026-11-03",
+   "auteurs": "Olivier Lumbroso",
+   "url": "https://hal.science/hal-05849424v1",
+   "resume": "À l’ère de la presse industrielle, de la réclame qui s’affiche sur les murs des bâtiments, au rythme des fééries spectaculaires de la Belle Époque, le second XIXe siècle a produit frénétiquement des versions médiatiques des œuvres littéraires. La publication en feuilletons dans les journaux avant la parution en volume, l’adaptation des œuvres au théâtre et à l’opéra avec plus ou moins de succès, la transformation de la nouvelle en roman, les rééditions, du vivant de l’auteur, accompagnées souvent de variantes, le début des exécutions radiophoniques, les œuvres illustrées et les éditions populaires montrent comment les médias de l’époque étendent de façon extraordinaire le territoire éditoria"
+  },
+  {
+   "uid": "341cf1707ab24370",
+   "titre": "MObyGaze: a film dataset of multimodal objectification densely annotated by experts",
+   "source": "HAL",
+   "date": "2026-11-03",
+   "auteurs": "Elisa Ancarani, Julie Tores, Lucile Sassatelli, Hui-Yin Wu",
+   "url": "https://hal.science/hal-05462496v2",
+   "resume": "Characterizing and quantifying gender representation disparities in audiovisual storytelling contents is necessary to grasp how stereotypes may perpetuate on screen. In this article, we consider the high-level construct of objectification and introduce a new AI task to the ML community: characterize and quantify complex multimodal (visual, speech, audio) temporal patterns producing objectification in films. Building on film studies and psychology, we define the construct of objectification in a structured thesaurus involving 5 sub-constructs manifesting through 11 concepts spanning 3 modalities. We introduce the Multimodal Objectifying Gaze (MObyGaze) dataset, made of 20 movies annotated den"
+  },
+  {
+   "uid": "f4042480ad7d0e41",
+   "titre": "L’académie de Créteil est-elle délaissée ?",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/lacademie-de-creteil-est-elle-delaissee/",
+   "resume": "Pour répondre aux lycéens mobilisés, Édouard Geffray a brandi deux chiffres. Ils passent sous silence les postes vacants, les professeurs absents jamais remplacés et le manque d’adultes dans les établissements.\n L’article L’académie de Créteil est-elle délaissée ? est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "c86588b1af6b7f2f",
+   "titre": "4 élèves de CE2 sur 10 se déclarent victimes de violences sexuelles",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/4-eleves-de-ce2-sur-10-se-declarent-victimes-de-violences-sexuelles/",
+   "resume": "Insultes, bousculades, mises à l’écart, violences sexuelles : « les plus jeunes élèves sont les plus souvent victimes de violences à l’école », c’est ce que pointe l’enquête nationale de\n L’article 4 élèves de CE2 sur 10 se déclarent victimes de violences sexuelles est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "276f41afb32c74f1",
+   "titre": "Pour une école commune : en finir avec le financement public du séparatisme social et scolaire",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/pour-une-ecole-commune-en-finir-avec-le-financement-public-du-separatisme-social-et-scolaire/",
+   "resume": "Inégalités, manque de moyens, école à deux vitesses, ségrégation sociale croissante entre les secteurs privé et public… la situation est documentée : « les avantages accordés à l’enseignement privé n’ont\n L’article Pour une école commune : en finir avec le financement public du séparatisme social et scolaire est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "1544e870cd710d9d",
+   "titre": "Mathieu Farina : et si l’École apprenait aux élèves à aimer le vivant ?",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/mathieu-farina-et-si-lecole-apprenait-aux-eleves-a-aimer-le-vivant/",
+   "resume": "« Dans les salles de classe de SVT aussi, on parle de cellules tueuses, de police et d’armes chimiques ». Et si notre rapport au vivant reposait sur une erreur fondamentale ?\n L’article Mathieu Farina : et si l’École apprenait aux élèves à aimer le vivant ? est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "ee3cb2969f2eb7d0",
+   "titre": "Stage : un outil pour faciliter le suivi des élèves",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/stage-un-outil-pour-faciliter-le-suivi-des-eleves/",
+   "resume": "Voilà un outil à destiination des professeurs principaux de 3e et de 2de. L’outil CompagnonPP évolue avec une nouvelle version 3.0.1 qui intègre un onglet « Stage ». L’enseignant Julien\n L’article Stage : un outil pour faciliter le suivi des élèves est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "63bebb8eb3a386ab",
+   "titre": "SVT : la marche par l’exosquelette",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/svt-la-marche-par-lexosquelette/",
+   "resume": "Cet article publié par l’INSERM donnera des ressources pour les enseignants de SVT soucieux de présenter des découvertes récentes aux élèves. À Paris, une équipe de chercheurs expérimente Atalante X,\n L’article SVT : la marche par l’exosquelette est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "83af4b33a050a561",
+   "titre": "Débattre de l’innovation sociale à la Cité de l’Économie",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/debattre-de-linnovation-sociale-a-la-cite-de-leconomie/",
+   "resume": "Le jeudi 5 novembre, la Cité de l’Économie à Paris ouvre ses portes gratuitement de 18h à 22h. Le parcours permanent est en libre accès. Des visites flash, ainsi que\n L’article Débattre de l’innovation sociale à la Cité de l’Économie est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "45d59682fc29a0ed",
+   "titre": "Salon de l’éducation 2026 à Paris",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/salon-de-leducation-2026-a-paris/",
+   "resume": "Le salon Educatech Expo revient les 2, 3 et 4 décembre à Paris. Educatech Expo rassemble près de 14 000 participants chaque année. Pour cette nouvelle édition, 300 stands sont\n L’article Salon de l’éducation 2026 à Paris est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "e190ade59a893f11",
+   "titre": "30 ans de droit à l’École : laïcité, réformes, droits des élèves",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/30-ans-de-droit-a-lecole-laicite-reformes-droits-des-eleves/",
+   "resume": "Comment le droit a-t-il transformé l’École ces trente dernières années ? À l’occasion des 30 ans de la Direction des affaires juridiques (DAJ), le ministère de l’Éducation nationale publie un\n L’article 30 ans de droit à l’École : laïcité, réformes, droits des élèves est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "eb9ffdb96069b907",
+   "titre": "Montpellier : une infirmière scolaire interpellée violemment lors d’un blocus",
+   "source": "Café pédagogique",
+   "date": "2026-11-03",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/03/montpelliers-une-infirmiere-scolaire-interpellee-violemment-lors-dun-blocus/",
+   "resume": "Une infirmière scolaire menottée et plaquée au sol : un usage proportionné et mesuré de la force par la police ou répression ? « Le SNICS-FSU apporte tout son soutien à notre\n L’article Montpellier : une infirmière scolaire interpellée violemment lors d’un blocus est apparu en premier sur Le Café pédagogique ."
   },
   {
    "uid": "1d189f97767ddf80",
@@ -44,6 +188,24 @@
    "resume": "Original title: НАУЧНО-МЕТОДИЧЕСКИЕ ПОДХОДЫ К СОВЕРШЕНСТВОВАНИЮ СОДЕРЖАНИЯ ГЕОГРАФИЧЕСКОГО ОБРАЗОВАНИЯ В СРЕДНЕЙ ШКОЛЕ The article examines scientific and methodological approaches to improving the content of geography education in secondary school. It aims to identify criteria for content renewal and propose a sequence of design steps through an analysis of Kazakhstan's education regulations and methodological literature. The study uses comparative analysis, thematic synthesis, and source comparison against five criteria: regulatory alignment, disciplinary coherence, practical orientation, age-related progression, and assessability of learning outcomes. It compares systemic curriculum desig"
   },
   {
+   "uid": "9a786ea2b798b700",
+   "titre": "Impact of cervical cancer education on knowledge, attitudes and preventive practices among adolescent girls in secondary schools: a scoping review",
+   "source": "OpenAlex",
+   "date": "2026-11-02",
+   "auteurs": "Karimat Itunu Jolayemi, Deborah Tolulope Esan, Oluwadamilare Akingbade, Ayodeji Olubunmi Ogunmuyiwa",
+   "url": "https://doi.org/10.3389/fonc.2026.1969478",
+   "resume": "Background Cervical cancer remains one of the most preventable yet deadliest cancers affecting women in Africa. Despite global advances in prevention through human papillomavirus (HPV) vaccination, screening, and early treatment, Sub-Saharan Africa continues to experience disproportionately high incidence and mortality rates because of limited health infrastructure, inadequate awareness, and delayed diagnosis. Given that adolescence represents a critical window for establishing lifelong health behaviors, school-based cervical cancer education may provide an effective platform for improving knowledge and promoting preventive practices in line with the World Health Organization’s (WHO) cervica"
+  },
+  {
+   "uid": "bd93ab3f2d509825",
+   "titre": "LOCATIONAL ANALYSIS OF ALMAJIRI SCHOOLS IN KADUNA STATE, NIGERIA",
+   "source": "OpenAlex",
+   "date": "2026-11-02",
+   "auteurs": "Y. A. ATTA, O. A. OLUWOLE, D. ATEGBE, A. UMAR",
+   "url": "https://doi.org/10.70382/nijhcsr.v14i6.036",
+   "resume": "This study examined the spatial distribution patterns of Almajiri schools in Kaduna State, Nigeria, with a view to identifying spatial inequalities and generating evidence for improved educational planning and management. A descriptive survey research design was adopted, using a multistage sampling technique to select six Local Government Areas (LGAs): Zaria, Kaduna North, Kaduna South, Igabi, Chikun, and Jema’a. Primary data were obtained through Global Positioning System (GPS) field mapping and physical observation, while secondary data were sourced from maps, satellite imagery, and institutional records. The data were processed and analysed using overlay operations and Quadrat Analysis in"
+  },
+  {
    "uid": "7bbb2505a303d873",
    "titre": "Bridging the Educational Gap with Virtual Reality (VR): Virtual Labs for the Next Generation",
    "source": "OpenAlex",
@@ -53,112 +215,22 @@
    "resume": "This research addresses the systemic educational inequality in Thailand, where a severe shortage of physical science laboratories in rural areas hinders the development of 21st-century scientific literacy. Using the ADDIE model, the study developed a virtual world technology innovation, the AR SciLab platform, to serve as a high-quality, risk-free learning infrastructure. The innovation comprises a database of eight career-oriented experiments (e.g., biodiesel production and essential oil extraction), 3D immersive VR environments built on Unreal Engine 5, and bilingual instructional media. Tested with 500 primary and secondary students and 10 teachers across diverse regions, the results show"
   },
   {
-   "uid": "9bc9452ec441e7ce",
-   "titre": "Mesures pour le lycée : des « miettes » qui ne suffisent pas à calmer la mobilisation",
-   "source": "Café pédagogique",
+   "uid": "a73af620ab321717",
+   "titre": "Supporting Evidence Matrices for Developing a Sustainable Pedagogical Framework for Generative AI and Student Creativity in Saudi Higher Education",
+   "source": "OpenAlex",
    "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/mesures-pour-le-lycee-des-miettes-qui-ne-suffisent-pas-a-calmer-la-mobilisation/",
-   "resume": "Un mois après le début de la mobilisation de la jeunesse, le gouvernement a enfin annoncé des mesures pour réduire les effectifs en classe au lycée, améliorer le bâti scolaire\n L’article Mesures pour le lycée : des « miettes » qui ne suffisent pas à calmer la mobilisation est apparu en premier sur Le Café pédagogique ."
+   "auteurs": "FOUAD ATALLAH",
+   "url": "https://doi.org/10.5281/zenodo.23884352",
+   "resume": "Description This dataset provides the supplementary analytical materials supporting the manuscript entitled Developing a Sustainable Pedagogical Framework for Generative AI and Student Creativity in Saudi Higher Education, submitted to Discover Sustainability (Springer Nature). The materials support a theory-driven conceptual study integrating a structured synthesis of 20 purposively selected scholarly publications published between 2023 and 2026 with a documentary analysis of Saudi educational policy. The dataset consists of two files: 1. Supplementary_Table_S1.docx — Study Characteristics Matrix This file documents the 20 publications included in the analytical corpus, providing bibliograp"
   },
   {
-   "uid": "ac461525bf47b14c",
-   "titre": "AESH : vers un statut de fonctionnaire ?",
-   "source": "Café pédagogique",
+   "uid": "aca48ff53d0af03e",
+   "titre": "HUBUNGAN PEMANFAATAN KECERDASAN BUATAN (AI) SEBAGAI SUMBER BELAJAR DENGAN KEMANDIRIAN BELAJAR SISWA PAI DI SMP",
+   "source": "OpenAlex",
    "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/aesh-vers-un-statut-de-fonctionnaire/",
-   "resume": "Ce jeudi 29 octobre, l’Assemblée nationale a voté une proposition de loi visant à titulariser les AESH dans un corps de fonctionnaires de catégorie B. Une proposition portée par la\n L’article AESH : vers un statut de fonctionnaire ? est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "65358fafddb15e36",
-   "titre": "L’école inclusive et le mimétisme agressif de l’extrême droite",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/lecole-inclusive-et-le-mimetisme-agressif-de-lextreme-droite/",
-   "resume": "L’araignée bolas a un thorax bossu gris-marron qui la fait ressembler à une fiente de pigeon. Camouflée, elle produit alors les phéromones d’une femelle papillon de nuit, attirant ainsi les\n L’article L’école inclusive et le mimétisme agressif de l’extrême droite est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "81623434ba0ecbad",
-   "titre": "Le vote RN progresse, les enseignants résistent [entretien avec Luc Rouban]",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/le-vote-rn-progresse-les-enseignants-resistent-entretien-avec-luc-rouban/",
-   "resume": "« Être fonctionnaire, c’est souvent aujourd’hui ne plus participer à la puissance publique mais se retrouver confronté à l’impuissance publique. » Pour Luc Rouban, directeur de recherche émérite au CNRS\n L’article Le vote RN progresse, les enseignants résistent [entretien avec Luc Rouban] est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "a7d50c657ac6e119",
-   "titre": "L’annonce des 3000 TZR : « une tromperie » (Snes-FSU)",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/lannonce-des-3000-tzr-une-tromperie-snes-fsu/",
-   "resume": "Quels sont les premiers retours des académies sur la commande ministérielle de 3000 professeurs remplaçants affectés dans les lycées ? L’annonce est « une tromperie » pour la secrétaire générale\n L’article L’annonce des 3000 TZR : « une tromperie » (Snes-FSU) est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "5f4ea7dfc4c36e8c",
-   "titre": "Mettre le langage au cœur de l’Ecole",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/mettre-le-langage-au-coeur-de-lecole/",
-   "resume": "Apprendre et enseigner (avec) le langage : tel est le titre d’un bel ouvrage collectif, dirigé par Cendrine Waszak et Caroline Scheepers, écrit dans le compagnonnage et la continuité de Jacques\n L’article Mettre le langage au cœur de l’Ecole est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "fcaff502023dd108",
-   "titre": "Quand le collège ouvre des fenêtres",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/quand-le-college-ouvre-des-fenetres/",
-   "resume": "A une Ecole repliée sur elle-même préférer un apprentissage du regard ? Au collège des Acacias, au Havre, Ophélie Jomat, professeure de français, et Lise Minvielle-Moncla, enseignante d’arts plastiques, ont mené\n L’article Quand le collège ouvre des fenêtres est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "463a3f8389a2534a",
-   "titre": "A quoi nous programme le français au lycée ?",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/a-quoi-nous-programme-le-francais-au-lycee/",
-   "resume": "Le programme de français en 1ère a la particularité d’être renouvelé partiellement chaque année. Pour 2027‑2028 ont été annoncées les nouvelles œuvres poétiques proposées ainsi que leurs parcours associés :\n L’article A quoi nous programme le français au lycée ? est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "b788494799d8d3d2",
-   "titre": "Chateaubriand et Juliette Récamier réunis une nouvelle fois",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/chateaubriand-et-juliette-recamier-reunis-une-nouvelle-fois/",
-   "resume": "La Maison de Chateaubriand présente la première exposition entièrement consacrée à l’histoire exceptionnelle de la relation entre deux figures emblématiques de la première moitié du 19e siècle. Un lien durable,\n L’article Chateaubriand et Juliette Récamier réunis une nouvelle fois est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "f7a0c99b5ef600a8",
-   "titre": "« Pour une mobilisation générale en faveur de l’école » : l’appel d’un collectif dans le Nouvel Obs",
-   "source": "Café pédagogique",
-   "date": "2026-11-02",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/02/pour-une-mobilisation-generale-en-faveur-de-lecole-lappel-dun-collectif-dans-le-nouvel-obs/",
-   "resume": "« La France a su faire cela jadis avec le plan Langevin-Wallon (1947), toujours cité mais jamais appliqué. Nous avons besoin d’un plan Langevin-Wallon pour aujourd’hui ». Dans une tribune\n L’article « Pour une mobilisation générale en faveur de l’école » : l’appel d’un collectif dans le Nouvel Obs est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "299d318cfdf0cffc",
-   "titre": "Journées nationales de l’APMEP à Strasbourg : 900 enseignants réunis autour de leur passion des mathématiques",
-   "source": "Ludomag",
-   "date": "2026-11-02",
-   "auteurs": "Eric Fourcaud",
-   "url": "https://www.ludomag.com/2026/11/02/journees-nationales-de-lapmep-a-strasbourg-900-enseignants-reunis-autour-de-leur-passion-des-mathematiques/?utm_source=rss&utm_medium=rss&utm_campaign=journees-nationales-de-lapmep-a-strasbourg-900-enseignants-reunis-autour-de-leur-passion-des-mathematiques",
-   "resume": "REPORTAGE & INTERVIEWS 🎙️ Les Journées nationales de l'Association des professeurs de mathématiques de l'enseignement public (APMEP) ont rassemblé 900 participants à Strasbourg. Conférences, ateliers, échanges de pratiques et rencontres entre enseignants de la maternelle à l'université ont rythmé ce rendez-vous annuel. Pour Anne-France Acciari, présidente de la Régionale d'Alsace, et Jessica Brienne, présidente nationale de l'APMEP, ces journées illustrent le dynamisme d'une communauté enseignante qui souhaite partager ses expériences et renouveler les approches pédagogiques des mathématiques.\nL’article Journées nationales de l’APMEP à Strasbourg : 900 enseignants réunis autour de leur passi"
-  },
-  {
-   "uid": "146758b3849bcdf3",
-   "titre": "« Plumes du Paradis » au musée du Quai Branly",
-   "source": "Les Clionautes",
-   "date": "2026-11-01",
-   "auteurs": "Marie Dougnac",
-   "url": "https://www.clionautes.org/plumes-du-paradis-au-musee-du-quai-branly.html",
-   "resume": "Le musée du Quai Branly propose une exposition originale et très fournie sur les paradisiers. Mêlant histoire, biologie et anthropologie, elle retrace et interroge, avec une distance critique, l’évolution des relations entre les sociétés humaines et ces animaux singuliers. Un parcours riche en enseignements, aussi bien sur la précocité de la mondialisation que sur les […]"
+   "auteurs": "Jevita Mutia Wulandari, Syaefudin Achmad",
+   "url": "https://doi.org/10.51878/educator.v6i4.16375",
+   "resume": "ABSTRACT The use of generative artificial intelligence in education creates opportunities for students to access information and understand learning materials more flexibly. However, such accessibility does not necessarily correspond to students’ ability to manage their own learning independently, particularly in Islamic Religious Education (PAI) at the junior secondary school level. This study aims to examine the relationship between the use of ChatGPT as a learning resource and students’ learning independence at SMPN 5 Ambarawa. A quantitative approach with a correlational design was employed, involving 64 students selected through purposive sampling. Data were collected using a four-point"
   }
  ]
 }
