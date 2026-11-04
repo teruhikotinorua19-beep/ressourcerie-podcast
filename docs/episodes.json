@@ -1,5 +1,64 @@
 [
  {
+  "fichier": "veille-2026-11-04.mp3",
+  "date": "2026-11-04",
+  "pubdate": "Wed, 04 Nov 2026 06:24:27 -1000",
+  "titre": "Veille du 4 novembre",
+  "description": "6 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:40",
+  "taille": 1283970,
+  "items": [
+   {
+    "uid": "52124f9f7e1e8205",
+    "titre": "Le temps long des réformes fondamentales de l’Ecole : l’exemple de la loi Goblet",
+    "url": "https://www.cafepedagogique.net/2026/11/04/le-temps-long-des-reformes-fondamentales-de-lecole-lexemple-de-la-loi-goblet/",
+    "source": "Café pédagogique",
+    "score": 78,
+    "raison": "Claude Lelièvre replace la loi Goblet dans le temps long des réformes de l'École, utile pour le chapitre de première sur la Troisième République et l'école."
+   },
+   {
+    "uid": "b6fc7ce66ede0c57",
+    "titre": "La manifestation de rue : une histoire française, entre discipline collective et violence politique",
+    "url": "https://theconversation.com/la-manifestation-de-rue-une-histoire-francaise-entre-discipline-collective-et-violence-politique-295631",
+    "source": "The Conversation — Histoire",
+    "score": 74,
+    "raison": "Une histoire de la manifestation de rue en France, qui nourrit l'EMC sur l'engagement et les libertés et donne un fil historique pour la première."
+   },
+   {
+    "uid": "e1f53033404b6adf",
+    "titre": "Reimagining adolescent education with ephegogy: generative AI and active learning in practice",
+    "url": "https://doi.org/10.1108/aiie-06-2025-0126",
+    "source": "OpenAlex",
+    "score": 60,
+    "raison": "Étude de cas en cours de géographie du secondaire sur l'IA générative et l'apprentissage actif, avec des résultats sur la motivation, mais sur un très petit échantillon."
+   },
+   {
+    "uid": "1906bd5617cb53f3",
+    "titre": "Privacy for Kids : le CEPD lance une plateforme dédiée à la vie privée des enfants",
+    "url": "https://www.cnil.fr/fr/cepd-privacy-for-kids",
+    "source": "CNIL",
+    "score": 58,
+    "raison": "Une plateforme européenne sur la vie privée des enfants, exploitable en EMC et pour l'éducation au numérique."
+   },
+   {
+    "uid": "dd93ad30df2100f2",
+    "titre": "Une minute de silence durant des blocus : « On s’inquiète beaucoup de la montée de l’extrême droite »",
+    "url": "https://www.cafepedagogique.net/2026/11/04/une-minute-de-silence-durant-des-blocus-on-sinquiete-beaucoup-de-la-montee-de-lextreme-droite/",
+    "source": "Café pédagogique",
+    "score": 57,
+    "raison": "Témoignage de lycéens sur une minute de silence pendant les blocus, point de départ possible en EMC sur l'engagement et l'expression."
+   },
+   {
+    "uid": "4bd5dbb9c4062c30",
+    "titre": "Code and data for: Legacies of despair: how do structural and biological legacies from disturbance interact to influence coral growth and survivorship?",
+    "url": "https://doi.org/10.5281/zenodo.23929909",
+    "source": "OpenAlex",
+    "score": 56,
+    "raison": "Données d'une expérience de terrain sur les coraux de Moorea, pour illustrer le littoral et l'insularité en Polynésie, mais très technique."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-03.mp3",
   "date": "2026-11-03",
   "pubdate": "Tue, 03 Nov 2026 06:12:00 -1000",
@@ -537,73 +596,6 @@
     "source": "Les Clionautes",
     "score": 72,
     "raison": "L'ENS cherche des professeurs de Première pour une expérimentation sur le devoir maison à l'heure de l'IA : une occasion de t'engager et de réfléchir à tes pratiques."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-20.mp3",
-  "date": "2026-10-20",
-  "pubdate": "Tue, 20 Oct 2026 23:19:03 -1000",
-  "titre": "Veille du 20 octobre",
-  "description": "7 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:44",
-  "taille": 1310928,
-  "items": [
-   {
-    "uid": "82079082ffe91e10",
-    "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
-    "url": "https://hal.science/hal-05820763v1",
-    "source": "HAL",
-    "score": 82,
-    "raison": "Les normes anciennes sur l'usage des lagons en Polynésie croisent le droit d'aujourd'hui : un cas local pour le littoral en sixième et pour le droit en EMC."
-   },
-   {
-    "uid": "fdc390ff8e21d646",
-    "titre": "Christophe Colomb se croyait investi d’une mission divine, comme le révèlent ses écrits",
-    "url": "https://theconversation.com/christophe-colomb-se-croyait-investi-dune-mission-divine-comme-le-revelent-ses-ecrits-293955",
-    "source": "The Conversation — Histoire",
-    "score": 78,
-    "raison": "Les écrits de Colomb montrent le lien entre conversion et conquête dès 1492 : une source pour l'ouverture atlantique en seconde."
-   },
-   {
-    "uid": "c9fdd7dfeabad009",
-    "titre": "Comment les déjections d’oiseaux ont façonné l’agriculture moderne et contribué à l’expansion de l’empire américain",
-    "url": "https://theconversation.com/comment-les-dejections-doiseaux-ont-faconne-lagriculture-moderne-et-contribue-a-lexpansion-de-lempire-americain-288944",
-    "source": "The Conversation — Histoire",
-    "score": 75,
-    "raison": "Le guano, premier engrais mondialisé, illustre chaînes d'approvisionnement et exploitation des travailleurs : utile en première et pour la mondialisation en seconde."
-   },
-   {
-    "uid": "fc3004798af86796",
-    "titre": "IA et devoirs à la maison : l’ENS cherche des enseignants de Première pour une expérimentation",
-    "url": "https://www.clionautes.org/ia-devoirs-maison-experimentation.html",
-    "source": "Les Clionautes",
-    "score": 72,
-    "raison": "L'ENS cherche des professeurs de Première pour une expérimentation sur le devoir maison à l'heure de l'IA : une occasion de t'engager et de réfléchir à tes pratiques."
-   },
-   {
-    "uid": "e06f8e5a0b1a6307",
-    "titre": "Notre paie s’appelle un « salaire », mais est-ce vraiment parce que les soldats romains étaient payés en sel ?",
-    "url": "https://theconversation.com/notre-paie-sappelle-un-salaire-mais-est-ce-vraiment-parce-que-les-soldats-romains-etaient-payes-en-sel-292155",
-    "source": "The Conversation — Histoire",
-    "score": 66,
-    "raison": "Démonter l'idée reçue du salaire payé en sel permet un travail sur les sources et sur l'armée romaine en sixième."
-   },
-   {
-    "uid": "c6c401ea7fa4b349",
-    "titre": "Quand les riches Anglais profitaient de la Révolution française pour s’emparer des livres rares",
-    "url": "https://theconversation.com/quand-les-riches-anglais-profitaient-de-la-revolution-francaise-pour-semparer-des-livres-rares-294195",
-    "source": "The Conversation — Histoire",
-    "score": 60,
-    "raison": "Les collectionneurs anglais et les monastères démantelés offrent un angle original sur la Révolution française en seconde."
-   },
-   {
-    "uid": "eafece0b2be1d771",
-    "titre": "L’histoire de l’enfance : une clé pour comprendre comment change la société française, entre infantisme et nouveaux droits",
-    "url": "https://theconversation.com/lhistoire-de-lenfance-une-cle-pour-comprendre-comment-change-la-societe-francaise-entre-infantisme-et-nouveaux-droits-294522",
-    "source": "The Conversation — Histoire",
-    "score": 57,
-    "raison": "L'histoire de l'enfance et de ses droits nourrit un travail d'EMC sur les droits et la citoyenneté."
    }
   ]
  }
