@@ -1,5 +1,32 @@
 [
  {
+  "fichier": "veille-2026-11-06.mp3",
+  "date": "2026-11-06",
+  "pubdate": "Fri, 06 Nov 2026 06:09:50 -1000",
+  "titre": "Veille du 6 novembre",
+  "description": "2 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:43",
+  "taille": 980352,
+  "items": [
+   {
+    "uid": "8f617e426ef8b8a8",
+    "titre": "La COP31 s’ouvre dans un contexte défavorable : comment retrouver des marges d’action climatique ?",
+    "url": "https://theconversation.com/la-cop31-souvre-dans-un-contexte-defavorable-comment-retrouver-des-marges-daction-climatique-295995",
+    "source": "The Conversation — Environnement",
+    "score": 62,
+    "raison": "La COP31 offre une actualité brûlante pour le thème sociétés et environnements en seconde et pour l'EMC, avec la question des financements climatiques et du retrait américain."
+   },
+   {
+    "uid": "fc637e6e76e91439",
+    "titre": "Understanding Generative AI Use in Secondary School Contexts: A Mixed-Methods Study",
+    "url": "https://doi.org/10.25949/34930068",
+    "source": "OpenAlex",
+    "score": 56,
+    "raison": "Une enquête auprès de lycéens sur l'usage de l'IA générative, utile pour cadrer les pratiques numériques de tes élèves et nourrir un échange d'EMC sur l'éthique et l'évaluation."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-05.mp3",
   "date": "2026-11-05",
   "pubdate": "Thu, 05 Nov 2026 06:10:25 -1000",
@@ -502,100 +529,6 @@
     "source": "HAL",
     "score": 88,
     "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-22-2.mp3",
-  "date": "2026-10-22",
-  "pubdate": "Thu, 22 Oct 2026 20:44:10 -1000",
-  "titre": "Veille du 22 octobre — rappel",
-  "description": "Rappel : 4 article(s) déjà présentés.",
-  "duree": "00:01:29",
-  "taille": 533664,
-  "items": [
-   {
-    "uid": "82079082ffe91e10",
-    "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
-    "url": "https://hal.science/hal-05820763v1",
-    "source": "HAL",
-    "score": 82,
-    "raison": "Les normes anciennes sur l'usage des lagons en Polynésie croisent le droit d'aujourd'hui : un cas local pour le littoral en sixième et pour le droit en EMC."
-   },
-   {
-    "uid": "fdc390ff8e21d646",
-    "titre": "Christophe Colomb se croyait investi d’une mission divine, comme le révèlent ses écrits",
-    "url": "https://theconversation.com/christophe-colomb-se-croyait-investi-dune-mission-divine-comme-le-revelent-ses-ecrits-293955",
-    "source": "The Conversation — Histoire",
-    "score": 78,
-    "raison": "Les écrits de Colomb montrent le lien entre conversion et conquête dès 1492 : une source pour l'ouverture atlantique en seconde."
-   },
-   {
-    "uid": "c9fdd7dfeabad009",
-    "titre": "Comment les déjections d’oiseaux ont façonné l’agriculture moderne et contribué à l’expansion de l’empire américain",
-    "url": "https://theconversation.com/comment-les-dejections-doiseaux-ont-faconne-lagriculture-moderne-et-contribue-a-lexpansion-de-lempire-americain-288944",
-    "source": "The Conversation — Histoire",
-    "score": 75,
-    "raison": "Le guano, premier engrais mondialisé, illustre chaînes d'approvisionnement et exploitation des travailleurs : utile en première et pour la mondialisation en seconde."
-   },
-   {
-    "uid": "a12532dd6c698472",
-    "titre": "Les figures de la contextualisation dans l’enseignement de l’histoire-géographie à partir des pratiques déclarées des enseignant.e.s",
-    "url": "https://hal.science/hal-05835083v1",
-    "source": "HAL",
-    "score": 72,
-    "raison": "Enquête sur la contextualisation des programmes d'histoire-géographie en outre-mer : un miroir direct pour ta pratique en Polynésie."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-22.mp3",
-  "date": "2026-10-22",
-  "pubdate": "Thu, 22 Oct 2026 06:12:26 -1000",
-  "titre": "Veille du 22 octobre",
-  "description": "5 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:24",
-  "taille": 1152731,
-  "items": [
-   {
-    "uid": "a12532dd6c698472",
-    "titre": "Les figures de la contextualisation dans l’enseignement de l’histoire-géographie à partir des pratiques déclarées des enseignant.e.s",
-    "url": "https://hal.science/hal-05835083v1",
-    "source": "HAL",
-    "score": 72,
-    "raison": "Enquête sur la contextualisation des programmes d'histoire-géographie en outre-mer : un miroir direct pour ta pratique en Polynésie."
-   },
-   {
-    "uid": "23e9e998081ad3ca",
-    "titre": "Nommer les établissements scolaires dans les outre-mers français : mémoires postcoloniales et identités collectives. Une étude exploratoire à La Réunion et en Nouvelle-Calédonie",
-    "url": "https://hal.science/hal-05835141v1",
-    "source": "HAL",
-    "score": 62,
-    "raison": "Étude sur les noms des établissements en outre-mer et les mémoires postcoloniales : piste pour l'EMC et pour la colonisation en première."
-   },
-   {
-    "uid": "ae0bb1f232bf4700",
-    "titre": "Naissance des paysages sous-marins",
-    "url": "https://www.clionautes.org/naissance-des-paysages-sous-marins.html",
-    "source": "Les Clionautes",
-    "score": 60,
-    "raison": "Une géographe du littoral présente les paysages sous-marins : utile pour le chapitre littoral et le regard sur le lagon."
-   },
-   {
-    "uid": "78fd23ab432252f8",
-    "titre": "Qu’est-ce qu’une forêt ? Pourquoi cette question est bien plus complexe qu’il n’y paraît",
-    "url": "https://theconversation.com/quest-ce-quune-foret-pourquoi-cette-question-est-bien-plus-complexe-quil-ny-parait-294311",
-    "source": "The Conversation — Environnement",
-    "score": 58,
-    "raison": "Mille définitions du mot forêt : un angle concret sur les ressources et les enjeux environnementaux en seconde."
-   },
-   {
-    "uid": "3f1941930ec4bbbd",
-    "titre": "Ressources pédagogiques de l’Insee : consultation des enseignants",
-    "url": "https://www.clionautes.org/ressources-pedagogiques-insee-questionnaire.html",
-    "source": "Les Clionautes",
-    "score": 56,
-    "raison": "L'Insee consulte les enseignants sur ses ressources pédagogiques, pyramides des âges et données territoriales utiles en géographie."
    }
   ]
  }
