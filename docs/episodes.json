@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-11-07.mp3",
+  "date": "2026-11-07",
+  "pubdate": "Sat, 07 Nov 2026 06:09:49 -1000",
+  "titre": "Veille du 7 novembre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:01:32",
+  "taille": 553248,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   },
+   {
+    "uid": "ab060a5a2ba3c1f6",
+    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
+    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
+   },
+   {
+    "uid": "4c2076a64a581aa2",
+    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
+    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
+    "source": "Les Clionautes",
+    "score": 82,
+    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
+   },
+   {
+    "uid": "39956d693e3a1740",
+    "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
+    "url": "https://hal.science/hal-05735818v1",
+    "source": "HAL",
+    "score": 78,
+    "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-06.mp3",
   "date": "2026-11-06",
   "pubdate": "Fri, 06 Nov 2026 06:09:50 -1000",
@@ -510,25 +553,6 @@
     "source": "Les Clionautes",
     "score": 55,
     "raison": "Une rencontre avec une archéologue de terrain autour d'un album jeunesse, pour introduire le métier d'archéologue et les sources en sixième."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-23.mp3",
-  "date": "2026-10-23",
-  "pubdate": "Fri, 23 Oct 2026 06:12:07 -1000",
-  "titre": "Veille du 23 octobre",
-  "description": "1 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:54",
-  "taille": 1041984,
-  "items": [
-   {
-    "uid": "e044a205cb9e6dc0",
-    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
-    "url": "https://hal.science/hal-05835798v1",
-    "source": "HAL",
-    "score": 88,
-    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
    }
   ]
  }
