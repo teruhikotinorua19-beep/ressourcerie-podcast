@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-06T16:00+00:00",
+ "genere": "2026-11-07T19:28+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,184 +8,13 @@
  },
  "items": [
   {
-   "uid": "8f617e426ef8b8a8",
-   "titre": "La COP31 s’ouvre dans un contexte défavorable : comment retrouver des marges d’action climatique ?",
-   "source": "The Conversation — Environnement",
-   "date": "2026-11-06",
-   "auteurs": "",
-   "url": "https://theconversation.com/la-cop31-souvre-dans-un-contexte-defavorable-comment-retrouver-des-marges-daction-climatique-295995",
-   "resume": "La défection états-unienne depuis la réélection de Donald Trump en novembre 2024 pèse sur les négociations et sur les moyens alloués aux financements climatiques."
-  },
-  {
-   "uid": "c2708fa8e39e2fce",
-   "titre": "Éducation aux données et démarche informatique : une visée émancipatrice ?",
+   "uid": "b143860816ae6f86",
+   "titre": "L'autobiographie de Golda Meir à cinquante ans de distance",
    "source": "HAL",
-   "date": "2026-11-06",
-   "auteurs": "Béatrice Drot-Delange",
-   "url": "https://hal.science/hal-05854908v1",
-   "resume": "Dès les années 1980, Jacques Hebenstreit a souligné la nécessité de familiariser les élèves avec les logiciels dans une société pour laquelle il prédisait une pervasivité de l’information. Ce chapitre revisite synthétiquement l’héritage de sa pensée dans ce champ de l’éducation aux données et la démarche informatique qui la sous-tend (Baron, J.L. et Drot-Delange, B. (2023) Humanités numériques en éducation : vers de nouvelles littératies. hal-04181585). Cette « éducation à » recouvre un apprentissage de la recherche, de la consultation, de la collecte, de l’analyse et de l’utilisation des données de manière critique. Or dans ce champ les connaissances nécessaires citées par Hebenstreit sont "
-  },
-  {
-   "uid": "1a4644788f4db7d0",
-   "titre": "Grève interprofessionnelle : la joie et la rage au rendez-vous",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/greve-interprofessionnelle-la-joie-et-la-rage-au-rendez-vous/",
-   "resume": "« Ne nous arrêtons pas là : c’est le moment de transformer l’espoir en victoire ! » lance le Snes-Fsu à l’issue de la journée où le syndicat annonce 52%\n L’article Grève interprofessionnelle : la joie et la rage au rendez-vous est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "b5c4fd2129869b62",
-   "titre": "REPORTAGE Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les annonces du gouvernement",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/greve-du-5-novembre-professeurs-et-lyceens-ont-manifeste-nombreux-malgre-les-annonces-du-gouvernement/",
-   "resume": "Répondant à l’appel de l’intersyndicale interprofessionnelle, lycéens et personnels de l’Éducation nationale sont venus manifester en nombre ce 5 novembre. Les vacances et les annonces du gouvernement n’ont pas affaibli\n L’article REPORTAGE Grève du 5 novembre : professeurs et lycéens ont manifesté nombreux malgré les annonces du gouvernement est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "4d1461c332f97634",
-   "titre": "« On leur apprend l’esprit critique, on leur confisque leurs pancartes » : l’AFEF dénonce une censure de la jeunesse",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/ouvrez-des-prisons-vous-fermerez-des-ecoles/",
-   "resume": "« Le gouvernement a choisi de traquer les mots plutôt que d’en comprendre le sens ». Des gardes à vue massives à la confiscation de pancartes, « pour l’AFEF (association\n L’article « On leur apprend l’esprit critique, on leur confisque leurs pancartes » : l’AFEF dénonce une censure de la jeunesse est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "731fd2ef20e8f526",
-   "titre": "Réformes de l’école : ce que veulent les cadres",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/reformes-de-lecole-ce-que-veulent-les-cadres/",
-   "resume": "Après avoir consacré un éclairant dossier aux « rendez-vous manqués de l’école », la revue Administration & Éducation s’efforce d’esquisser des pistes de transformation pour l’avenir. L’Association Française des Acteurs de l’Education (AFAE)\n L’article Réformes de l’école : ce que veulent les cadres est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "be9fb5d3714c5502",
-   "titre": "30 textes pour dire une génération qui résiste et espère",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/30-textes-pour-dire-une-generation-entre-resiste-et-espere/",
-   "resume": "Inviter « 30 auteurs et autrices de moins de 30 ans de 30 pays » à prendre la plume pour écrire le monde tel qu’iels le voient et tel qu’iels le veulent :\n L’article 30 textes pour dire une génération qui résiste et espère est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "44a46fcf32308ea0",
-   "titre": "1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique !",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/et-si-vous-vous-engagiez-pour-un-media-qui-soutient-lecole/",
-   "resume": "Pour poursuivre ses publications quotidiennes, le Café pédagogique a besoin de votre aide. Voici plusieurs façons pour aider votre média indépendant : Abonnement de soutien à 5 euros par mois\n L’article 1 euro, 2 euros, 5 euros… Soutenez comme vous pouvez le Café pédagogique ! est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "12e5ff0c596abbab",
-   "titre": "SCOllectif : « Redonner du sens à la coopération »",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/scollectif-redonner-du-sens-a-la-cooperation/",
-   "resume": "En cette année scolaire aux enjeux particulièrement cruciaux pour l’Ecole, le Café pédagogique a souhaité mettre en lumière les associations enseignantes, leur engagement et leurs projets. Pour le troisième volet\n L’article SCOllectif : « Redonner du sens à la coopération » est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "1687e541b0c927dd",
-   "titre": "Rendez-vous de l’orientation Onisep – Éducation inclusive et accompagnement à l’orientation : enjeux et pistes pédagogiques",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/rendez-vous-de-lorientation-onisep-education-inclusive-et-accompagnement-a-lorientation-enjeux-et-pistes-pedagogiques/",
-   "resume": "Les « Rendez-vous de l’orientation » donnent la parole à des spécialistes (inspecteurs et inspectrices de l’Éducation nationale, enseignants-chercheurs, enseignantes-chercheuses…) qui interviennent sur leur domaine d’expertise lors de visioconférences. C’est\n L’article Rendez-vous de l’orientation Onisep – Éducation inclusive et accompagnement à l’orientation : enjeux et pistes pédagogiques est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "979e82315fef624c",
-   "titre": "Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 !",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/venez-presenter-votre-projet-au-forum-du-cafe-pedagogique-2/",
-   "resume": "Après Rennes, Roubaix, Dax, Lyon, Orléans, Nantes, Bordeaux, Poitiers… le Forum du Café pédagogique revient à Paris et fera souffler le vent de la créativité les samedi 23 et dimanche\n L’article Et si votre idée faisait école ? Candidatez au Forum du Café pédagogique 2027 ! est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "80e007f5f210fcec",
-   "titre": "Rendez-vous à la Fondation Cartier pour découvrir le Ghana et ses artistes",
-   "source": "Café pédagogique",
-   "date": "2026-11-06",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/06/rendez-vous-a-la-fondation-cartier-pour-decouvrir-le-ghana-et-ses-artistes/",
-   "resume": "Crée en 1984, la Fondation Cartier pour l’art contemporain est, à Paris, un espace de dialogue et d’expérimentation artistique qui s’intéresse à l’art contemporain sous toutes ses formes. Elle déploie\n L’article Rendez-vous à la Fondation Cartier pour découvrir le Ghana et ses artistes est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "f86d752493dffe82",
-   "titre": "Recherches internes : quelles sont les obligations pour les professionnels de santé ?",
-   "source": "CNIL",
-   "date": "2026-11-06",
-   "auteurs": "CNIL",
-   "url": "https://www.cnil.fr/fr/recherches-internes-sante-quelles-obligations",
-   "resume": "Votre établissement emploie des professionnels de santé qui mènent des recherches internes&nbsp;? La CNIL rappelle les règles."
-  },
-  {
-   "uid": "f70ebfdd02890f7c",
-   "titre": "STRUCTURE OF THE SUBJECT \"VOLLEYBALL THEORY AND METHODOLOGY\"",
-   "source": "OpenAlex",
-   "date": "2026-11-05",
-   "auteurs": "Madaminov Oribdjan Nishanbayevich, Worldly Knowledge Publishing Centre",
-   "url": "https://doi.org/10.5281/zenodo.23988045",
-   "resume": "This article, titled \"Voleyball Theory and Methodology,\" provides information on the knowledge, history of origin, development of volleyball sports, physical and psychological preparation, game techniques and tactics, and training rules, as well as recommendations for physical education undergraduates in the \"Sports Games and Teaching Methodology\" specialty of educational institutions. Of these, students majoring in physical education, master's students, and secondary physical education teachers in secondary schools and sports schools in the primary training group are involved in volleyball.coaches, physical education organizer-instructors, and all to fans of these sports games."
-  },
-  {
-   "uid": "451e0d5465a8b217",
-   "titre": "AIGE Teaching Materials (University-EN): PPT Slides",
-   "source": "OpenAlex",
-   "date": "2026-11-05",
-   "auteurs": "Center for Artificial Intelligence General Education (AIGE), Department of Computer Science and Technology, Tsinghua University",
-   "url": "https://doi.org/10.5281/zenodo.23936182",
-   "resume": "This record contains the English-language PPT slides for the university-level artificial intelligence general education course of the Tsinghua AIGE Series. The slides accompany the textbook Illustrated Artificial Intelligence by Wang Dong and Ma Shaoping and the companion AI general education course produced by the AIGE Research Center, Tsinghua CS Department. Designed for classroom implementation, the slides support university teachers, curriculum developers, nonprofit educational organizations and local adaptation teams in establishing and delivering artificial intelligence general education at the higher-education level. The collection contains 51 lectures (Lecture 1 to Lecture 50, plus L"
-  },
-  {
-   "uid": "572d83738ba6b52a",
-   "titre": "The impact of high school geography education on the academic success of undergraduate students in Geography",
-   "source": "OpenAlex",
-   "date": "2026-11-05",
-   "auteurs": "Francois De Bruyn",
-   "url": "https://doi.org/10.25403/upresearchdata.30848234",
-   "resume": "This dataset comprises raw survey responses collected as part of a mixed-methods study examining undergraduate students' perceptions of how high school geography education influences their preparedness and performance in university-level geography modules. The research highlights curriculum alignment between secondary (CAPS/IEB frameworks) and tertiary education in South Africa, identifies skill gaps in areas like GIS and fieldwork, and proposes enhancements through STEAM integration and experiential learning. Data were gathered via an online Google Forms survey in early 2025, focusing on demographics, perceptions of curriculum effectiveness, and open-ended reflections on real-world applicat"
-  },
-  {
-   "uid": "54c8f444c03fe330",
-   "titre": "Machine learning for predicting secondary school students’ math exam outcomes",
-   "source": "OpenAlex",
-   "date": "2026-11-05",
-   "auteurs": "Yang Xu",
-   "url": "https://doi.org/10.1117/12.3126213",
-   "resume": "The study adopts the UCI Student Performance Dataset containing 649 records from two Portuguese secondary schools. Two interpretable machine learning methods (linear regression (LR) and random forest (RF)) are applied to predict students’ final math exam scores (G3). Experimental results show that the second-period math score (G2) and the first period math score (G1) are the core decisive factors for G3, with course failures and absences as the main negative regulatory factors, and weekly study time and maternal education level as key positive fine-tuning factors; demographic factors such as gender and age have negligible impacts on math performance. The RF model (R²=0.86, mean square error "
-  },
-  {
-   "uid": "fc637e6e76e91439",
-   "titre": "Understanding Generative AI Use in Secondary School Contexts: A Mixed-Methods Study",
-   "source": "OpenAlex",
-   "date": "2026-11-05",
-   "auteurs": "Adam Benjamin Inder",
-   "url": "https://doi.org/10.25949/34930068",
-   "resume": "Generative AI has become a significant development in education, opening new possibilities for learning while raising genuine questions about accuracy, ethics, equity, and assessment. Policy responses have moved quickly, but there is still limited evidence on how these tools are being used in Australian secondary schools, particularly as students and school leaders experience them day-to-day. This mixed-methods study examined the use of generative AI across two Western Australian independent secondary schools operating under contrasting policy conditions. A student survey (n = 148) explored awareness, access, patterns of use, perceived benefits, challenges, and desired support. Semi-structur"
-  },
-  {
-   "uid": "ec57932e13c9da92",
-   "titre": "Generative AI in Mathematics Learning: A Bibliometric Analysis and Narrative Review",
-   "source": "OpenAlex",
-   "date": "2026-11-05",
-   "auteurs": "Nur Ismiyati",
-   "url": "https://doi.org/10.58578/ijhess.v4i3.12544",
-   "resume": "Since late 2022, generative artificial intelligence (GenAI) has expanded rapidly in mathematics education, yet the research field remains insufficiently mapped, and evidence of its effects on learning is inconsistent. This study mapped the development, structure, and emerging topics of research on GenAI in mathematics learning and synthesized evidence on its uses, effects, and challenges. Bibliometric analysis was combined with a narrative review. Searches for records published between 2022 and 2026 in OpenAlex, ERIC, ScienceDirect, Google Scholar, and Garuda yielded 1,480 records, with 1,206 unique records retained after cleaning. Descriptive and text-mining analyses examined the full corpu"
-  },
-  {
-   "uid": "85afbc9a64c9bbcf",
-   "titre": "GENERATIVE ARTIFICIAL INTELLIGENCE IN STUDENT SELF-ASSESSMENT",
-   "source": "OpenAlex",
-   "date": "2026-11-05",
-   "auteurs": "Svitlana Lytvynova",
-   "url": "https://doi.org/10.5281/zenodo.23980465",
-   "resume": "This paper presents an analysis of empirical studies on the use of generative artificial intelligence (AI) to support students’ self-assessment and self-regulated learning. It identifies the pedagogical opportunities, limitations, and conditions for using AI to develop students’ ability to make evidence-based evaluative judgments. The findings of experimental studies and surveys examining self-assessment accuracy, self-reflection, feedback perception, and behavioral indicators of self-regulation are compared. The analysis demonstrates that positive attitudes toward AI or frequent interactions with chatbots do not necessarily lead to improvements in self-assessment accuracy. An original algor"
+   "date": "2026-11-07",
+   "auteurs": "Renée Fregosi",
+   "url": "https://shs.hal.science/halshs-05855930v1",
+   "resume": "En 1975, Golda Meir (1898-1978) publiait en anglais son autobiographie[1] dans le but de faire comprendre au monde, à travers son parcours personnel, les fondements de l'État hébreu. De Kiev où la petite fille se cache des pogroms et souffre souvent de la faim et du froid, à l'adolescence pauvre des immigrés aux États-Unis où elle devient sioniste, à la vie spartiate d'un des premiers kibboutzim de la Palestine mandataire pendant les années 1920 puis en Israël où tout est à construire, son engagement social et politique précoce, est à la fois logique et extraordinaire. Elle travaille d'abord pour la Histadrut (syndicat aux multiples actions d'aide sociale) puis participe à la Haganah (l'orga"
   }
  ]
 }
