@@ -1,20 +1,10 @@
 {
- "genere": "2026-11-07T19:28+00:00",
+ "genere": "2026-11-08T19:44+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
   "score_minimum": 55,
   "max_retenus": 15
  },
- "items": [
-  {
-   "uid": "b143860816ae6f86",
-   "titre": "L'autobiographie de Golda Meir à cinquante ans de distance",
-   "source": "HAL",
-   "date": "2026-11-07",
-   "auteurs": "Renée Fregosi",
-   "url": "https://shs.hal.science/halshs-05855930v1",
-   "resume": "En 1975, Golda Meir (1898-1978) publiait en anglais son autobiographie[1] dans le but de faire comprendre au monde, à travers son parcours personnel, les fondements de l'État hébreu. De Kiev où la petite fille se cache des pogroms et souffre souvent de la faim et du froid, à l'adolescence pauvre des immigrés aux États-Unis où elle devient sioniste, à la vie spartiate d'un des premiers kibboutzim de la Palestine mandataire pendant les années 1920 puis en Israël où tout est à construire, son engagement social et politique précoce, est à la fois logique et extraordinaire. Elle travaille d'abord pour la Histadrut (syndicat aux multiples actions d'aide sociale) puis participe à la Haganah (l'orga"
-  }
- ]
+ "items": []
 }
