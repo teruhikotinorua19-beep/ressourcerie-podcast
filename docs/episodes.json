@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-11-09.mp3",
+  "date": "2026-11-09",
+  "pubdate": "Mon, 09 Nov 2026 06:13:06 -1000",
+  "titre": "Veille du 9 novembre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:01:36",
+  "taille": 764865,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   },
+   {
+    "uid": "ab060a5a2ba3c1f6",
+    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
+    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
+   },
+   {
+    "uid": "4c2076a64a581aa2",
+    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
+    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
+    "source": "Les Clionautes",
+    "score": 82,
+    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
+   },
+   {
+    "uid": "82079082ffe91e10",
+    "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
+    "url": "https://hal.science/hal-05820763v1",
+    "source": "HAL",
+    "score": 82,
+    "raison": "Coutume judiciaire et pratiques autochtones autour des lagons en pays mā'ohi, un cas local pour les littoraux et les sociétés face à leur environnement."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-08.mp3",
   "date": "2026-11-08",
   "pubdate": "Sun, 08 Nov 2026 06:10:09 -1000",
@@ -526,33 +569,6 @@
     "source": "The Conversation — Histoire",
     "score": 78,
     "raison": "Les écrits de Colomb montrent le lien entre conversion et conquête dès 1492 : une source pour l'ouverture atlantique en seconde."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-25.mp3",
-  "date": "2026-10-25",
-  "pubdate": "Sun, 25 Oct 2026 06:09:57 -1000",
-  "titre": "Veille du 25 octobre",
-  "description": "2 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:36",
-  "taille": 933264,
-  "items": [
-   {
-    "uid": "4c2076a64a581aa2",
-    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
-    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
-    "source": "Les Clionautes",
-    "score": 82,
-    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
-   },
-   {
-    "uid": "12aefcfd6b93d966",
-    "titre": "Paysages et cultures automobiles",
-    "url": "https://www.clionautes.org/paysages-et-cultures-automobiles.html",
-    "source": "Les Clionautes",
-    "score": 60,
-    "raison": "Un regard de géographes et de paysagistes sur les paysages liés à l'automobile, mobilisable en première sur la métropolisation et en sixième sur habiter une métropole."
    }
   ]
  }
