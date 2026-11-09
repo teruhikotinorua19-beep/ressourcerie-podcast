@@ -1,10 +1,20 @@
 {
- "genere": "2026-11-08T19:44+00:00",
+ "genere": "2026-11-09T23:48+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
   "score_minimum": 55,
   "max_retenus": 15
  },
- "items": []
+ "items": [
+  {
+   "uid": "a871d0d954b6af45",
+   "titre": "Students Learn to Use Generative AI Before Learning to Question It: Ordinal Trajectories of Academic Use and Caution from Adolescence to University",
+   "source": "OpenAlex",
+   "date": "2026-11-09",
+   "auteurs": "Maria Elena Cuenca-Rodriguez, Marta Martínez-Rodríguez, Miren Perez-Eizaquirre, G. M. Sacha",
+   "url": "https://doi.org/10.35542/osf.io/cm438_v1",
+   "resume": "Students are adopting generative artificial intelligence (GenAI) at increasingly early educational stages, yet little is known about whether caution toward its outputs develops at the same pace. This study examined ordinal trajectories of academic GenAI use and caution, assessed as perceived reliability, from adolescence to university. Two coordinated surveys assessed use frequency and perceived reliability for the same 11 academic activities in an exact-age sample of 1,598 students: 1,167 secondary students aged 12-17 and 431 higher-education students aged 18-25, who also rated seven additional research-oriented activities. Between ages 12 and 17, the odds of higher use increased per year o"
+  }
+ ]
 }
