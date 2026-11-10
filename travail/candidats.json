@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-09T23:48+00:00",
+ "genere": "2026-11-10T21:20+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,13 +8,76 @@
  },
  "items": [
   {
-   "uid": "a871d0d954b6af45",
-   "titre": "Students Learn to Use Generative AI Before Learning to Question It: Ordinal Trajectories of Academic Use and Caution from Adolescence to University",
-   "source": "OpenAlex",
-   "date": "2026-11-09",
-   "auteurs": "Maria Elena Cuenca-Rodriguez, Marta Martínez-Rodríguez, Miren Perez-Eizaquirre, G. M. Sacha",
-   "url": "https://doi.org/10.35542/osf.io/cm438_v1",
-   "resume": "Students are adopting generative artificial intelligence (GenAI) at increasingly early educational stages, yet little is known about whether caution toward its outputs develops at the same pace. This study examined ordinal trajectories of academic GenAI use and caution, assessed as perceived reliability, from adolescence to university. Two coordinated surveys assessed use frequency and perceived reliability for the same 11 academic activities in an exact-age sample of 1,598 students: 1,167 secondary students aged 12-17 and 431 higher-education students aged 18-25, who also rated seven additional research-oriented activities. Between ages 12 and 17, the odds of higher use increased per year o"
+   "uid": "673fd914d58295a3",
+   "titre": "11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique",
+   "source": "The Conversation — Histoire",
+   "date": "2026-11-10",
+   "auteurs": "",
+   "url": "https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198",
+   "resume": "Les démocraties savent-elles faire la guerre ? L’Athènes antique, puissance militaire redoutable et démocratie sans équivalent à son époque, répond oui. Mais elle rappelle aussi que la démocratie ne rend pas un peuple pacifique par nature."
+  },
+  {
+   "uid": "27d9ed6beccd8db2",
+   "titre": "Ces espèces de fourmis qui prospèrent à Paris",
+   "source": "The Conversation — Environnement",
+   "date": "2026-11-10",
+   "auteurs": "",
+   "url": "https://theconversation.com/ces-especes-de-fourmis-qui-prosperent-a-paris-295214",
+   "resume": "On trouve presque autant d'espèces de fourmis dans les parcs parisiens que dans les forêts d'île-de-France. Cependant, les fourmis citadines ne sont pas les mêmes que celles des forêts franciliennes."
+  },
+  {
+   "uid": "e5fc3d702c9c8d47",
+   "titre": "Ouragans ou COP31 : qu’est-ce qui fait vraiment trembler les actions des assureurs ?",
+   "source": "The Conversation — Environnement",
+   "date": "2026-11-10",
+   "auteurs": "",
+   "url": "https://theconversation.com/ouragans-ou-cop31-quest-ce-qui-fait-vraiment-trembler-les-actions-des-assureurs-294406",
+   "resume": "Les annonces climatiques de la COP31 peuvent modifier les anticipations des investisseurs, notamment dans le secteur des assurances."
+  },
+  {
+   "uid": "2c8a5dba260068a7",
+   "titre": "Voiture électrique : sur quels critères la choisir ?",
+   "source": "The Conversation — Environnement",
+   "date": "2026-11-10",
+   "auteurs": "",
+   "url": "https://theconversation.com/voiture-electrique-sur-quels-criteres-la-choisir-294815",
+   "resume": "La voiture électrique est aujourd’hui incontournable pour décarboner les transports. Une étude de l’Ademe passe en revue quelques critères de choix."
+  },
+  {
+   "uid": "2a6fa5089a2f1c8c",
+   "titre": "Remplacer les professeurs absents : en quoi le vocabulaire officiel de la crise masque-t-il les vrais problèmes ?",
+   "source": "The Conversation — Éducation",
+   "date": "2026-11-10",
+   "auteurs": "",
+   "url": "https://theconversation.com/remplacer-les-professeurs-absents-en-quoi-le-vocabulaire-officiel-de-la-crise-masque-t-il-les-vrais-problemes-295466",
+   "resume": "Plutôt que de « profs absents », ne faudrait-il pas plutôt parler de « cours non remplacés ». Selon le choix des mots, on transforme un problème d’organisation en affaire d’individus."
+  },
+  {
+   "uid": "f7d6d78d548fd055",
+   "titre": "Et si c’étaient les parents qui étaient trop connectés ? La technoférence, cet angle mort du débat sur les écrans",
+   "source": "The Conversation — Éducation",
+   "date": "2026-11-10",
+   "auteurs": "",
+   "url": "https://theconversation.com/et-si-cetaient-les-parents-qui-etaient-trop-connectes-la-technoference-cet-angle-mort-du-debat-sur-les-ecrans-293233",
+   "resume": "Les pouvoirs publics multiplient les initiatives pour encadrer les usages numériques des plus jeunes. Mais ne faut-il pas s’intéresser aussi à la place des écrans dans la vie de leurs parents ?"
+  },
+  {
+   "uid": "33bb49826066722e",
+   "titre": "Les attitudes ambivalentes à l'égard des technologies émergentes dans l’environnement professionnel : le cas des neurotechnologies",
+   "source": "HAL",
+   "date": "2026-11-10",
+   "auteurs": "Emmanuel Bazzucchi",
+   "url": "https://hal.science/tel-05858403v1",
+   "resume": "Cette thèse vise à appréhender les attitudes des salariés à l’égard des technologies émergentes dans l’environnement professionnel, à travers le concept d’ambivalence attitudinale et à partir du cas des neurotechnologies. Alors que les modèles d’acceptation des technologies tendent à opposer acceptation et rejet, cette recherche part du constat que les individus peuvent simultanément avoir des attitudes positive et négative à l’égard d’une technologie émergente. Les neurotechnologies sont un cas pertinent, car elles promettent d’améliorer la sécurité, la performance ou le bien-être au travail, tout en suscitant des inquiétudes relatives à la surveillance, à l’autonomie, à la vie privée et à "
+  },
+  {
+   "uid": "0d61c3e394c39924",
+   "titre": "Des ressources pour éclairer les mobilisations lycéennes et étudiantes",
+   "source": "Éduveille",
+   "date": "2026-11-10",
+   "auteurs": "Marie Lauricella",
+   "url": "https://eduveille.hypotheses.org/25018",
+   "resume": "Amorcée par le lycée Paul Éluard en Seine Saint-Denis, la mobilisation des lycéen·nes s’est étendue depuis mi-septembre à l’ensemble du territoire français, rejoint dans la foulée par les étudiant·es et les personnels éducatifs. De manifestations en blocages d’établissements, leurs revendications portent sur la dimension matérielle de leurs conditions d’apprentissage pour les premier·ères et de travail pour le second·es. Ainsi, ils et elles se mobilisent en faveur du recrutement d’enseignant·es supplémentaires, d’une réduction du nombre d’élèves par classe, ou pour une rénovation du bâti scolaire … Continuer la lecture de « Des ressources pour éclairer les mobilisations lycéennes et étudiant"
   }
  ]
 }
