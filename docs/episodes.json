@@ -1,5 +1,32 @@
 [
  {
+  "fichier": "veille-2026-11-11.mp3",
+  "date": "2026-11-11",
+  "pubdate": "Wed, 11 Nov 2026 06:11:54 -1000",
+  "titre": "Veille du 11 novembre",
+  "description": "2 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:57",
+  "taille": 1062000,
+  "items": [
+   {
+    "uid": "673fd914d58295a3",
+    "titre": "11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique",
+    "url": "https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Un article de synthèse sur l'Athènes antique et la guerre, utilisable en sixième dans le chapitre sur le monde grec, et en EMC pour discuter du lien entre démocratie et violence, autour du onze novembre."
+   },
+   {
+    "uid": "0d61c3e394c39924",
+    "titre": "Des ressources pour éclairer les mobilisations lycéennes et étudiantes",
+    "url": "https://eduveille.hypotheses.org/25018",
+    "source": "Éduveille",
+    "score": 58,
+    "raison": "Une sélection de ressources sur les mobilisations lycéennes, mobilisable en EMC pour travailler l'engagement et la citoyenneté, avec des élèves de seconde ou de première."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-10.mp3",
   "date": "2026-11-10",
   "pubdate": "Tue, 10 Nov 2026 06:12:58 -1000",
@@ -510,41 +537,6 @@
     "source": "Les Clionautes",
     "score": 62,
     "raison": "Analyse politique de chercheurs sur les travailleurs roumains en France et leur rapport au vote : un cas concret pour la citoyenneté en EMC et les mobilités en seconde."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-27.mp3",
-  "date": "2026-10-27",
-  "pubdate": "Tue, 27 Oct 2026 06:10:28 -1000",
-  "titre": "Veille du 27 octobre",
-  "description": "3 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:36",
-  "taille": 936000,
-  "items": [
-   {
-    "uid": "39956d693e3a1740",
-    "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
-    "url": "https://hal.science/hal-05735818v1",
-    "source": "HAL",
-    "score": 78,
-    "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
-   },
-   {
-    "uid": "31bea7e8ae012fda",
-    "titre": "Faire périodiser les élèves en classe d'histoire pour construire des savoirs plus critiques",
-    "url": "https://hal.science/hal-05735802v1",
-    "source": "HAL",
-    "score": 72,
-    "raison": "Faire périodiser les élèves eux-mêmes plutôt que leur donner des périodes toutes faites, une démarche applicable à n'importe quel chapitre du programme."
-   },
-   {
-    "uid": "036299d3f35e20c1",
-    "titre": "Périodiser en classe d'histoire : une recherche didactique pour développer les compétences critiques en éducation prioritaire",
-    "url": "https://hal.science/hal-05840597v1",
-    "source": "HAL",
-    "score": 70,
-    "raison": "Une recherche en éducation prioritaire sur la périodisation pour développer l'esprit critique, utile pour assumer de ne pas tout couvrir dans le programme."
    }
   ]
  }
