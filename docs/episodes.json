@@ -1,5 +1,32 @@
 [
  {
+  "fichier": "veille-2026-11-12.mp3",
+  "date": "2026-11-12",
+  "pubdate": "Thu, 12 Nov 2026 06:11:36 -1000",
+  "titre": "Veille du 12 novembre",
+  "description": "2 article(s) retenu(s) pour la classe.",
+  "duree": "00:01:20",
+  "taille": 481248,
+  "items": [
+   {
+    "uid": "f900548c5ce053a2",
+    "titre": "Commémorer le 11 novembre : transformer le devoir de mémoire obligatoire en enquête didactique critique",
+    "url": "https://www.cafepedagogique.net/2026/11/11/commemorer-le-11-novembre-transformer-le-devoir-de-memoire-obligatoire-en-enquete-didactique-critique/",
+    "source": "Café pédagogique",
+    "score": 72,
+    "raison": "Propose de transformer la commémoration obligatoire du onze novembre en enquête critique, avec une distinction entre devoir de mémoire et travail de mémoire, utilisable en première sur la Première Guerre mondiale et en EMC."
+   },
+   {
+    "uid": "691379d58db85b46",
+    "titre": "11 Novembre à l’École : peut-on imposer la mémoire pour fabriquer de la cohésion ?",
+    "url": "https://www.cafepedagogique.net/2026/11/11/11-novembre-a-lecole-peut-on-imposer-la-memoire-pour-fabriquer-de-la-cohesion/",
+    "source": "Café pédagogique",
+    "score": 62,
+    "raison": "Interroge la cérémonie imposée à l'école pour renforcer la cohésion nationale, un point de départ de débat en EMC en seconde ou en première sur mémoire, citoyenneté et vivre ensemble."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-11.mp3",
   "date": "2026-11-11",
   "pubdate": "Wed, 11 Nov 2026 06:11:54 -1000",
@@ -518,25 +545,6 @@
     "source": "Les Clionautes",
     "score": 56,
     "raison": "Consultation nationale ouverte jusqu'au dix-huit décembre sur les ressources d'accompagnement des programmes d'histoire-géographie : l'occasion de dire ce qu'il te faut pour tes classes."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-28.mp3",
-  "date": "2026-10-28",
-  "pubdate": "Wed, 28 Oct 2026 06:17:23 -1000",
-  "titre": "Veille du 28 octobre",
-  "description": "1 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:14",
-  "taille": 806400,
-  "items": [
-   {
-    "uid": "f13b2cb73ca7bc85",
-    "titre": "Travailleurs roumains en France : une citoyenneté européenne mise à l’épreuve",
-    "url": "https://www.clionautes.org/travailleurs-roumains-en-france-une-citoyennete-europeenne-mise-a-lepreuve.html",
-    "source": "Les Clionautes",
-    "score": 62,
-    "raison": "Analyse politique de chercheurs sur les travailleurs roumains en France et leur rapport au vote : un cas concret pour la citoyenneté en EMC et les mobilités en seconde."
    }
   ]
  }
