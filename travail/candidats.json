@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-11T21:59+00:00",
+ "genere": "2026-11-12T21:51+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,49 +8,40 @@
  },
  "items": [
   {
-   "uid": "165565b6ce2db557",
-   "titre": "Humanités et formation professionnelle : évolution historique et enjeux actuels pour l’enseignement du français",
+   "uid": "27a3ab1a20a29d84",
+   "titre": "Usages de l’IA et des TICE en éducation : une analyse comparative au prisme du SEP",
    "source": "HAL",
-   "date": "2026-11-11",
-   "auteurs": "Cécile Couteaux",
-   "url": "https://hal.science/hal-05860290v1",
-   "resume": ""
+   "date": "2026-11-12",
+   "auteurs": "Caroline Menanteau, Nadine Jessel, Fatiha Tali Otmani",
+   "url": "https://hal.science/hal-05862225v1",
+   "resume": "Mobilisant le modèle d’acceptation des technologies (TAM 3) et la théorie sociocognitive de Bandura, cette recherche interroge l’influence du SEP sur l’appropriation des outils numériques, notamment l’IA. La méthodologie relève d’une analyse quantitative et qualitative des témoignages recueillis. Les résultats montrent une corrélation positive entre l’acceptation des TICE et celle de l’IA, avec le SEP comme facteur central : un SEP élevé favorise l’intention d’adoption et diversifie les usages, allant de la préparation de cours à la différenciation pédagogique ou l’automatisation de tâches. Des différences apparaissent selon le niveau d’enseignement et la discipline, tandis que genre et anci"
   },
   {
-   "uid": "1f6d5beccfcdc068",
-   "titre": "130 ans d’enseignement du français à Grenoble - L'internationalisation d'une université",
+   "uid": "7f17486ac7efb915",
+   "titre": "Auto-efficacité numérique et appropriation des IA génératives par les enseignants-chercheurs : configurations d'usage et orientations pour l'accompagnement",
    "source": "HAL",
-   "date": "2026-11-11",
-   "auteurs": "René Favier, Laura Abou Haidar",
-   "url": "https://hal.science/hal-05860248v1",
-   "resume": ""
+   "date": "2026-11-12",
+   "auteurs": "Fatiha Tali Otmani",
+   "url": "https://hal.science/hal-05862217v1",
+   "resume": "Cette recherche examine le rôle de l’auto-efficacité numérique dans l’appropriation des IAG par les enseignants-chercheurs, à partir de la théorie sociocognitive de Bandura (2019) et du concept de cadre d’usage de Flichy (2008). Une enquête menée auprès de 265 enseignants-chercheurs a permis de valider une échelle d'auto-efficacité numérique à trois dimensions et d'identifier trois profils d'usage (« Investis », « Réfractaires pragmatiques », « Réservés réflexifs »). Les résultats font ressortir des associations significatives entre auto-efficacité numérique et appropriation des IAG, ces associations variant selon les motifs de non-usage : obstacles pratiques indépendants de la compétence pe"
   },
   {
-   "uid": "7b6f9c775f8787f3",
-   "titre": "Le numérique à l’école : enjeux et impacts sur les apprentissages",
+   "uid": "a468bd7d6fa9d4a7",
+   "titre": "Influence des représentations sociales de l’intelligence artificielle (IA) sur les enjeux pédagogiques et la médiation documentaire en contexte éducatif. Le cas des professeurs documentalistes",
    "source": "HAL",
-   "date": "2026-11-11",
-   "auteurs": "Youssef Tazouti",
-   "url": "https://hal.univ-lorraine.fr/hal-05860386v1",
-   "resume": "Le numérique à l’école suscite à la fois fascination et inquiétude chez les parents, les enseignants et les décideurs. Face aux opportunités qu’il offre et aux risques qu’il engendre, les réponses les plus pertinentes demeurent l’éducation – pour former des citoyens éclairés et critiques – ainsi que la recherche, afin de mieux comprendre les enjeux et orienter les politiques publiques. Cet article poursuit deux objectifs : d’une part, apporter un éclairage scientifique sur les effets du numérique sur les apprentissages des élèves à l’école primaire ; d’autre part, interroger le rôle croissant de l’intelligence artificielle dans les processus d’enseignement et d’apprentissage, et de mettre en"
+   "date": "2026-11-12",
+   "auteurs": "Cécile Dupin de Saint Cyr-Heckel, Adeline Ségui Entraygues",
+   "url": "https://hal.science/hal-05861931v1",
+   "resume": "Cette étude interroge les représentations sociales de l’intelligence artificielle (IA) des professeurs documentalistes en contexte scolaire français et leurs effets sur les pratiques de médiation documentaire numérique. L’IA, envisagée comme dispositif socio-numérique de médiation des savoirs, transforme les modes de production, de circulation et d’appropriation de l’information. Dans un contexte marqué par des discours institutionnels parfois contradictoires sur le numérique éducatif, les professeurs documentalistes occupent une place essentielle dans l’éducation à l’information, à l’esprit critique et dans l’éducation au numérique et à l’IA. À partir d’un questionnaire diffusé auprès de pr"
   },
   {
-   "uid": "691379d58db85b46",
-   "titre": "11 Novembre à l’École : peut-on imposer la mémoire pour fabriquer de la cohésion ?",
-   "source": "Café pédagogique",
-   "date": "2026-11-11",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/11/11-novembre-a-lecole-peut-on-imposer-la-memoire-pour-fabriquer-de-la-cohesion/",
-   "resume": "Imposée à tous les établissements pour renforcer la cohésion nationale, la cérémonie du 11 novembre peut-elle répondre à une société traversée par la haine raciale, quelques jours après l’attentat raciste\n L’article 11 Novembre à l’École : peut-on imposer la mémoire pour fabriquer de la cohésion ? est apparu en premier sur Le Café pédagogique ."
-  },
-  {
-   "uid": "f900548c5ce053a2",
-   "titre": "Commémorer le 11 novembre : transformer le devoir de mémoire obligatoire en enquête didactique critique",
-   "source": "Café pédagogique",
-   "date": "2026-11-11",
-   "auteurs": "Café pédagogique",
-   "url": "https://www.cafepedagogique.net/2026/11/11/commemorer-le-11-novembre-transformer-le-devoir-de-memoire-obligatoire-en-enquete-didactique-critique/",
-   "resume": "« Devoir de mémoire » ou « travail de mémoire » ? Avec l’obligation de commémorer le 11 novembre dans toutes les écoles, la question se pose cette année à\n L’article Commémorer le 11 novembre : transformer le devoir de mémoire obligatoire en enquête didactique critique est apparu en premier sur Le Café pédagogique ."
+   "uid": "262a5172bf4cd09e",
+   "titre": "Organisation des filières de soins non programmés et des services d’urgences, de la ville à l’hôpital à travers l’épidémiologie, l’innovation et la pédagogie : pour une optimisation des soins et une meilleure expérience patient.",
+   "source": "HAL",
+   "date": "2026-11-12",
+   "auteurs": "Laure Abensur Vuillaume",
+   "url": "https://hal.science/tel-05861165v1",
+   "resume": "Ce mémoire d’habilitation à diriger des recherches porte sur le parcours du patient nécessitant un soin urgent ou non programmé de la médecine de ville aux services d’urgence. Il part d’un constat : la qualité et la sécurité des soins dépend à la fois de l’orientation des patients, de la capacité à anticiper les flux et des compétences des professionnels qui prennent ces décisions. Mes travaux analysent les parcours des patients, les déterminants des admissions aux urgences et les interactions entre les acteurs de ville et de l’hôpital. Ils mobilisent l’épidémiologie, la modélisation et les nouvelles technologies dont l’intelligence artificielle pour mieux comprendre les situations de suract"
   }
  ]
 }
