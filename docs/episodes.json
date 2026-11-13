@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-11-13.mp3",
+  "date": "2026-11-13",
+  "pubdate": "Fri, 13 Nov 2026 06:31:33 -1000",
+  "titre": "Veille du 13 novembre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:02:00",
+  "taille": 960261,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   },
+   {
+    "uid": "ab060a5a2ba3c1f6",
+    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
+    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
+   },
+   {
+    "uid": "4c2076a64a581aa2",
+    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
+    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
+    "source": "Les Clionautes",
+    "score": 82,
+    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
+   },
+   {
+    "uid": "673fd914d58295a3",
+    "titre": "11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique",
+    "url": "https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Un article de synthèse sur l'Athènes antique et la guerre, utilisable en sixième dans le chapitre sur le monde grec, et en EMC pour discuter du lien entre démocratie et violence, autour du onze novembre."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-12.mp3",
   "date": "2026-11-12",
   "pubdate": "Thu, 12 Nov 2026 06:11:36 -1000",
@@ -518,33 +561,6 @@
     "source": "OpenAlex",
     "score": 55,
     "raison": "Des mesures chimiques de l'eau du récif de l'atoll de Tetiaroa : une donnée brute, très technique, mais qui ancre un exemple polynésien pour le littoral et les milieux récifaux."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-29.mp3",
-  "date": "2026-10-29",
-  "pubdate": "Thu, 29 Oct 2026 06:10:20 -1000",
-  "titre": "Veille du 29 octobre",
-  "description": "2 article(s) retenu(s) pour la classe.",
-  "duree": "00:01:35",
-  "taille": 572112,
-  "items": [
-   {
-    "uid": "e7eff6e476fbbb0c",
-    "titre": "Conférence à l'Académie des sciences d'outre-mer « Les aspects politiques »",
-    "url": "https://hal.science/hal-05842508v1",
-    "source": "HAL",
-    "score": 58,
-    "raison": "Conférence sur le poids de l'histoire coloniale et de l'esclavage dans les outre-mer : un point d'appui pour la colonisation en première et la citoyenneté en EMC."
-   },
-   {
-    "uid": "3346ac6c567d115c",
-    "titre": "Ressources d’accompagnement en histoire-géographie : le ministère consulte les professeurs",
-    "url": "https://www.clionautes.org/consultation-ressources-histoire-geographie.html",
-    "source": "Les Clionautes",
-    "score": 56,
-    "raison": "Consultation nationale ouverte jusqu'au dix-huit décembre sur les ressources d'accompagnement des programmes d'histoire-géographie : l'occasion de dire ce qu'il te faut pour tes classes."
    }
   ]
  }
