@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-12T21:51+00:00",
+ "genere": "2026-11-13T21:26+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,40 +8,13 @@
  },
  "items": [
   {
-   "uid": "27a3ab1a20a29d84",
-   "titre": "Usages de l’IA et des TICE en éducation : une analyse comparative au prisme du SEP",
+   "uid": "715462ff7689c165",
+   "titre": "Enseigner en Martinique, apprendre de ses élèves : l’expérience d’un professeur d’éducation socioculturelle",
    "source": "HAL",
-   "date": "2026-11-12",
-   "auteurs": "Caroline Menanteau, Nadine Jessel, Fatiha Tali Otmani",
-   "url": "https://hal.science/hal-05862225v1",
-   "resume": "Mobilisant le modèle d’acceptation des technologies (TAM 3) et la théorie sociocognitive de Bandura, cette recherche interroge l’influence du SEP sur l’appropriation des outils numériques, notamment l’IA. La méthodologie relève d’une analyse quantitative et qualitative des témoignages recueillis. Les résultats montrent une corrélation positive entre l’acceptation des TICE et celle de l’IA, avec le SEP comme facteur central : un SEP élevé favorise l’intention d’adoption et diversifie les usages, allant de la préparation de cours à la différenciation pédagogique ou l’automatisation de tâches. Des différences apparaissent selon le niveau d’enseignement et la discipline, tandis que genre et anci"
-  },
-  {
-   "uid": "7f17486ac7efb915",
-   "titre": "Auto-efficacité numérique et appropriation des IA génératives par les enseignants-chercheurs : configurations d'usage et orientations pour l'accompagnement",
-   "source": "HAL",
-   "date": "2026-11-12",
-   "auteurs": "Fatiha Tali Otmani",
-   "url": "https://hal.science/hal-05862217v1",
-   "resume": "Cette recherche examine le rôle de l’auto-efficacité numérique dans l’appropriation des IAG par les enseignants-chercheurs, à partir de la théorie sociocognitive de Bandura (2019) et du concept de cadre d’usage de Flichy (2008). Une enquête menée auprès de 265 enseignants-chercheurs a permis de valider une échelle d'auto-efficacité numérique à trois dimensions et d'identifier trois profils d'usage (« Investis », « Réfractaires pragmatiques », « Réservés réflexifs »). Les résultats font ressortir des associations significatives entre auto-efficacité numérique et appropriation des IAG, ces associations variant selon les motifs de non-usage : obstacles pratiques indépendants de la compétence pe"
-  },
-  {
-   "uid": "a468bd7d6fa9d4a7",
-   "titre": "Influence des représentations sociales de l’intelligence artificielle (IA) sur les enjeux pédagogiques et la médiation documentaire en contexte éducatif. Le cas des professeurs documentalistes",
-   "source": "HAL",
-   "date": "2026-11-12",
-   "auteurs": "Cécile Dupin de Saint Cyr-Heckel, Adeline Ségui Entraygues",
-   "url": "https://hal.science/hal-05861931v1",
-   "resume": "Cette étude interroge les représentations sociales de l’intelligence artificielle (IA) des professeurs documentalistes en contexte scolaire français et leurs effets sur les pratiques de médiation documentaire numérique. L’IA, envisagée comme dispositif socio-numérique de médiation des savoirs, transforme les modes de production, de circulation et d’appropriation de l’information. Dans un contexte marqué par des discours institutionnels parfois contradictoires sur le numérique éducatif, les professeurs documentalistes occupent une place essentielle dans l’éducation à l’information, à l’esprit critique et dans l’éducation au numérique et à l’IA. À partir d’un questionnaire diffusé auprès de pr"
-  },
-  {
-   "uid": "262a5172bf4cd09e",
-   "titre": "Organisation des filières de soins non programmés et des services d’urgences, de la ville à l’hôpital à travers l’épidémiologie, l’innovation et la pédagogie : pour une optimisation des soins et une meilleure expérience patient.",
-   "source": "HAL",
-   "date": "2026-11-12",
-   "auteurs": "Laure Abensur Vuillaume",
-   "url": "https://hal.science/tel-05861165v1",
-   "resume": "Ce mémoire d’habilitation à diriger des recherches porte sur le parcours du patient nécessitant un soin urgent ou non programmé de la médecine de ville aux services d’urgence. Il part d’un constat : la qualité et la sécurité des soins dépend à la fois de l’orientation des patients, de la capacité à anticiper les flux et des compétences des professionnels qui prennent ces décisions. Mes travaux analysent les parcours des patients, les déterminants des admissions aux urgences et les interactions entre les acteurs de ville et de l’hôpital. Ils mobilisent l’épidémiologie, la modélisation et les nouvelles technologies dont l’intelligence artificielle pour mieux comprendre les situations de suract"
+   "date": "2026-11-13",
+   "auteurs": "Raphael Mangavel, Joachim Benet Rivière, Stéphanie Kellner",
+   "url": "https://hal.science/hal-05863892v1",
+   "resume": "Après plus de trente-cinq années passées dans l'enseignement, dont une grande partie comme professeur d'éducation socioculturelle (ESC), cet ancien enseignant d'histoire-géographie a exercé dans plusieurs établissements agricoles en métropole et dans les territoires insulaires. Son parcours l'a notamment conduit à Mayotte, à La Réunion, en Polynésie française et, plus récemment, en Martinique, où il a enseigné pendant trois ans. Dans cet entretien, il revient sur son expérience martiniquaise et sur la manière dont la rencontre avec les cultures créoles, les pratiques des élèves et les réalités sociales et environnementales du territoire a renouvelé son rapport au métier. Des traditions du bè"
   }
  ]
 }
