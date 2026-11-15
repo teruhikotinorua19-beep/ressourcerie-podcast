@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-11-15.mp3",
+  "date": "2026-11-15",
+  "pubdate": "Sun, 15 Nov 2026 06:09:36 -1000",
+  "titre": "Veille du 15 novembre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:01:28",
+  "taille": 528480,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   },
+   {
+    "uid": "ab060a5a2ba3c1f6",
+    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
+    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
+   },
+   {
+    "uid": "4c2076a64a581aa2",
+    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
+    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
+    "source": "Les Clionautes",
+    "score": 82,
+    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
+   },
+   {
+    "uid": "673fd914d58295a3",
+    "titre": "11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique",
+    "url": "https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Un article de synthèse sur l'Athènes antique et la guerre, utilisable en sixième dans le chapitre sur le monde grec, et en EMC pour discuter du lien entre démocratie et violence."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-14.mp3",
   "date": "2026-11-14",
   "pubdate": "Sat, 14 Nov 2026 06:10:20 -1000",
@@ -534,41 +577,6 @@
     "source": "OpenAlex",
     "score": 55,
     "raison": "Une étude sur le développement de la pensée historique au lycée : une piste didactique pour construire des séquences qui apprennent à analyser et critiquer les sources."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-10-31.mp3",
-  "date": "2026-10-31",
-  "pubdate": "Sat, 31 Oct 2026 06:10:29 -1000",
-  "titre": "Veille du 31 octobre",
-  "description": "3 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:37",
-  "taille": 944784,
-  "items": [
-   {
-    "uid": "9a975ef97a06b3b4",
-    "titre": "Inventer les paysages du futur, maintenant !",
-    "url": "https://www.clionautes.org/inventer-les-paysages-du-futur-maintenant.html",
-    "source": "Les Clionautes",
-    "score": 68,
-    "raison": "Un livre présenté par les Clionautes qui croise géographie du paysage et risques climatiques avec la géographe Magali Reghezza-Zitt : utile en seconde pour le chapitre sur les sociétés et les risques, et pour penser le littoral et l'adaptation en sixième."
-   },
-   {
-    "uid": "77b4d87fbda549af",
-    "titre": "De Rome à nos jours, les guerres de la bière ont créé et défait les empires",
-    "url": "https://theconversation.com/de-rome-a-nos-jours-les-guerres-de-la-biere-ont-cree-et-defait-les-empires-277761",
-    "source": "The Conversation — Histoire",
-    "score": 58,
-    "raison": "Un article de synthèse qui suit la bière de Rome à l'Empire britannique : une entrée originale pour parler des échanges et du pouvoir dans l'Antiquité romaine ou le Moyen Âge, en sixième comme en seconde."
-   },
-   {
-    "uid": "e5cb539b9e97d0b3",
-    "titre": "TEACHING GEOGRAPHY FROM PLACE: THE GEOMORPHOLOGY OF THE MUNICIPALITY OF CARIRÉ-CE AS A LEARNING TOOL",
-    "url": "https://doi.org/10.56346/2764-6203.v9n9.2026.798",
-    "source": "OpenAlex",
-    "score": 55,
-    "raison": "Une séquence de géographie menée avec des élèves de l'équivalent de la cinquième, qui part du relief local pour enseigner : une piste pour ancrer un cours sur le territoire proche, par exemple un relief ou un littoral de Polynésie."
    }
   ]
  }
