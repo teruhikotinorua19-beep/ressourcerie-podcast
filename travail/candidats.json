@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-15T20:25+00:00",
+ "genere": "2026-11-16T23:45+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,31 +8,13 @@
  },
  "items": [
   {
-   "uid": "9c359b47d5be1db4",
-   "titre": "La construction des métiers de l’enseignement supérieur et de la recherche à l’époque contemporaine : quelles recherches en sciences de l'éducation et de la formation ?",
-   "source": "HAL",
-   "date": "2026-11-15",
-   "auteurs": "Olivier Marty, Juliette Fontaine",
-   "url": "https://shs.hal.science/halshs-05865364v1",
-   "resume": "Notre communication tend à démontrer que les recherches en sciences de l’éducation et de la formation concernant l’évolution historique du métier d’enseignant-chercheur (EC) sont peu représentées au regard des recherches effectuées par d’autres disciplines. Nous montrerons, dans une première partie, que la majorité des recherches portant sur l’évolution historique du métier d’EC est réalisée par des historiens et s’attache à rendre compte des caractéristiques institutionnelles d’un métier en construction depuis le 19ème siècle. Nous verrons ensuite, dans une deuxième partie, que des sociologues portant un regard socio-historique sur l’enseignement supérieur témoignent pour leur part de la ma"
-  },
-  {
-   "uid": "0929d11d86f428f9",
-   "titre": "L'IA générative comme médiation sociale différée",
-   "source": "HAL",
-   "date": "2026-11-15",
-   "auteurs": "Corinne Lin",
-   "url": "https://hal.science/hal-05864745v1",
-   "resume": "L'intelligence artificielle générative entre dans le travail des enseignants de mathématiques, en particulier dans la préparation de leurs cours. Que change-t-elle dans leur rapport au collectif professionnel ? Nous proposons de lire cette question par la double approche adaptée aux technologies pour le développement professionnel (DAaT-DP). Nous nous appuyons sur le cas d'un enseignant de collège, Bruno, dont nous croisons la fiche de présentation, une séance observée avec GeoGebra et un entretien. Nous en tirons une hypothèse, celle d'une médiation sociale différée. L'IA tiendrait lieu, pour l'enseignant, d'un accès au collectif, sans la confrontation, la validation entre pairs et la recon"
-  },
-  {
-   "uid": "ded739f83173a775",
-   "titre": "Les idées des autres, sans les autres",
-   "source": "HAL",
-   "date": "2026-11-14",
-   "auteurs": "Corinne Lin",
-   "url": "https://hal.science/hal-05864734v1",
-   "resume": "Depuis la fin de l'année 2022, chacun peut dialoguer avec une intelligence artificielle générative. Après quatre décennies de politiques en faveur du numérique éducatif, comment se donne à lire l'identité professionnelle d'un professeur de mathématiques, stabilisée avec les technologies numériques qu'il maîtrise déjà ? Et que devient-elle au moment charnière où l'IA générative s'y ajoute ? Pour approcher cette question, nous suivons Bruno, enseignant de collège. En sixième, il fait découvrir le périmètre du cercle avec GeoGebra. Il lui arrive aussi de préparer ses cours avec ChatGPT. Ce qu'il fait avec GeoGebra, nous l'observons en classe. Ce qu'il fait avec l'IA, nous le connaissons par ce "
+   "uid": "c3ee36550e49c4bd",
+   "titre": "Qui est légitime à dire l’éducation ? L’expertise en débat",
+   "source": "Éduveille",
+   "date": "2026-11-16",
+   "auteurs": "Régis Guyon",
+   "url": "https://eduveille.hypotheses.org/25046",
+   "resume": "Michèle Prieur (IFÉ-ENS de Lyon, S2HEP) et Régis Guyon (IFÉ-ENS de Lyon, rédacteur en chef de la revue Diversité) reviennent sur un colloque consacré à l’histoire de l’expertise en éducation, tenu à Nancy du 26 au 28 octobre 2026, et où ils ont eux-mêmes présenté une communication."
   }
  ]
 }
