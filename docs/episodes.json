@@ -1,5 +1,48 @@
 [
  {
+  "fichier": "veille-2026-11-17.mp3",
+  "date": "2026-11-17",
+  "pubdate": "Tue, 17 Nov 2026 06:11:32 -1000",
+  "titre": "Veille du 17 novembre — rappel",
+  "description": "Rappel : 4 article(s) déjà présentés.",
+  "duree": "00:01:41",
+  "taille": 604512,
+  "items": [
+   {
+    "uid": "e044a205cb9e6dc0",
+    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
+    "url": "https://hal.science/hal-05835798v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
+   },
+   {
+    "uid": "ab060a5a2ba3c1f6",
+    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
+    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
+   },
+   {
+    "uid": "673fd914d58295a3",
+    "titre": "11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique",
+    "url": "https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198",
+    "source": "The Conversation — Histoire",
+    "score": 82,
+    "raison": "Un article de synthèse sur l'Athènes antique et la guerre, utilisable en sixième dans le chapitre sur le monde grec, et en EMC pour discuter du lien entre démocratie et violence."
+   },
+   {
+    "uid": "39956d693e3a1740",
+    "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
+    "url": "https://hal.science/hal-05735818v1",
+    "source": "HAL",
+    "score": 78,
+    "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-16.mp3",
   "date": "2026-11-16",
   "pubdate": "Mon, 16 Nov 2026 06:13:07 -1000",
@@ -534,49 +577,6 @@
     "source": "The Conversation — Histoire",
     "score": 56,
     "raison": "Un siècle et demi d'innovations navales, du steamer au trimaran, qui peut illustrer l'industrialisation en première et le Pacifique par la voile."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-02.mp3",
-  "date": "2026-11-02",
-  "pubdate": "Mon, 02 Nov 2026 06:13:03 -1000",
-  "titre": "Veille du 2 novembre — rappel",
-  "description": "Rappel : 4 article(s) déjà présentés.",
-  "duree": "00:01:28",
-  "taille": 528768,
-  "items": [
-   {
-    "uid": "e044a205cb9e6dc0",
-    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
-    "url": "https://hal.science/hal-05835798v1",
-    "source": "HAL",
-    "score": 88,
-    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
-   },
-   {
-    "uid": "82079082ffe91e10",
-    "titre": "Coutume judiciaire et pratiques autochtones en pays Mā’ohi : l’exemple des lagons",
-    "url": "https://hal.science/hal-05820763v1",
-    "source": "HAL",
-    "score": 82,
-    "raison": "Les normes anciennes sur l'usage des lagons en Polynésie croisent le droit d'aujourd'hui : un cas local pour le littoral en sixième et pour le droit en EMC."
-   },
-   {
-    "uid": "4c2076a64a581aa2",
-    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
-    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
-    "source": "Les Clionautes",
-    "score": 82,
-    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
-   },
-   {
-    "uid": "39956d693e3a1740",
-    "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
-    "url": "https://hal.science/hal-05735818v1",
-    "source": "HAL",
-    "score": 78,
-    "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
    }
   ]
  }
