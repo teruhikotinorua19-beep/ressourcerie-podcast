@@ -1,5 +1,40 @@
 [
  {
+  "fichier": "veille-2026-11-18.mp3",
+  "date": "2026-11-18",
+  "pubdate": "Wed, 18 Nov 2026 06:11:39 -1000",
+  "titre": "Veille du 18 novembre",
+  "description": "3 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:34",
+  "taille": 925920,
+  "items": [
+   {
+    "uid": "992f67c15f7c255f",
+    "titre": "Comprendre la \"fabrique\" des indicateurs composites. Perspectives didactiques dans le secondaire français",
+    "url": "https://hal.science/hal-05868357v1",
+    "source": "HAL",
+    "score": 72,
+    "raison": "Didactique de la géographie : comment faire comprendre en seconde et en première la fabrique des indicateurs cartographiés comme l'IDH, utile pour lire et critiquer cartes et données."
+   },
+   {
+    "uid": "24671e33bea1792c",
+    "titre": "Pourquoi l’électrification est l’un des sujets phares de la COP31",
+    "url": "https://theconversation.com/pourquoi-lelectrification-est-lun-des-sujets-phares-de-la-cop31-296710",
+    "source": "The Conversation — Environnement",
+    "score": 58,
+    "raison": "Entrée actuelle sur l'énergie, les ressources et la dépendance aux hydrocarbures, mobilisable en seconde dans le thème sociétés et environnements ou en débat d'EMC."
+   },
+   {
+    "uid": "4f2f8f912ccaa995",
+    "titre": "Au cœur des moulins glaciaires du Groenland, la marque d’une pollution venue de loin",
+    "url": "https://theconversation.com/au-coeur-des-moulins-glaciaires-du-groenland-la-marque-dune-pollution-venue-de-loin-292257",
+    "source": "The Conversation — Environnement",
+    "score": 55,
+    "raison": "Exemple concret de ce que les glaces archivent de la pollution atmosphérique, illustration possible en seconde sur les environnements et les traces de l'activité humaine."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-17.mp3",
   "date": "2026-11-17",
   "pubdate": "Tue, 17 Nov 2026 06:11:32 -1000",
@@ -542,41 +577,6 @@
     "source": "OpenAlex",
     "score": 56,
     "raison": "Données d'une expérience de terrain sur les coraux de Moorea, pour illustrer le littoral et l'insularité en Polynésie, mais très technique."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-03.mp3",
-  "date": "2026-11-03",
-  "pubdate": "Tue, 03 Nov 2026 06:12:00 -1000",
-  "titre": "Veille du 3 novembre",
-  "description": "3 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:25",
-  "taille": 867744,
-  "items": [
-   {
-    "uid": "ab060a5a2ba3c1f6",
-    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
-    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
-    "source": "The Conversation — Histoire",
-    "score": 82,
-    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
-   },
-   {
-    "uid": "e190ade59a893f11",
-    "titre": "30 ans de droit à l’École : laïcité, réformes, droits des élèves",
-    "url": "https://www.cafepedagogique.net/2026/11/03/30-ans-de-droit-a-lecole-laicite-reformes-droits-des-eleves/",
-    "source": "Café pédagogique",
-    "score": 66,
-    "raison": "Un bilan de trente ans de droit à l'École, laïcité et droits des élèves compris, utile pour construire une séquence d'EMC sur les libertés et le droit."
-   },
-   {
-    "uid": "98d0dc1f3d4d20ba",
-    "titre": "Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales",
-    "url": "https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361",
-    "source": "The Conversation — Histoire",
-    "score": 56,
-    "raison": "Un siècle et demi d'innovations navales, du steamer au trimaran, qui peut illustrer l'industrialisation en première et le Pacifique par la voile."
    }
   ]
  }
