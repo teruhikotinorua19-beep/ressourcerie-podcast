@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-17T22:55+00:00",
+ "genere": "2026-11-18T22:37+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,58 +8,22 @@
  },
  "items": [
   {
-   "uid": "24671e33bea1792c",
-   "titre": "Pourquoi l’électrification est l’un des sujets phares de la COP31",
-   "source": "The Conversation — Environnement",
-   "date": "2026-11-17",
-   "auteurs": "",
-   "url": "https://theconversation.com/pourquoi-lelectrification-est-lun-des-sujets-phares-de-la-cop31-296710",
-   "resume": "La dépendance internationale aux hydrocarbures coûte cher aux États et aux ménages, en raison des conflits en cours au Moyen-Orient, qui ont fait exploser le cours des hydrocarbures."
-  },
-  {
-   "uid": "4f2f8f912ccaa995",
-   "titre": "Au cœur des moulins glaciaires du Groenland, la marque d’une pollution venue de loin",
-   "source": "The Conversation — Environnement",
-   "date": "2026-11-17",
-   "auteurs": "",
-   "url": "https://theconversation.com/au-coeur-des-moulins-glaciaires-du-groenland-la-marque-dune-pollution-venue-de-loin-292257",
-   "resume": "Une expédition menée au Groenland a pu accéder à des « archives » de la pollution atmosphérique, grâce à l’exploration des puits creusés par l’écoulement des eaux de fonte glaciaires."
-  },
-  {
-   "uid": "992f67c15f7c255f",
-   "titre": "Comprendre la \"fabrique\" des indicateurs composites. Perspectives didactiques dans le secondaire français",
+   "uid": "67720f7f3b60623b",
+   "titre": "Un organisme transnational pour une bombe française : le Centre d’expérimentation du Pacifique et ses fournisseurs étrangers au temps des essais nucléaires atmosphériques (1962-1974)",
    "source": "HAL",
-   "date": "2026-11-17",
-   "auteurs": "Cyrille Chopin",
-   "url": "https://hal.science/hal-05868357v1",
-   "resume": "Depuis le début des années 2000, la « géomatique est (r)entrée en classe » (Genevois, 2008). En dépit de l’enjeu que représente la compréhension de la « géonumérisation du Monde » (Joliveau, 2007) en matière civique (Genevois, 2013 ; Gryl & Jekel, 2012), l’étude des modalités de collecte, d’élaboration et de diffusion des données géospatiales demeurent largement ignorées tant par les prescriptions curriculaires que par les pratiques enseignantes (Genevois, 2020). Les préconisations de mise en œuvre des programmes stipulent certes qu’« il est […] nécessaire de mener une réflexion sur les indicateurs cartographiés » (MENESR, 2016). Elle porte toutefois davantage sur leur pertinence que sur la "
+   "date": "2026-11-18",
+   "auteurs": "Manatea Taiarui",
+   "url": "https://hal.science/hal-05871572v1",
+   "resume": "Entre 1966 et 1996, la France réalise 193 essais nucléaires, dont 46 atmosphériques, en Polynésie française dans le cadre de la constitution de sa force de dissuasion nucléaire. Les archives révèlent que les responsables du Centre d’expérimentation du Pacifique (CEP) ne maîtrisent pas le savoir-faire nécessaire pour installer des sites d’essais en milieu insulaire et que le gouvernement français n’est pas en mesure de fournir dans des délais suffisants le matériel et les technologies pour procéder aux premiers tirs. Cet article, mêlant histoire des sciences, du militaire et de la diplomatie, examine la place des entreprises privées et gouvernements américains et britanniques en tant que four"
   },
   {
-   "uid": "e03277df7aee359b",
-   "titre": "La construction du cadre référentiel comme opération épistémologique située",
-   "source": "HAL",
-   "date": "2026-11-17",
-   "auteurs": "Javier Nunez-Moscoso",
-   "url": "https://hal.science/hal-05869617v1",
-   "resume": "Traduction française Article publié originalement en espagnol : Nunez, J. (2026). La construcción del marco referencial como operación epistemológica situada. Cinta de Moebio, 85, art. 16, 1-16. https://doi.org/10.4067/S0717-554X2026000100216 Revue : Cinta de Moebio, Universidad de Chile. Langue originale de publication : espagnol. Cette version est une traduction fidèle réalisée par intelligence artificielle et corrigée humainement par son auteur. La pagination de l'original est indiquée entre crochets [p. n]. Les références et les numéros de page des citations sont ceux de la version publiée ; pour toute citation de cet article, se référer à la version originale en espagnol."
-  },
-  {
-   "uid": "d941307bd34c3795",
-   "titre": "Personnalisation au contexte métier via l’IA générative : un levier d’engagement et de persévérance en formation à distance ?",
-   "source": "HAL",
-   "date": "2026-11-17",
-   "auteurs": "Camille Morange",
-   "url": "https://ube.hal.science/hal-05868253v1",
-   "resume": ""
-  },
-  {
-   "uid": "4b32e9817ce0d039",
-   "titre": "A proposal for a student-centred framework for critical thinking with Generative AI in mathematics education",
-   "source": "OpenAlex",
-   "date": "2026-11-17",
-   "auteurs": "Cheten Zangmo, Meena Jha, Paul Kwan, Michael Cowling",
-   "url": "https://doi.org/10.65106/apubs.2026.3265",
-   "resume": "Generative artificial intelligence (GenAI) is reshaping mathematics education by providing students with immediate access to explanations, worked examples, and problem-solving support. While these capabilities offering opportunities to enrich learning, they also raise concerns about how students develop critical thinking when AI-generated solutions are readily available. The use of GenAI is increasing in Bhutanese schools but little is known about how teachers and students currently use these technologies in mathematics classrooms or what pedagogical challenges limit their effective integration. This conceptual paper proposes a mixed-methods study to identify the opportunities, challenges, a"
+   "uid": "326cf45f86c9c0e1",
+   "titre": "Comprendre l’IA en classe : et si les élèves menaient l’enquête ?",
+   "source": "Ludomag",
+   "date": "2026-11-18",
+   "auteurs": "redaction",
+   "url": "https://www.ludomag.com/2026/11/18/comprendre-lia-en-classe-et-si-les-eleves-menaient-lenquete/?utm_source=rss&utm_medium=rss&utm_campaign=comprendre-lia-en-classe-et-si-les-eleves-menaient-lenquete",
+   "resume": "Avec NO AI ACT, un serious game gratuit, les élèves explorent les conséquences des décisions prises avec des systèmes d’intelligence artificielle. Une ressource à envisager du lycée à la formation professionnelle, à partir de séances de 30, 60 ou 90 minutes. Une plateforme pédagogique analyse les données des élèves et oriente leurs parcours. Elle promet […]\nL’article Comprendre l’IA en classe : et si les élèves menaient l’enquête ? est apparu en premier sur Ludomag ."
   }
  ]
 }
