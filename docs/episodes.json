@@ -1,5 +1,32 @@
 [
  {
+  "fichier": "veille-2026-11-19.mp3",
+  "date": "2026-11-19",
+  "pubdate": "Thu, 19 Nov 2026 06:11:38 -1000",
+  "titre": "Veille du 19 novembre",
+  "description": "2 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:21",
+  "taille": 1125564,
+  "items": [
+   {
+    "uid": "67720f7f3b60623b",
+    "titre": "Un organisme transnational pour une bombe française : le Centre d’expérimentation du Pacifique et ses fournisseurs étrangers au temps des essais nucléaires atmosphériques (1962-1974)",
+    "url": "https://hal.science/hal-05871572v1",
+    "source": "HAL",
+    "score": 88,
+    "raison": "Étude d'archives sur le Centre d'expérimentation du Pacifique et ses fournisseurs américains et britanniques, utile en première pour la puissance et la diplomatie, et pour contextualiser les essais nucléaires en Polynésie avec les élèves."
+   },
+   {
+    "uid": "326cf45f86c9c0e1",
+    "titre": "Comprendre l’IA en classe : et si les élèves menaient l’enquête ?",
+    "url": "https://www.ludomag.com/2026/11/18/comprendre-lia-en-classe-et-si-les-eleves-menaient-lenquete/?utm_source=rss&utm_medium=rss&utm_campaign=comprendre-lia-en-classe-et-si-les-eleves-menaient-lenquete",
+    "source": "Ludomag",
+    "score": 62,
+    "raison": "Serious game gratuit en séances de trente à quatre-vingt-dix minutes pour faire réfléchir des lycéens aux décisions prises avec l'IA, mobilisable en EMC et pour un usage pédagogique du numérique."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-18.mp3",
   "date": "2026-11-18",
   "pubdate": "Wed, 18 Nov 2026 06:11:39 -1000",
@@ -518,65 +545,6 @@
     "source": "Les Clionautes",
     "score": 82,
     "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-04.mp3",
-  "date": "2026-11-04",
-  "pubdate": "Wed, 04 Nov 2026 06:24:27 -1000",
-  "titre": "Veille du 4 novembre",
-  "description": "6 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:40",
-  "taille": 1283970,
-  "items": [
-   {
-    "uid": "52124f9f7e1e8205",
-    "titre": "Le temps long des réformes fondamentales de l’Ecole : l’exemple de la loi Goblet",
-    "url": "https://www.cafepedagogique.net/2026/11/04/le-temps-long-des-reformes-fondamentales-de-lecole-lexemple-de-la-loi-goblet/",
-    "source": "Café pédagogique",
-    "score": 78,
-    "raison": "Claude Lelièvre replace la loi Goblet dans le temps long des réformes de l'École, utile pour le chapitre de première sur la Troisième République et l'école."
-   },
-   {
-    "uid": "b6fc7ce66ede0c57",
-    "titre": "La manifestation de rue : une histoire française, entre discipline collective et violence politique",
-    "url": "https://theconversation.com/la-manifestation-de-rue-une-histoire-francaise-entre-discipline-collective-et-violence-politique-295631",
-    "source": "The Conversation — Histoire",
-    "score": 74,
-    "raison": "Une histoire de la manifestation de rue en France, qui nourrit l'EMC sur l'engagement et les libertés et donne un fil historique pour la première."
-   },
-   {
-    "uid": "e1f53033404b6adf",
-    "titre": "Reimagining adolescent education with ephegogy: generative AI and active learning in practice",
-    "url": "https://doi.org/10.1108/aiie-06-2025-0126",
-    "source": "OpenAlex",
-    "score": 60,
-    "raison": "Étude de cas en cours de géographie du secondaire sur l'IA générative et l'apprentissage actif, avec des résultats sur la motivation, mais sur un très petit échantillon."
-   },
-   {
-    "uid": "1906bd5617cb53f3",
-    "titre": "Privacy for Kids : le CEPD lance une plateforme dédiée à la vie privée des enfants",
-    "url": "https://www.cnil.fr/fr/cepd-privacy-for-kids",
-    "source": "CNIL",
-    "score": 58,
-    "raison": "Une plateforme européenne sur la vie privée des enfants, exploitable en EMC et pour l'éducation au numérique."
-   },
-   {
-    "uid": "dd93ad30df2100f2",
-    "titre": "Une minute de silence durant des blocus : « On s’inquiète beaucoup de la montée de l’extrême droite »",
-    "url": "https://www.cafepedagogique.net/2026/11/04/une-minute-de-silence-durant-des-blocus-on-sinquiete-beaucoup-de-la-montee-de-lextreme-droite/",
-    "source": "Café pédagogique",
-    "score": 57,
-    "raison": "Témoignage de lycéens sur une minute de silence pendant les blocus, point de départ possible en EMC sur l'engagement et l'expression."
-   },
-   {
-    "uid": "4bd5dbb9c4062c30",
-    "titre": "Code and data for: Legacies of despair: how do structural and biological legacies from disturbance interact to influence coral growth and survivorship?",
-    "url": "https://doi.org/10.5281/zenodo.23929909",
-    "source": "OpenAlex",
-    "score": 56,
-    "raison": "Données d'une expérience de terrain sur les coraux de Moorea, pour illustrer le littoral et l'insularité en Polynésie, mais très technique."
    }
   ]
  }
