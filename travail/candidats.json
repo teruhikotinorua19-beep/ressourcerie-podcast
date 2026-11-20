@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-19T22:40+00:00",
+ "genere": "2026-11-20T22:15+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,31 +8,67 @@
  },
  "items": [
   {
-   "uid": "8d534e8edf1e5a9d",
-   "titre": "L’exceptionnalisme grammatical comme contre-discours à la vulnérabilité des langues autochtones : une analyse du discours d’expert sur les langues algonquiennes à partir de la notion ‘d’obviation’",
+   "uid": "7900c96824665dc5",
+   "titre": "European Cyber Week 2026",
+   "source": "Les Clionautes",
+   "date": "2026-11-20",
+   "auteurs": "Ludovic Chevassus",
+   "url": "https://www.clionautes.org/european-cyber-week-2026.html",
+   "resume": "Pop culture mardi, serious game jeudi. Du 16 au 19 novembre, la European Cyber Week 2026 a refermé Rennes sur une bulle de quelques jours. J’y suis intervenu deux fois : mardi au séminaire du COMCYBER sur les menaces cognitives, avec des films, des romans et des dessins animés ; jeudi à la conférence consacrée […]"
+  },
+  {
+   "uid": "87df8143056b1f16",
+   "titre": "Des langues autochtones d’Amérique du Nord aux langues régionales de France : réflexions transversales sur la colonialité, l’ethnocentrisme et les représentations linguistiques en co(n)textes minoritaires",
    "source": "HAL",
-   "date": "2026-11-19",
-   "auteurs": "Laurence Delpérié, Sauvane Agnes",
-   "url": "https://hal.science/hal-05873121v1",
-   "resume": "L’idée selon laquelle les langues autochtones d’Amérique du Nord possèdent des particularités grammaticales uniques et remarquables qui les distinguent des langues européennes est l’héritage d’une longue histoire, initiée par la linguistique missionnaire puis nourrie par les débats philologiques des 18e et 19e siècles sur l’origine et l’évolution des langues (extra)européennes (Bauman et Briggs, 2003, Errington, 2008). Cette vision exceptionnalisante, qui a servi à construire des rapports d’analogies ou de différences entre langues et entre peuples depuis l’Époque Moderne, a créé un terrain fertile pour l’évaluation de l’altérité culturelle et la reproduction d’un discours colonial sur la va"
+   "date": "2026-11-20",
+   "auteurs": "Sauvane Agnes, Laurence Delpérié",
+   "url": "https://hal.science/hal-05874917v1",
+   "resume": ""
   },
   {
-   "uid": "e5d1fd0d984ef910",
-   "titre": "A new species of Triebelina (Bairdiidae, Ostracoda) from French Polynesia and the possible occurrence of sieve-type pore canals",
-   "source": "OpenAlex",
-   "date": "2026-11-19",
-   "auteurs": "Marie‐Béatrice Forel",
-   "url": "https://doi.org/10.11646/zootaxa.5909.2.3",
-   "resume": "The present contribution describes Triebelina cristianini sp. nov. from Rangiroa atoll, Tuamotu Archipelago, which is the second species of the ornate bairdiid genus Triebelina so far only known from French Polynesia. The distinct fossae on its median valve surface are used as a framework for mapping its pore systems, providing further support for the hypothesis that the position of normal pore canals is under genetic control in Triebelina species. Hypotheses of homology for pore systems of Triebelina cristianini sp. nov., Triebelina porinetia, Triebelina sertata, Triebelina indopacifica and Triebelina sp., all collected from French Polynesia, are proposed. Despite the highly sculpted valve "
+   "uid": "d3cb0a8ad64170cb",
+   "titre": "L'expérience de l'histoire dans et hors de l'école en Nouvelle-Calédonie et au Vanuatu",
+   "source": "HAL",
+   "date": "2026-11-20",
+   "auteurs": "Stéphane Minvielle",
+   "url": "https://unc.hal.science/tel-05873388v1",
+   "resume": ""
   },
   {
-   "uid": "a058d4d84e6758d0",
-   "titre": "Towards a Pedagogical Framework for Integrating Generative AI Into Competency-Based Education in Secondary Schools in the Global South",
+   "uid": "a49c8c05a02c214e",
+   "titre": "How do students put the Declaration on the Use of Generative Artificial Intelligence into practice?",
+   "source": "HAL",
+   "date": "2026-11-20",
+   "auteurs": "Céline Matuszak, Eric Kergosien",
+   "url": "https://hal.science/hal-05874903v1",
+   "resume": "In response to the development of AI, bodies such as the High Council for Social Work¹ (HCTS) and the CNAPE (National Convention of Child Protection Associations) are setting up think tanks to provide guidance on practices and are calling for a future professional convention tasked with jointly developing a framework to identify the challenges involved in integrating AI into the field of social work. These initiatives aim to move away from isolated uses in order to promote a collective, transparent and controlled adoption of these technologies. In the justice sector, as in education, the creation of an AI Observatory is also recommended to ensure ethical oversight and to anticipate the impac"
+  },
+  {
+   "uid": "6f1cf4a7a154a358",
+   "titre": "L'intelligence artificielle, moteur de nouvelles interdisciplinarités ?",
+   "source": "HAL",
+   "date": "2026-11-20",
+   "auteurs": "Sophie Gebeil",
+   "url": "https://hal.science/hal-05873549v1",
+   "resume": "L’intelligence artificielle transforme en profondeur le travail de recherche. Ce tournant inclut l’usage de modélisation hybride, d’algorithmes et d’apprentissage sur des corpus très variés, liés au volume de données ouvertes et à l’accès aux gisements de données textuels numérisés. Ces usages soulèvent également des questions méthodologiques et épistémologiques. Parmi les nombreux effets de cette évolution, l’atelier soulignera l’enjeu de l’interdisciplinarité. Des espaces de recherches expérimentaux se développent où des chercheurs font dialoguer les humanités, les sciences sociales, l’informatique et les mathématiques, dans un dialogue pluridisciplinaire exigeant et équilibré. Leurs avanc"
+  },
+  {
+   "uid": "d374944a9a1cbe15",
+   "titre": "Female-teacher deployment and the provincial geography of girls’ secondary exclusion in Afghanistan, 2002–2021",
    "source": "OpenAlex",
-   "date": "2026-11-19",
-   "auteurs": "Masereka Hannington Kule",
-   "url": "https://doi.org/10.65343/erd.v2i4.171",
-   "resume": "Secondary education systems across the Global South have adopted competency-based curricula that expect learners to construct knowledge, solve authentic problems, collaborate and demonstrate skills, yet large classes, teacher shortages and limited resources constrain the learner-centered pedagogy that these reforms require. Generative artificial intelligence (GenAI) has been proposed as a means of closing this gap, but its pedagogical role in competency-based education has not been systematically theorized. Guided by Vygotsky’s social constructivist theory, this study synthesized peer-reviewed and institutional literature published between 2015 and 2025 through a systematic review of 300 sou"
+   "date": "2026-11-20",
+   "auteurs": "Ahmad Jamshid Safi",
+   "url": "https://doi.org/10.21203/rs.3.rs-10220307/v1",
+   "resume": "Afghanistan’s girls’ enrolment rose from fewer than 800,000 to roughly 3.7 million between 2001 and the late 2010s, yet the rural upper-secondary gender parity index stood at just 0.14. This exclusion is commonly attributed to conservative community attitudes and cultural resistance. This paper argues that the binding constraint was instead supply and deployment of female teachers and proximate secondary schools. Female teachers constituted 42% to 60% of teacher-college graduates but only 36% of the deployed workforce, 90% concentrated in nine urban centres. Across 34 provinces, female-teacher share is strongly associated with girls’ enrolment share (r = .75, R² = .57, N = 34), converging wi"
+  },
+  {
+   "uid": "b52ac68972143432",
+   "titre": "Bình dân học AI: Đã đến lúc người bình thường tự làm phần mềm cho mình — một bà nội trợ tự viết phần mềm quản lý tài chính và đồng bộ các thiết bị truy cập",
+   "source": "OpenAlex",
+   "date": "2026-11-20",
+   "auteurs": "Duy Mai The",
+   "url": "https://doi.org/10.5281/zenodo.24382667",
+   "resume": "BẢN TIẾNG VIỆT: Tên tài liệu: Bình dân học AI: Đã đến lúc người bình thường tự làm phần mềm cho mình — một bà nội trợ tự viết phần mềm quản lý tài chính và đồng bộ các thiết bị truy cậpTác giả: S.S DUYMT, 2026 Tóm tắt nội dung:Nghiên cứu này giải quyết một nghịch lý nổi cộm trong các chương trình phổ cập trí tuệ nhân tạo hiện nay: công cụ AI đã tiến rất xa nhưng mục tiêu giảng dạy vẫn giẫm chân tại chỗ ở các bài tập vụn vặt. Trong khi một người bình thường (như một bà nội trợ, một người làm vườn hay một giáo viên) hoàn toàn có thể dùng AI để tự xây dựng một ứng dụng hoàn chỉnh có cơ sở dữ liệu, giao diện và đồng bộ đa thiết bị, các khóa học “AI căn bản” vẫn chỉ dừng lại ở việc hướng dẫn viết"
   }
  ]
 }
