@@ -1,5 +1,24 @@
 [
  {
+  "fichier": "veille-2026-11-21.mp3",
+  "date": "2026-11-21",
+  "pubdate": "Sat, 21 Nov 2026 06:09:46 -1000",
+  "titre": "Veille du 21 novembre",
+  "description": "1 article(s) retenu(s) pour la classe.",
+  "duree": "00:01:16",
+  "taille": 455040,
+  "items": [
+   {
+    "uid": "d3cb0a8ad64170cb",
+    "titre": "L'expérience de l'histoire dans et hors de l'école en Nouvelle-Calédonie et au Vanuatu",
+    "url": "https://unc.hal.science/tel-05873388v1",
+    "source": "HAL",
+    "score": 72,
+    "raison": "Travail de recherche sur la manière dont l'histoire est vécue à l'école et en dehors en Nouvelle-Calédonie et au Vanuatu, utile pour penser l'enseignement de l'histoire dans le Pacifique, en lien avec la colonisation en première et l'EMC."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-20.mp3",
   "date": "2026-11-20",
   "pubdate": "Fri, 20 Nov 2026 06:12:29 -1000",
@@ -518,33 +537,6 @@
     "source": "HAL",
     "score": 78,
     "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-06.mp3",
-  "date": "2026-11-06",
-  "pubdate": "Fri, 06 Nov 2026 06:09:50 -1000",
-  "titre": "Veille du 6 novembre",
-  "description": "2 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:43",
-  "taille": 980352,
-  "items": [
-   {
-    "uid": "8f617e426ef8b8a8",
-    "titre": "La COP31 s’ouvre dans un contexte défavorable : comment retrouver des marges d’action climatique ?",
-    "url": "https://theconversation.com/la-cop31-souvre-dans-un-contexte-defavorable-comment-retrouver-des-marges-daction-climatique-295995",
-    "source": "The Conversation — Environnement",
-    "score": 62,
-    "raison": "La COP31 offre une actualité brûlante pour le thème sociétés et environnements en seconde et pour l'EMC, avec la question des financements climatiques et du retrait américain."
-   },
-   {
-    "uid": "fc637e6e76e91439",
-    "titre": "Understanding Generative AI Use in Secondary School Contexts: A Mixed-Methods Study",
-    "url": "https://doi.org/10.25949/34930068",
-    "source": "OpenAlex",
-    "score": 56,
-    "raison": "Une enquête auprès de lycéens sur l'usage de l'IA générative, utile pour cadrer les pratiques numériques de tes élèves et nourrir un échange d'EMC sur l'éthique et l'évaluation."
    }
   ]
  }
