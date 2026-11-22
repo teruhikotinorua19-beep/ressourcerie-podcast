@@ -1,5 +1,40 @@
 [
  {
+  "fichier": "veille-2026-11-22.mp3",
+  "date": "2026-11-22",
+  "pubdate": "Sun, 22 Nov 2026 06:10:02 -1000",
+  "titre": "Veille du 22 novembre",
+  "description": "3 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:50",
+  "taille": 1022976,
+  "items": [
+   {
+    "uid": "7bdc6dd9e4f6f901",
+    "titre": "Rémy Guédon, dernier imprimeur de Bucer",
+    "url": "https://hal.science/hal-05875139v1",
+    "source": "HAL",
+    "score": 62,
+    "raison": "En seconde, chapitre Renaissance et Réforme : un cas concret de diffusion des idées protestantes par l'imprimerie, de Strasbourg à Cambridge."
+   },
+   {
+    "uid": "1198e98a115a8d85",
+    "titre": "MCR LTER: Coral Reef: Physical Oceanography: East shore fore-reef temperature, pressure, and surface waves at LTER 4 from 2022 ongoing",
+    "url": "https://doi.org/10.6073/pasta/728917e262d23fa71a38100857682427",
+    "source": "OpenAlex",
+    "score": 58,
+    "raison": "Données chiffrées réelles sur la houle, la pression et la température d'un récif de Moorea, utilisables en sixième ou en seconde sur le littoral et les risques."
+   },
+   {
+    "uid": "409267809a5582cb",
+    "titre": "MCR LTER: Coral Reef: Physical Oceanography: West shore fore-reef temperature, pressure, and surface waves at LTER 5 from 2021 ongoing",
+    "url": "https://doi.org/10.6073/pasta/e8c689d1a19edb237183f7b11a995888",
+    "source": "OpenAlex",
+    "score": 56,
+    "raison": "Même jeu de mesures, côté ouest de Moorea : on peut comparer les deux rives de l'île, mais il faudra simplifier les données."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-21.mp3",
   "date": "2026-11-21",
   "pubdate": "Sat, 21 Nov 2026 06:09:46 -1000",
@@ -494,49 +529,6 @@
     "source": "HAL",
     "score": 82,
     "raison": "Coutume judiciaire et pratiques autochtones autour des lagons en pays mā'ohi, un cas local pour les littoraux et les sociétés face à leur environnement."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-07.mp3",
-  "date": "2026-11-07",
-  "pubdate": "Sat, 07 Nov 2026 06:09:49 -1000",
-  "titre": "Veille du 7 novembre — rappel",
-  "description": "Rappel : 4 article(s) déjà présentés.",
-  "duree": "00:01:32",
-  "taille": 553248,
-  "items": [
-   {
-    "uid": "e044a205cb9e6dc0",
-    "titre": "Conférence à l'Académie des sciences d'outre-mer « Le rāhui : institution historique, sociale et politique à forte valeur socio-écologique contemporaine »",
-    "url": "https://hal.science/hal-05835798v1",
-    "source": "HAL",
-    "score": 88,
-    "raison": "Le rāhui, mise en jachère traditionnelle des terres et des mers réhabilitée en Polynésie, nourrit un cas d'étude local sur les littoraux, les ressources et l'EMC en sixième et en seconde."
-   },
-   {
-    "uid": "ab060a5a2ba3c1f6",
-    "titre": "Il y a 70 ans, le fiasco franco-britannique de Suez : une leçon pour Washington face à l’Iran",
-    "url": "https://theconversation.com/il-y-a-70-ans-le-fiasco-franco-britannique-de-suez-une-lecon-pour-washington-face-a-liran-295809",
-    "source": "The Conversation — Histoire",
-    "score": 82,
-    "raison": "Suez en mille neuf cent cinquante-six sert de cas d'étude pour la décolonisation et la guerre froide en première, avec un parallèle d'actualité avec l'Iran pour travailler l'esprit critique."
-   },
-   {
-    "uid": "4c2076a64a581aa2",
-    "titre": "D’épice, d’or et de sang : produits et espaces de la traite coloniale esclavagiste (XVIIe-XIXe s.)",
-    "url": "https://www.clionautes.org/depice-dor-et-de-sang-produits-et-espaces-de-la-traite-coloniale-esclavagiste-xviie-xixe-s.html",
-    "source": "Les Clionautes",
-    "score": 82,
-    "raison": "Une table ronde qui dépasse le commerce triangulaire pour étudier les produits et les espaces de la traite coloniale, utile en seconde (ouverture atlantique) et en première (colonisation)."
-   },
-   {
-    "uid": "39956d693e3a1740",
-    "titre": "Développer la pensée historienne chez l'adolescent par l'interaction instrumentée : usage de la frise en milieu scolaire défavorisé",
-    "url": "https://hal.science/hal-05735818v1",
-    "source": "HAL",
-    "score": 78,
-    "raison": "Repenser la frise chronologique comme outil d'échange entre élèves pour construire la pensée historienne, un usage directement transposable de la sixième à la première."
    }
   ]
  }
