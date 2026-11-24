@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-22T21:06+00:00",
+ "genere": "2026-11-24T02:14+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,13 +8,13 @@
  },
  "items": [
   {
-   "uid": "353f4fce375422c2",
-   "titre": "L’Europe face à ses limites : énergie, climat et ressource",
-   "source": "Les Clionautes",
-   "date": "2026-11-22",
-   "auteurs": "Jean-Michel Crosnier",
-   "url": "https://www.clionautes.org/leurope-face-a-ses-limites-energie-climat-et-ressource.html",
-   "resume": "Jean-Marc Jancovici, invité surprise cette année aux RSMed ? Seulement pour celles et ceux (encore nombreux ?) qui pensent en silo… L’amiral Pascal Ausseur et la Fondation pour la recherche stratégique (FRS) démontrent le contraire depuis la naissance des RSMed il y a maintenant 4 ans. Leur mantra ? Se rencontrer, se parler, débattre calmement […]"
+   "uid": "7666a3e7f82b8944",
+   "titre": "Apprendre les langues étrangères en Europe (XVIe-XVIIe siècles). Mises en récit et matériel didactique",
+   "source": "HAL",
+   "date": "2026-11-23",
+   "auteurs": "Clémence Jaime",
+   "url": "https://hal.science/tel-05878036v1",
+   "resume": "Ce travail comparatiste étudie les représentations de l'apprentissage des langues vivantes étrangères dans des textes et discours d'expression française, portugaise et espagnole. En mobilisant un corpus large et diversifié, on s'attache à historiciser ces représentations en mesurant d'éventuels liens entre le développement d'une littérature pédagogique ayant pour objectif l'apprentissage des langues et l'essor des représentations littéraires de cette pratique. L'enquête porte alors sur des récits de voyage (parmi lesquels celui de Jean de Léry ou encore la Peregrinação de Fernão Mendes Pinto), des fictions narratives (dont des romans de chevalerie de la péninsule ibérique, des romans picares"
   }
  ]
 }
