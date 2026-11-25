@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-24T23:55+00:00",
+ "genere": "2026-11-25T23:39+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -7,6 +7,123 @@
   "max_retenus": 15
  },
  "items": [
+  {
+   "uid": "3e422d401f00fdfc",
+   "titre": "Qui était Bérénice, antique souveraine juive à la réputation sulfureuse ?",
+   "source": "The Conversation — Histoire",
+   "date": "2026-11-25",
+   "auteurs": "",
+   "url": "https://theconversation.com/qui-etait-berenice-antique-souveraine-juive-a-la-reputation-sulfureuse-297433",
+   "resume": "Tandis que l’Opéra de Paris a choisi de présenter la reine Bérénice comme une princesse africaine dans « la Clémence de Titus », retour sur la vie de la vraie Bérénice, au 1ᵉʳ siècle de notre ère."
+  },
+  {
+   "uid": "8755dee25de4d5d8",
+   "titre": "Innover, instrumenter, émanciper",
+   "source": "HAL",
+   "date": "2026-11-25",
+   "auteurs": "Georges-Louis Baron, Yolaine Bourda, Béatrice Drot-Delange",
+   "url": "https://hal.science/hal-05596149v2",
+   "resume": "Ce qu’on appelle parfois numérique éducatif s’inscrit dans une histoire longue de l’informatique en éducation. Jacques Hebenstreit (1926-2020) a été l’une des personnalités marquantes de ce domaine. Très tôt, il a eu une vision claire de l’informatique, à la fois comme ensemble d’instruments pouvant renouveler les apprentissages disciplinaires, et comme sujet important de savoirs, plus large que la seule connaissance d’un langage de programmation. Il a joué un rôle décisif dans la première expérience d’introduction de l’informatique au lycée, lancée en 1970, puis lors des opérations de développement de la génération suivante. Ce livre d’hommage, rédigé après son décès par une équipe multidis"
+  },
+  {
+   "uid": "76824cac9f62040e",
+   "titre": "Navigating vulnerability: teaching about racism in Swedish upper secondary school history courses",
+   "source": "OpenAlex",
+   "date": "2026-11-25",
+   "auteurs": "Johannes Heuman, Laila Nielsen",
+   "url": "https://doi.org/10.14324/herj.23.1.31",
+   "resume": "This article explores the emotional dimension of upper secondary history education in Sweden by examining various forms of vulnerability associated with teaching about racism in the past. The purpose is to highlight areas of conflict and opportunities linked to vulnerability. Drawing on eight semi-structured, in-depth interviews with teachers and utilising an intersectional approach, the study shows how vulnerability emerged in relation to both the content of the teaching and the language used in the classroom. Teachers in the study reported facing challenges in navigating the tensions and emotions that arose, but they also described student vulnerability as sometimes contributing to engagem"
+  },
+  {
+   "uid": "cccc37b64c059cba",
+   "titre": "Violences sexistes et racistes : deux professeures lanceuses d’alerte mutées d’office",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/violences-sexistes-et-racistes-deux-professeures-lanceuses-dalerte-mutees-doffice/",
+   "resume": "« Brisons le silence, agissons ensemble », c’est bien tout un chantier à tous les étages de l’Education nationale. Les lanceurs d’alerte sont-ils aujourd’hui victimes d’un système dysfonctionnel et autoritaire\n L’article Violences sexistes et racistes : deux professeures lanceuses d’alerte mutées d’office est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "ab75677dc3699bcb",
+   "titre": "Une année plus tard… que voulons nous voir ?",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/un-annee-plus-tard-que-voulons-nous-voir/",
+   "resume": "« Les mots sont devenus texte, les textes sont devenus loi. Et maintenant… on en fait quoi ? » Un an après son témoignage en tant que victime de violences\n L’article Une année plus tard… que voulons nous voir ? est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "a4bf7656da8f5ca1",
+   "titre": "Créer 250 000 places dans les enseignements supérieurs ?",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/creer-250-000-places-dans-les-enseignements-superieurs/",
+   "resume": "La revendication de créer 250 000 places dans le supérieur, une folie ? Au regard de l’Histoire, l’historien Claude Lelièvre ne juge pas cette annonce « stratosphérique » irréalisable, puisque\n L’article Créer 250 000 places dans les enseignements supérieurs ? est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "e75a64b83be1355f",
+   "titre": "« Tu les laisses aller aux toilettes pendant la classe ? »",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/tu-les-laisses-aller-aux-toilettes-pendant-la-classe/",
+   "resume": "Claire et Estelle enseignent toutes les deux en élémentaire. Lors d’un entretien croisé, elles regardent une vidéo tournée dans la classe de Claire, qui explique une procédure de mathématiques au\n L’article « Tu les laisses aller aux toilettes pendant la classe ? » est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "2368391dfba87320",
+   "titre": "Littérature jeunesse : petits livres pour petits enfants",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/litterature-jeunesse-petits-livres-pour-petits-enfants/",
+   "resume": "Pour les tout-petits, deux livres cartonnés qui permettent de manipuler tout seul. Le premier met en regard ce que vit l’enfant avec des animaux, le deuxième incite au mouvement par\n L’article Littérature jeunesse : petits livres pour petits enfants est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "b51d8e72499d9fcb",
+   "titre": "Cinéma : « Congo Boy » de Rafiki Fariala",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/cinema-congo-boy-de-rafiki-fariala/",
+   "resume": "Peut-on rêver de devenir chanteur quand on est un réfugié congolais en Centrafrique ? Avoir fui la guerre ravageant sa terre natale pour subir l’explosion de violence du pays d’asile\n L’article Cinéma : « Congo Boy » de Rafiki Fariala est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "9195a89dc641e73d",
+   "titre": "Cinéma : « Vrai de vrai », le festival du documentaire ouvert à tous",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/cinema-vrai-de-vrai-le-festival-du-documentaire-ouvert-a-tous/",
+   "resume": "A l’initiative de la Société civile des auteurs multimédia (Scam), le MK2 Bibliothèque nous offre de découvrir gratuitement sur grand écran 30 documentaires remarquables et reportages engagés, associés chaque fois\n L’article Cinéma : « Vrai de vrai », le festival du documentaire ouvert à tous est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "a26a25a9b4db12f8",
+   "titre": "Lycée : les doublements en hausse à la rentrée 2026",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/lycee-les-doublements-en-hausse-a-la-rentree-2026/",
+   "resume": "Les doublements progressent à tous les niveaux du lycée général et technologique. Selon les dernières données de la DEPP, 3,4 % des élèves de seconde redoublent à la rentrée 2026,\n L’article Lycée : les doublements en hausse à la rentrée 2026 est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "49ea25b051d75396",
+   "titre": "AE-EPS : soirée-débat avec Bernard Lahire",
+   "source": "Café pédagogique",
+   "date": "2026-11-25",
+   "auteurs": "Café pédagogique",
+   "url": "https://www.cafepedagogique.net/2026/11/25/ae-eps-soiree-debat-avec-bernard-lahire/",
+   "resume": "L’AE-EPS (association pour l’enseignement de l’éducation physique et sportive) invite chacun·e, adhérent·e ou non adhérent·e à l’association, à son 66e Bistrot pédagogique, « Les savoirs et la vie ». Rendez-vous jeudi 3\n L’article AE-EPS : soirée-débat avec Bernard Lahire est apparu en premier sur Le Café pédagogique ."
+  },
+  {
+   "uid": "dad8ac046be04bdf",
+   "titre": "Deux anciens élèves de Vence ont créé une IA qui fait réviser le cours du prof, pas celui de ChatGPT",
+   "source": "Ludomag",
+   "date": "2026-11-25",
+   "auteurs": "redaction",
+   "url": "https://www.ludomag.com/2026/11/25/deux-anciens-eleves-de-vence-ont-cree-une-ia-qui-fait-reviser-le-cours-du-prof-pas-celui-de-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=deux-anciens-eleves-de-vence-ont-cree-une-ia-qui-fait-reviser-le-cours-du-prof-pas-celui-de-chatgpt",
+   "resume": "Lucas Gerhardt et Clément Bellet-Odent étaient encore au lycée Henri Matisse de Vence quand ils ont lancé LUCID, une application de révision gratuite. Elle transforme les cours de l'élève en fiches, en quiz et en flashcards, et son tuteur pose des questions au lieu de donner les réponses.\nL’article Deux anciens élèves de Vence ont créé une IA qui fait réviser le cours du prof, pas celui de ChatGPT est apparu en premier sur Ludomag ."
+  },
   {
    "uid": "29d236b1617bf2a3",
    "titre": "L’issue de la COP31 était-elle prévisible ? Ce que montre l’analyse des discours en ligne",
@@ -17,13 +134,67 @@
    "resume": "Les publications en ligne relatives au cadrage des négociations ont pris beaucoup de place, au détriment des discussions sur l’implémentation politique."
   },
   {
-   "uid": "39a614695f3fd2c7",
-   "titre": "Collaborer avec l'IAg pour promouvoir la créativité et l'innovation ? Une réflexion appliquée au travail des enseignants-chercheurs",
-   "source": "HAL",
+   "uid": "aab7575110cce207",
+   "titre": "Implementation of the National Drug Education Program in Secondary Schools in the Municipality of Uson: Basis for an Enhanced Drug Education Framework",
+   "source": "OpenAlex",
    "date": "2026-11-24",
-   "auteurs": "Karine Revet, Nuria Moratal",
-   "url": "https://hal.science/hal-05879376v1",
-   "resume": "La démocratisation des IA génératives (IAg) soulève des questions sur leurs impacts sur les activités créatives des enseignants-chercheurs, qui mobilisent l'IAg pour créer du contenu, brainstormer, ou résoudre des problèmes. Cette intégration croissante représente un enjeu majeur dans la création, la formulation, et la sélection d’idées créatives et innovantes dans le domaine académique. Cet article mobilise une méthodologie qualitative exploratoire basée sur 22 entretiens semi-directifs avec des enseignants-chercheurs, une catégorie d’acteurs pour qui l’IAg s’avère essentielle car elle peut influer sur leur créativité en permettre l'exploration de nouvelles méthodes pédagogiques, ou encore "
+   "auteurs": "Mary Grace S. Licup",
+   "url": "https://doi.org/10.65339/wjsam.v1.i2.50",
+   "resume": "This study assessed the implementation of the National Drug Education Program (NDEP) in six secondary schools in the Municipality of Uson, Masbate, during school year 2018–2019, focusing on curriculum integration, school-based initiatives, perceptions of drug testing, and proposed program improvements. Employing a descriptive research design, the study purposively selected six secondary schools and gathered information through a researcher-developed survey questionnaire. Data were analyzed using frequency counts and percentages, while reported activities and suggestions were described narratively. Findings revealed that the participating schools had 232 teachers serving 4,083 learners, with "
+  },
+  {
+   "uid": "79644176258991f8",
+   "titre": "GENERATIVE AI-MEDIATED ORAL ENGLISH LEARNING IN TECHNICAL EDUCATION: EFFECTIVENESS, OPPORTUNITIES AND PEDAGOGICAL CHALLENGES",
+   "source": "OpenAlex",
+   "date": "2026-11-24",
+   "auteurs": "Shankar Mokena",
+   "url": "https://doi.org/10.29121/shodhai.v3.i3.2026.128",
+   "resume": "Generative artificial intelligence (GenAI) has created new opportunities for oral English practice, but evidence specific to post-secondary technical education remains limited. This paper examines the effectiveness, instructional opportunities and pedagogical challenges reported in a bounded set of studies involving diploma and polytechnic learners. A structured scoping-review-informed search covered publications from 1January 2022 to 31 October 2026. Five accessible bibliographic exports yielded 4,007 rows, reduced to 3,756 records after preliminary deduplication. As the wider corpus was not fully screened, the evidence set was frozen on 1 November 2026. Three full-text-verified primary stu"
+  },
+  {
+   "uid": "d096adf67d75311a",
+   "titre": "Generative Artificial Intelligence Use and Academic Performance Among Secondary School Students: A Systematic Review and Meta-Analysis",
+   "source": "OpenAlex",
+   "date": "2026-11-24",
+   "auteurs": "Zhao Luying",
+   "url": "https://doi.org/10.17605/osf.io/6kxvp",
+   "resume": "Generative artificial intelligence (GenAI) is increasingly integrated into secondary education, yet its effects on students’ academic performance remain contested. Existing meta-analyses have predominantly synthesized evidence across educational levels and heterogeneous learning outcomes, leaving uncertainty about the magnitude and conditions of GenAI-related academic gains among secondary school students. Moreover, improvements in AI-assisted task performance may not necessarily reflect students’ independently acquired knowledge and skills. This systematic review and meta-analysis aims to synthesize experimental and quasi-experimental evidence on the effects of GenAI-assisted learning on ac"
+  },
+  {
+   "uid": "b8b22ae3b57649a6",
+   "titre": "Prompt Engineering and Web Artifact Generation in Mathematics Education: Investigating In-Service Teachers’ AI-TPACK Development",
+   "source": "OpenAlex",
+   "date": "2026-11-24",
+   "auteurs": "Wo Sang Wilson Cheng, Chi Long To, Pak Yuk Wong, Suzanne Lok Tung Leung",
+   "url": "https://doi.org/10.3390/technologies14120789",
+   "resume": "Generative artificial intelligence (GenAI) and large language models (LLMs) offer new opportunities for teachers to create digital learning resources. However, limited research has examined how educators use prompting strategies to develop instructional tools in classroom contexts. This study employed an embedded single-case study design to investigate how fifteen in-service secondary mathematics teachers in Hong Kong enacted and demonstrated Artificial Intelligence-Technological Pedagogical Content Knowledge (AI-TPACK) through participation in a professional learning network. The professional learning circle served as the primary case, with three embedded units of analysis examining the dev"
+  },
+  {
+   "uid": "964e9a0303b3ef97",
+   "titre": "DEVELOPMENT OF AN AI-BASED EDUCATIONAL CHATBOT FOR ENHANCING SCHOOL STUDENTS' KNOWLEDGE",
+   "source": "OpenAlex",
+   "date": "2026-11-24",
+   "auteurs": "Mardonova Umida Karimjon qizi, Boymatov Mexrojiddin, Worldly Knowledge Publishing Centre",
+   "url": "https://doi.org/10.5281/zenodo.24506453",
+   "resume": "Personalized learning remains a persistent challenge in secondary education due to high student-to-teacher ratios and heterogeneous knowledge baselines among pupils. While Large Language Models (LLMs) offer conversational tutoring capabilities, unconstrained generative models frequently produce factual hallucinations and provide direct homework answers rather than pedagogical scaffolding. This paper presents the design, mathematical formulation, and software implementation of an AI-based educational chatbot utilizing Retrieval-Augmented Generation (RAG) and Bayesian Knowledge Tracing (BKT) to enhance secondary school students' academic mastery in STEM subjects (Mathematics, Physics, and Comp"
+  },
+  {
+   "uid": "ad45e3964822c2cc",
+   "titre": "Applying a Three Horizons Foresight Framework to Assessment Reform in Arab Higher Education in the Age of Artificial Intelligence",
+   "source": "OpenAlex",
+   "date": "2026-11-24",
+   "auteurs": "Thani Almheiri",
+   "url": "https://doi.org/10.21203/rs.3.rs-11385218/v1",
+   "resume": "This paper examines the growing misalignment between higher education assessment practices and the capabilities of generative artificial intelligence (AI), with a focus on Arab-world institutions. It proposes the Three Horizons framework as an analytical and planning tool for assessment reform, enabling institutions to move from reactive policy responses toward proactive, future-ready evaluation design. The study draws on a two-year horizon scanning program (2024–2026) across higher education institutions in six Arab nations (UAE, Saudi Arabia, Egypt, Jordan, Bahrain, and Lebanon), applying the Three Horizons framework alongside STEEPV (Social, Technological, Economic, Environmental, Politic"
+  },
+  {
+   "uid": "45c3b817256cb264",
+   "titre": "Global fertility decline: society first, biology second",
+   "source": "OpenAlex",
+   "date": "2026-11-24",
+   "auteurs": "Carlos Simón",
+   "url": "https://doi.org/10.3389/fsci.2026.2067260",
+   "resume": "Few scientific questions touch every family, every economy, and every generation at once. The question addressed by Norman et al. in their recent Frontiers in Science lead article does.Bringing together experts in reproductive medicine, biology, genetics, and health policy, they ask why humans are having fewer children and whether we can -or should -do anything about it. I want to begin by thanking them. Their lead article is more than a clinical or a scientific review; it is also a societal document, written for anyone who cares about the world our children, and theirs, will inherit.The starting point is no longer in dispute: the decline in fertility is a fact. The total fertility rate (TFR"
   }
  ]
 }
