@@ -1,5 +1,40 @@
 [
  {
+  "fichier": "veille-2026-11-26.mp3",
+  "date": "2026-11-26",
+  "pubdate": "Thu, 26 Nov 2026 06:10:30 -1000",
+  "titre": "Veille du 26 novembre",
+  "description": "3 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:50",
+  "taille": 1018944,
+  "items": [
+   {
+    "uid": "3e422d401f00fdfc",
+    "titre": "Qui était Bérénice, antique souveraine juive à la réputation sulfureuse ?",
+    "url": "https://theconversation.com/qui-etait-berenice-antique-souveraine-juive-a-la-reputation-sulfureuse-297433",
+    "source": "The Conversation — Histoire",
+    "score": 64,
+    "raison": "Portrait de la reine Bérénice au premier siècle, entre Judée et Rome, pour illustrer le monde romain et la place des élites locales, avec un point de départ actuel autour de l'opéra."
+   },
+   {
+    "uid": "76824cac9f62040e",
+    "titre": "Navigating vulnerability: teaching about racism in Swedish upper secondary school history courses",
+    "url": "https://doi.org/10.14324/herj.23.1.31",
+    "source": "OpenAlex",
+    "score": 62,
+    "raison": "Étude suédoise sur la gestion des émotions quand on enseigne le racisme du passé en histoire, utile pour préparer en première la colonisation et en EMC les séances sensibles."
+   },
+   {
+    "uid": "d096adf67d75311a",
+    "titre": "Generative Artificial Intelligence Use and Academic Performance Among Secondary School Students: A Systematic Review and Meta-Analysis",
+    "url": "https://doi.org/10.17605/osf.io/6kxvp",
+    "source": "OpenAlex",
+    "score": 58,
+    "raison": "Méta-analyse sur l'effet de l'IA générative sur les résultats des lycéens et collégiens, pour nourrir ta réflexion sur les usages de l'IA en classe d'histoire-géographie."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-24.mp3",
   "date": "2026-11-24",
   "pubdate": "Tue, 24 Nov 2026 06:11:59 -1000",
@@ -483,52 +518,6 @@
     "source": "Café pédagogique",
     "score": 62,
     "raison": "Interroge la cérémonie imposée à l'école pour renforcer la cohésion nationale, un point de départ de débat en EMC en seconde ou en première sur mémoire, citoyenneté et vivre ensemble."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-11.mp3",
-  "date": "2026-11-11",
-  "pubdate": "Wed, 11 Nov 2026 06:11:54 -1000",
-  "titre": "Veille du 11 novembre",
-  "description": "2 article(s) retenu(s) pour la classe.",
-  "duree": "00:02:57",
-  "taille": 1062000,
-  "items": [
-   {
-    "uid": "673fd914d58295a3",
-    "titre": "11-Novembre : les démocraties savent-elles faire la guerre ? La réponse de l’Athènes antique",
-    "url": "https://theconversation.com/11-novembre-les-democraties-savent-elles-faire-la-guerre-la-reponse-de-lathenes-antique-296198",
-    "source": "The Conversation — Histoire",
-    "score": 82,
-    "raison": "Un article de synthèse sur l'Athènes antique et la guerre, utilisable en sixième dans le chapitre sur le monde grec, et en EMC pour discuter du lien entre démocratie et violence, autour du onze novembre."
-   },
-   {
-    "uid": "0d61c3e394c39924",
-    "titre": "Des ressources pour éclairer les mobilisations lycéennes et étudiantes",
-    "url": "https://eduveille.hypotheses.org/25018",
-    "source": "Éduveille",
-    "score": 58,
-    "raison": "Une sélection de ressources sur les mobilisations lycéennes, mobilisable en EMC pour travailler l'engagement et la citoyenneté, avec des élèves de seconde ou de première."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-10.mp3",
-  "date": "2026-11-10",
-  "pubdate": "Tue, 10 Nov 2026 06:12:58 -1000",
-  "titre": "Veille du 10 novembre",
-  "description": "1 article(s) retenu(s) pour la classe.",
-  "duree": "00:01:30",
-  "taille": 539424,
-  "items": [
-   {
-    "uid": "a871d0d954b6af45",
-    "titre": "Students Learn to Use Generative AI Before Learning to Question It: Ordinal Trajectories of Academic Use and Caution from Adolescence to University",
-    "url": "https://doi.org/10.35542/osf.io/cm438_v1",
-    "source": "OpenAlex",
-    "score": 62,
-    "raison": "Une enquête sur l'usage de l'IA générative et la méfiance envers ses réponses, de douze à vingt-cinq ans, utile pour préparer en classe une séance d'esprit critique sur le numérique."
    }
   ]
  }
