@@ -1,5 +1,32 @@
 [
  {
+  "fichier": "veille-2026-11-27.mp3",
+  "date": "2026-11-27",
+  "pubdate": "Fri, 27 Nov 2026 06:10:08 -1000",
+  "titre": "Veille du 27 novembre",
+  "description": "2 article(s) retenu(s) pour la classe.",
+  "duree": "00:02:34",
+  "taille": 923184,
+  "items": [
+   {
+    "uid": "03cdae814a63406f",
+    "titre": "Variations climatiques au fil des siècles",
+    "url": "https://www.clionautes.org/variations-climatiques-au-fil-des-siecles.html",
+    "source": "Les Clionautes",
+    "score": 72,
+    "raison": "L'Atlas historique du climat sert en seconde, dans le thème sociétés et environnements, pour montrer que le climat a une histoire longue, et en première pour croiser histoire et géographie."
+   },
+   {
+    "uid": "13186f1338b9fc7b",
+    "titre": "Knowledge constructed in class and with historians: a case study in middle school",
+    "url": "https://hal.science/hal-04210455v1",
+    "source": "HAL",
+    "score": 60,
+    "raison": "Une étude de cas en collège sur la construction du savoir historique avec des historiens, utile pour penser des séquences qui expliquent nécessités et contingences d'un événement."
+   }
+  ]
+ },
+ {
   "fichier": "veille-2026-11-26.mp3",
   "date": "2026-11-26",
   "pubdate": "Thu, 26 Nov 2026 06:10:30 -1000",
@@ -491,33 +518,6 @@
     "source": "The Conversation — Histoire",
     "score": 82,
     "raison": "Un article de synthèse sur l'Athènes antique et la guerre, utilisable en sixième dans le chapitre sur le monde grec, et en EMC pour discuter du lien entre démocratie et violence, autour du onze novembre."
-   }
-  ]
- },
- {
-  "fichier": "veille-2026-11-12.mp3",
-  "date": "2026-11-12",
-  "pubdate": "Thu, 12 Nov 2026 06:11:36 -1000",
-  "titre": "Veille du 12 novembre",
-  "description": "2 article(s) retenu(s) pour la classe.",
-  "duree": "00:01:20",
-  "taille": 481248,
-  "items": [
-   {
-    "uid": "f900548c5ce053a2",
-    "titre": "Commémorer le 11 novembre : transformer le devoir de mémoire obligatoire en enquête didactique critique",
-    "url": "https://www.cafepedagogique.net/2026/11/11/commemorer-le-11-novembre-transformer-le-devoir-de-memoire-obligatoire-en-enquete-didactique-critique/",
-    "source": "Café pédagogique",
-    "score": 72,
-    "raison": "Propose de transformer la commémoration obligatoire du onze novembre en enquête critique, avec une distinction entre devoir de mémoire et travail de mémoire, utilisable en première sur la Première Guerre mondiale et en EMC."
-   },
-   {
-    "uid": "691379d58db85b46",
-    "titre": "11 Novembre à l’École : peut-on imposer la mémoire pour fabriquer de la cohésion ?",
-    "url": "https://www.cafepedagogique.net/2026/11/11/11-novembre-a-lecole-peut-on-imposer-la-memoire-pour-fabriquer-de-la-cohesion/",
-    "source": "Café pédagogique",
-    "score": 62,
-    "raison": "Interroge la cérémonie imposée à l'école pour renforcer la cohésion nationale, un point de départ de débat en EMC en seconde ou en première sur mémoire, citoyenneté et vivre ensemble."
    }
   ]
  }
