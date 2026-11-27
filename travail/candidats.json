@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-26T23:53+00:00",
+ "genere": "2026-11-27T23:29+00:00",
  "profil": {
   "missions": "Professeur d'histoire-géographie et EMC en Polynésie française, au collège et au lycée. Classes cette année : 6e, 2nde, 1re générale. Programmes concernés — 6e : premiers États et premières écritures, mondes grec et romain, naissance des monothéismes ; habiter une métropole, des espaces à fortes contraintes, le littoral, le monde habité. 2nde : Méditerranée antique et médiévale, ouverture atlantique, Renaissance et Réforme, État moderne, Lumières et révolutions ; sociétés et environnements (risques, ressources, eau), territoires dans la mondialisation, mobilités, Afrique australe. 1re générale : Europe face aux révolutions, nation, industrialisation, IIIe République, colonisation, Première Guerre mondiale ; métropolisation, espaces productifs, espaces ruraux, Chine. EMC : libertés, droit, laïcité, citoyenneté, engagement. Suit aussi le numérique éducatif (IA générative, RGPD scolaire, ENT, PIX).",
   "criteres": "À VALORISER : documents directement exploitables en classe à ces niveaux (études de cas, cartes, croquis, données chiffrées récentes, sources historiques, articles de synthèse scientifique fiables) ; actualité scientifique en histoire et en géographie qui renouvelle un chapitre du programme ; didactique de l'histoire-géographie et de l'EMC ; tout ce qui concerne le Pacifique, l'Océanie et la Polynésie (histoire, risques, ressources, littoraux, insularité) ; usages pédagogiques de l'IA et du numérique en classe d'histoire-géographie. À ÉCARTER : actualité syndicale, carrière, gestion administrative ; recherche trop pointue pour être transposée au collège ou au lycée ; actualité politique sans lien avec un chapitre ou avec l'EMC ; enseignement supérieur sans transfert possible ; premier degré, sauf transfert direct vers la 6e ; sujets techniques sans usage pédagogique.",
@@ -8,49 +8,67 @@
  },
  "items": [
   {
-   "uid": "03cdae814a63406f",
-   "titre": "Variations climatiques au fil des siècles",
-   "source": "Les Clionautes",
-   "date": "2026-11-26",
-   "auteurs": "Adeline Abrioux Duong",
-   "url": "https://www.clionautes.org/variations-climatiques-au-fil-des-siecles.html",
-   "resume": "Café géographie autour de l’Atlas historique du climat. Une histoire climatique du monde. Publié en octobre 2026. Alexis Metzger est enseignant-chercheur en histoire et géographie des paysages à l’École de la nature et du paysage de Blois (INSA CVL). Il a publié 8 ouvrages et travaille à la croisée de l’histoire et la géographie du […]"
-  },
-  {
-   "uid": "3c8297c425c825f8",
-   "titre": "Innovation et souveraineté se jouent d’abord dans l’enseignement supérieur et la recherche",
-   "source": "The Conversation — Éducation",
-   "date": "2026-11-26",
-   "auteurs": "",
-   "url": "https://theconversation.com/innovation-et-souverainete-se-jouent-dabord-dans-lenseignement-superieur-et-la-recherche-296717",
-   "resume": "Les moyens par étudiant s’érodent année après année. Apparemment indolore, cette baisse devrait hypothéquer la croissance future de l’économie française."
-  },
-  {
-   "uid": "13186f1338b9fc7b",
-   "titre": "Knowledge constructed in class and with historians: a case study in middle school",
+   "uid": "953079c16a06b160",
+   "titre": "Prescriptions, libre choix et émotions : quel est le rôle de l’enseignant·e lecteur·ice dans la diversité des corpus littéraires enseignés ?",
    "source": "HAL",
-   "date": "2026-11-26",
-   "auteurs": "Sylvain Doussot",
-   "url": "https://hal.science/hal-04210455v1",
-   "resume": "Knowledge in history can be defined as an answer to the question: “why things happened just that way and not differently” (Koselleck, 1997). It means you don’t content yourself just with knowing that an event occurred, you explain the necessities and contingencies that lead to the event. Problematizing knowledge on a past event this way means going beyond a linear chronological explanation–in which what happened before the event accounts for what happened next–and exploring the possibilities that people were confronted with. In this article, the case of three middle-school students shows how knowledge management practices which are peculiar to the class can be expended to allow that type of "
+   "date": "2026-11-27",
+   "auteurs": "Anne-Claire Marpeau",
+   "url": "https://hal.science/hal-05885777v1",
+   "resume": "La sociologie de la littérature scolaire et la didactique de la littérature ont permis d’éclairer le décalage entre le corpus scolaire théorique implicite et le corpus pratique enseigné en classe (Viala, 2011). Les facteurs idéologiques et didactiques expliquant ce décalage entre corpus théorique enseignable et corpus pratique enseigné ont été à ce titre éclairés, notamment dans une perspective d’histoire littéraire et didactique (Jey et Perret, 2019 ; Louichon et Rouxel, 2010). Mais il semble que le facteur humain, celui que constituent la personnalité, les goûts, les émotions ou encore la posture de l’enseignant·e lecteur·ice reste peu étudié pour comprendre la diversité des corpus littéra"
   },
   {
-   "uid": "f4a3d597fb941f91",
-   "titre": "La didactique à l’ère de l’intelligence artificielle : vers un triangle didactique augmenté",
+   "uid": "8c591bd529d42940",
+   "titre": "Les parcours d’accès aux droits dans l’espace et dans le temps.",
    "source": "HAL",
-   "date": "2026-11-26",
-   "auteurs": "Mouad Chat, Ayoub Ait Ouaali, Achraf Youlyouz, Rachid Janati-Idrissi",
-   "url": "https://hal.science/hal-05883506v1",
-   "resume": "À l’ère de l’intelligence artificielle (IA), la didactique est appelée à repenser ses cadres conceptuels afin de mieux comprendre les transformations qui traversent aujourd’hui les situations d’enseignement-apprentissage. Cet article s’inscrit dans cette perspective en examinant l’évolution des modèles de la relation d’enseignement-apprentissage, du triangle pédagogique de Houssaye au triangle didactique, vers un modèle enrichi par l’intégration de l’IA. Si ces modèles ont longtemps permis de comprendre les relations fondamentales de la situation d’enseignement, ils apparaissent aujourd’hui insuffisants pour représenter le rôle des technologies numériques dans les environnements d’apprentiss"
+   "date": "2026-11-27",
+   "auteurs": "François Sorin, Pierre Mazet, Mickaël Le Mentec, Eugénie Terrier",
+   "url": "https://shs.hal.science/halshs-05883990v1",
+   "resume": "Ce document restitue de manière synthétique les principaux résultats de l’enquête RESPIRAE (Relations aux services publics : interroger les rapports d’éloignement) qui s’est déployée de janvier 2025 à mars 2026 dans un territoire situé dans le sud du département du Finistère (Région Bretagne)."
   },
   {
-   "uid": "198aec3bd9044541",
-   "titre": "IAG et conception e-learning en entreprise : quelles pratiques professionnelles et créatives chez les concepteurs pédagogiques multimédias ?",
+   "uid": "3dec0259065b340a",
+   "titre": "Relations aux services publics : interroger les rapports d'éloignement",
    "source": "HAL",
-   "date": "2026-11-26",
-   "auteurs": "Yuchen Chen",
-   "url": "https://hal.science/hal-05882493v1",
-   "resume": "Cette étude examine les pratiques créatives et professionnelles des concepteurs de modules e-learning en contexte d’entreprise. Le cadre conceptuel mobilise à la fois les modèles d’ingénierie pédagogique et la théorie de la créativité, en intégrant les recherches récentes sur l’usage de l’intelligence artificielle générative (IAG). Adoptant une approche qualitative, l’enquête repose sur cinq entretiens semi-directifs réalisés auprès de concepteurs aux parcours divers et exerçant au sein de structures variées en France. L’analyse thématique de contenu et des situations de conception met en évidence les stratégies institutionnelles d’intégration de l’IAG, les principales étapes du processus de"
+   "date": "2026-11-27",
+   "auteurs": "François Sorin, Pierre Mazet, Mickaël Le Mentec, Eugénie Terrier",
+   "url": "https://shs.hal.science/halshs-05883984v1",
+   "resume": "Ce rapport présente les résultats d’une enquête qualitative qui s’est déroulée dans un territoire du Sud Finistère (Région Bretagne). Cette recherche a été initiée dans le cadre d’une réponse à un appel à manifestation d’intérêt (AMI), porté par la Direction Interministérielle de la Transformation Publique (DITP) sur le thème de l’accès aux services publics, et dont le principal objectif était « d’enrichir la connaissance des usager.es les plus vulnérables et éloigné.es des services publics ». L’équipe de recherche pluridisciplinaire, en appui sur de précédents travaux et terrains, a proposé de traiter des facteurs de variation du « proche et du lointain » dans les rapports évolutifs des ind"
+  },
+  {
+   "uid": "3a1f8f53a8d99660",
+   "titre": "L'enfant, l'image et le manuel scolaire : médiations pédagogiques entre papier et numérique dans l’enseignement élémentaire en Côte d’Ivoire",
+   "source": "HAL",
+   "date": "2026-11-27",
+   "auteurs": "Alain Kouadio Konan",
+   "url": "https://theses.hal.science/tel-05885845v1",
+   "resume": "Cette thèse consacrée aux manuels scolaires dans l’enseignement élémentaire ivoirien analyse le rôle des illustrations dans les pratiques pédagogiques et leur évolution dans la transition vers le numérique. Elle mobilise un cadre théorique articulant sciences de l’information et de la communication et sciences de l’éducation, et s’appuie sur une méthodologie mixte : étude documentaire, observations de classes, questionnaire auprès de 108 enseignants et entretiens avec divers acteurs éducatifs dans le Grand Abidjan. La problématique s’inscrit dans une perspective critique et analytique des dynamiques autour des manuels et des images, confrontées à des enjeux de qualité, d’équité et d’adaptati"
+  },
+  {
+   "uid": "6987e450df2be15e",
+   "titre": "IA et Education : usages des IA chez les étudiants et approches d'évaluation des enseignants",
+   "source": "HAL",
+   "date": "2026-11-27",
+   "auteurs": "Sogodogo Maimouna",
+   "url": "https://hal.science/hal-05885786v1",
+   "resume": "L’évolution des systèmes de l’intelligence artificielle (IA) générative influence fortement les comportements et amplifie la transformation de la société dans son ensemble (Lombardo et Agostinelli, 2021). L’IA en tant que technologie de rupture a entrainé des changements sociétaux aussi importants que l’avènement d’Internet et du Web 2.0, bouleversant les approches dans tous les domaines de la vie, y compris celui de l’enseignement. L’enseignement contribue et façonne l’avenir et est dans le même temps influencé par la société (Lépine et al., 2023). Dans l’enseignement supérieur, l’intelligence artificielle est en train de bousculer les traditions académiques et universitaires en redéfinissa"
+  },
+  {
+   "uid": "f8533ebeaf119189",
+   "titre": "Environnements virtuels pour l’assistance à l’apprentissage du geste en odontologie",
+   "source": "HAL",
+   "date": "2026-11-27",
+   "auteurs": "Octave Bandiaky",
+   "url": "https://theses.hal.science/tel-05885769v1",
+   "resume": "Le projet de recherche EVAGO, porté par un consortium composé de trois laboratoires et d'un partenaire industriel, avait pour objectifs l'évaluation automatique du geste, l'enrichissement fonctionnel et pédagogique du simulateur Virteasy Dental®. Cette thèse présente les résultats de l'analyse de l'état de l'art dentaire dans les domaines des technologies immersives et haptiques, de l'évaluation de l'impact pédagogique du simulateur, tout en identifiant les données nécessaires pour la capture de mouvement. L'analyse de la littérature montre que les simulateurs haptiques contribuent à l'amélioration des compétences psychomotrices des étudiants, bien que leur impact reste limité dans certaines"
+  },
+  {
+   "uid": "59e96c4f63fae03c",
+   "titre": "Disinformation, Post-Truth, Politics, and Manipulation in the Age of Digital Technology and Artificial Intelligence",
+   "source": "HAL",
+   "date": "2026-11-27",
+   "auteurs": "Maïmouna Sogodogo",
+   "url": "https://hal.science/hal-05885666v1",
+   "resume": "In the post-truth era, disinformation is commonly used as a deliberate strategy, embedded at the heart of contemporary political dynamics. The development of artificial intelligence (AI), seen as a major turning point in this transformation, now makes it possible to massively generate disinformation content in the form of texts, images, or videos, sometimes identical to reality. This article offers a reflection on the emergence of disinformation in relation to post-truth politics and the dynamics of engagement on social media, in a context where fact-checking no longer appears to be a priority for politicians."
   }
  ]
 }
